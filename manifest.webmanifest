@@ -4,8 +4,8 @@
   "description": "把每一个微小的完成，变成看得见的光。",
   "start_url": "/zhengzheng-assistant/",
   "display": "standalone",
-  "background_color": "#eef2e8",
-  "theme_color": "#527b37",
+  "background_color": "#f1eff7",
+  "theme_color": "#7877ae",
   "share_target": {
     "action": "/zhengzheng-assistant/",
     "method": "GET",
