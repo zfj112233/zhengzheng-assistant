@@ -1,0 +1,33 @@
+name: Update Daily Hotspots
+
+on:
+  schedule:
+    # 北京时间每天 08:00 = UTC 00:00
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch daily hotspots
+        run: node scripts/fetch-daily-hotspots.mjs
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily hotspots"
+          file_pattern: data/hotspots.json public/data/hotspots.json
+        
