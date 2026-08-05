@@ -1,24 +1,15 @@
 {
-  "updatedAt": "2026-08-05T04:40:58.862Z",
+  "updatedAt": "2026-08-05T05:08:02.973Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
-    {
-      "title": "上海轨交警方抓获一名来沪观看演唱会的在逃人员",
-      "summary": "警民直通车上海官微8月5日消息，连日来，时代少年团“加冠礼”演唱会收官场在上海举办。上海轨交警方通过前端预警、精准防控，抓获一名乘坐地铁前往上海体育场观看演…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14878048.html",
-      "publishedAt": "2026-08-05T04:23:36.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
-      "topic": "社会"
-    },
     {
       "title": "“小票根”解锁多元场景 “电影+”激发消费新活力",
       "summary": "“小票根”解锁“吃、住、行、游、购、娱”多元场景",
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/08-04/10671506.shtml",
       "publishedAt": "2026-08-03T23:22:17.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "文化"
     },
     {
@@ -27,7 +18,7 @@
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672076.shtml",
       "publishedAt": "2026-08-04T23:31:20.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "科技"
     },
     {
@@ -36,7 +27,16 @@
       "source": "中新网",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672236.shtml",
       "publishedAt": "2026-08-05T03:46:58.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
+      "topic": "社会"
+    },
+    {
+      "title": "较早玩社媒的儿童学习成绩较差",
+      "summary": "一项研究发现，11-12 岁设立第一个社媒账户的学生，其数学和阅读测试成绩低于几年后才设立账户的学生。16 岁时两组学生的成绩差距相当于六个月的学习差距。研…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85004",
+      "publishedAt": "2026-08-04T12:41:54.000Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "社会"
     },
     {
@@ -45,7 +45,7 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-04/10671964.shtml",
       "publishedAt": "2026-08-04T12:46:57.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "社会"
     },
     {
@@ -54,7 +54,7 @@
       "source": "中新网",
       "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672227.shtml",
       "publishedAt": "2026-08-05T03:31:29.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "文化"
     },
     {
@@ -63,7 +63,7 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672137.shtml",
       "publishedAt": "2026-08-05T01:40:02.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "社会"
     },
     {
@@ -71,26 +71,26 @@
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
       "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E7%94%A8%E4%BB%A3%E7%A0%8117%E5%B0%8F%E6%97%B6%E5%88%A0%E5%85%89%E5%85%AC%E5%8F%B889TB%E6%95%B0%E6%8D%AE&sa=fyb_news",
-      "publishedAt": "2026-08-05T04:40:58.862Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "publishedAt": "2026-08-05T05:08:02.973Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "科技"
     },
     {
-      "title": "第14号台风“鲸鱼”已生成",
+      "title": "台风白海豚体型堪比东北三省",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%AC%AC14%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E9%B2%B8%E9%B1%BC%E2%80%9D%E5%B7%B2%E7%94%9F%E6%88%90&sa=fyb_news",
-      "publishedAt": "2026-08-05T04:40:58.862Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BD%93%E5%9E%8B%E5%A0%AA%E6%AF%94%E4%B8%9C%E5%8C%97%E4%B8%89%E7%9C%81&sa=fyb_news",
+      "publishedAt": "2026-08-05T05:08:02.973Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "社会"
     },
     {
-      "title": "宝明科技：HVLP4/5铜箔主要技术指标已完成厂内验证，正布局向下游客户送样",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14877984.html",
-      "publishedAt": "2026-08-05T03:54:40.000Z",
-      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "title": "惠普、华硕和宏碁开始少量使用长鑫内存",
+      "summary": "主要 PC 制造商惠普、华硕和宏碁开始少量使用长鑫的内存芯片。多家大型 PC 制造商已于今年年中完成了长鑫 DRAM 芯片的认证流程，开始在笔记本电脑中少量…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85007",
+      "publishedAt": "2026-08-04T16:10:31.000Z",
+      "fetchedAt": "2026-08-05T05:08:02.973Z",
       "topic": "科技"
     }
   ]
