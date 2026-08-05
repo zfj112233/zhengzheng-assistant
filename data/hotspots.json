@@ -1,87 +1,87 @@
 {
-  "updatedAt": "2026-08-04T07:08:33.727Z",
+  "updatedAt": "2026-08-05T02:34:10.733Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "什么是“黄金大外环”",
+      "title": "“以天下之利为利”",
       "summary": "百度热榜正在关注：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-08-04T07:08:33.727Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BB%A5%E5%A4%A9%E4%B8%8B%E4%B9%8B%E5%88%A9%E4%B8%BA%E5%88%A9%E2%80%9D&sa=fyb_news",
+      "publishedAt": "2026-08-05T02:34:10.733Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "吉伦特山火已成70多年来法国最严重山火",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "title": "最高人民法院政治部负责人就《关于进一步加强人民法院聘用制书记员管理工作的意见》答记者问",
+      "summary": "全面加强规范管理 持续激励担当作为",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/shipin/2026/08-04/news1064249.shtml",
-      "publishedAt": "2026-08-04T06:56:47.000Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://www.chinanews.com.cn/fz/2026/08-05/10672176.shtml",
+      "publishedAt": "2026-08-05T02:26:27.000Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "7月销量：洗牌进入深水区，新势力告别同质化混战",
-      "summary": "下半场刚开局，新势力之间的距离已经被重新拉开。",
+      "title": "增速1.1%、外贸第一，西安经济开始“换挡”？",
+      "summary": "新增长极正在形成，旧增长引擎却正在减速。",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14872226.html",
-      "publishedAt": "2026-08-04T06:54:57.000Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://www.jiemian.com/article/14876521.html",
+      "publishedAt": "2026-08-05T02:27:14.000Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "A股“股王”涨停",
+      "title": "44岁爸爸被女儿激将考上985研究生",
       "summary": "百度热榜正在关注：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C&sa=fyb_news",
-      "publishedAt": "2026-08-04T07:08:33.727Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://m.baidu.com/s?word=44%E5%B2%81%E7%88%B8%E7%88%B8%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%BF%80%E5%B0%86%E8%80%83%E4%B8%8A985%E7%A0%94%E7%A9%B6%E7%94%9F&sa=fyb_news",
+      "publishedAt": "2026-08-05T02:34:10.733Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "国家防减救灾委对黑龙江启动国家四级救灾应急响应",
-      "summary": "国家防灾减灾救灾委员会启动国家四级救灾应急响应 应急管理部持续指导黑龙江做好洪涝灾害救助工作",
+      "title": "聚焦可控核聚变和智能建造 中国科协年会举办两场关键材料专题论坛",
+      "summary": "中新网北京8月5日电 (记者 孙自法)第二十八届中国科协年会“可控核聚变关键材料/新一代核能关键材料”“智能建造关键无机非金属材料(智能水泥/玻璃等)”专题…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671714.shtml",
-      "publishedAt": "2026-08-04T06:53:21.000Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672170.shtml",
+      "publishedAt": "2026-08-05T02:22:47.000Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "江西发布雷电橙色预警",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "title": "国债ETF华夏(511100)冲击5连涨，近5个交易日合计“吸金”1.62亿元",
+      "summary": "截至2026年8月5日10:20，国债ETF华夏(511100)冲击5连涨。",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14872260.html",
-      "publishedAt": "2026-08-04T06:54:53.000Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://www.jiemian.com/article/14877100.html",
+      "publishedAt": "2026-08-05T02:26:34.000Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "国家出手 新能源汽车充电将全面升级",
+      "title": "韩国高温 李在明：进入国家灾难状态",
       "summary": "百度热榜正在关注：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7&sa=fyb_news",
-      "publishedAt": "2026-08-04T07:08:33.727Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E9%AB%98%E6%B8%A9+%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81&sa=fyb_news",
+      "publishedAt": "2026-08-05T02:34:10.733Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "韩国高温持续 李在明：应将当前状况视为国家灾难事态",
-      "summary": "中新网8月4日电 据韩联社报道，韩国总统李在明4日在国务会议上就全国范围内持续的高温天气表示：“应将当前状况视为国家灾难事态，请大家尽一切努力保护国民的生命…",
+      "title": "平孟海关大院室外总平变配电项目协商谈判采购公告",
+      "summary": "平孟海关需对大院室外总平变配电项目进行采购，采用协商谈判的方式择优选择服务单位，现将有关采购情况公告如下：",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671711.shtml",
-      "publishedAt": "2026-08-04T06:47:39.000Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672172.shtml",
+      "publishedAt": "2026-08-05T02:22:45.000Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "电影《年会不能停！2》总票房破亿",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "title": "证券板块异动拉升，锦龙股份涨停",
+      "summary": "，国盛证券、华安证券、长江证券、湘财股份跟涨。",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14872254.html",
-      "publishedAt": "2026-08-04T06:54:33.000Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://www.jiemian.com/article/14877095.html",
+      "publishedAt": "2026-08-05T02:26:09.000Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     },
     {
-      "title": "韦唯回忆10年跨国婚姻：完全就是上当",
+      "title": "“竹知了”事件的四点思考",
       "summary": "百度热榜正在关注：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E9%9F%A6%E5%94%AF%E5%9B%9E%E5%BF%8610%E5%B9%B4%E8%B7%A8%E5%9B%BD%E5%A9%9A%E5%A7%BB%EF%BC%9A%E5%AE%8C%E5%85%A8%E5%B0%B1%E6%98%AF%E4%B8%8A%E5%BD%93&sa=fyb_news",
-      "publishedAt": "2026-08-04T07:08:33.727Z",
-      "fetchedAt": "2026-08-04T07:08:33.727Z"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%AB%B9%E7%9F%A5%E4%BA%86%E2%80%9D%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%9B%9B%E7%82%B9%E6%80%9D%E8%80%83&sa=fyb_news",
+      "publishedAt": "2026-08-05T02:34:10.733Z",
+      "fetchedAt": "2026-08-05T02:34:10.733Z"
     }
   ]
 }
