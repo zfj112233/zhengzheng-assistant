@@ -30,4 +30,3 @@ jobs:
         with:
           commit_message: "chore: update daily hotspots"
           file_pattern: data/hotspots.json public/data/hotspots.json
-        
