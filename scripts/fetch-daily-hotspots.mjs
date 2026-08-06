@@ -240,6 +240,24 @@ try {
   previous = JSON.parse(await readFile(outFile, "utf8"));
 } catch {}
 
+function shanghaiDateKey(value) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date(value));
+}
+
+if (
+  process.env.GITHUB_EVENT_NAME === "schedule" &&
+  previous.updatedAt &&
+  shanghaiDateKey(previous.updatedAt) === shanghaiDateKey(now)
+) {
+  console.log(`Hotspots already updated today (${shanghaiDateKey(now)} Asia/Shanghai); skip backup scheduled run.`);
+  process.exit(0);
+}
+
 const items = pickDiverse(dedupeAndFilter(await collect()));
 const finalItems = items.length >= 10 ? items : pickDiverse(dedupeAndFilter([...items, ...(previous.items || [])]));
 

@@ -2,7 +2,10 @@ name: Update Daily Hotspots
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 北京时间每天 08:17 = UTC 00:17；避开 GitHub Actions 整点高峰
+    - cron: "17 0 * * *"
+    # 北京时间每天 08:47 = UTC 00:47；备用补跑，若当天已成功更新脚本会自动跳过
+    - cron: "47 0 * * *"
   workflow_dispatch:
 
 permissions:
