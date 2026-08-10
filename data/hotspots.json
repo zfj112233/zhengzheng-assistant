@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-08-09T02:05:31.881Z",
+  "updatedAt": "2026-08-10T02:09:52.083Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "首获安徒生奖插画奖的中国画家蔡皋：童书如桥让心相连",
-      "summary": "中新社北京8月8日电 (记者 应妮)“童书是一座座桥，这些桥，让文化与文化、心与心彼此相连。”中国画家蔡皋在第40届国际儿童读物联盟世界大会国际安徒生奖颁奖…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-08/10674323.shtml",
-      "publishedAt": "2026-08-08T12:05:48.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
+      "title": "云南省第十七届运动会昆明开幕 智慧办赛创历届之最",
+      "summary": "中新网昆明8月9日电 (时文枝)云南省第十七届运动会8日晚在昆明开幕。作为“十五五”开局之年云南省举办的首个大型综合性体育赛事，本届省运会通过科技赋能与机制…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674554.shtml",
+      "publishedAt": "2026-08-09T04:29:57.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "科技"
+    },
+    {
+      "title": "广东省运会暨残运会开幕 30名听障学生用手语“唱”国歌",
+      "summary": "中新网茂名8月10日电 (梁盛 梁天宇)主题为“南粤竞秀，茂盛新篇”的广东省第十七届运动会暨第十届残疾人运动会开幕式，9日晚在茂名奥体中心体育馆举行，冼东妹…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10674944.shtml",
+      "publishedAt": "2026-08-10T01:48:30.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
       "topic": "社会"
     },
     {
-      "title": "2026年度电影总票房突破240亿！中外佳片点亮夏日银幕",
-      "summary": "据网络平台数据",
+      "title": "穿汉服、看非遗 外国游客扎堆来华“深度文化游”",
+      "summary": "今年以来，随着我国入境免签政策持续发力，越来越多外国游客来到中国旅行。他们会选择什么样的旅游体验？",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-08/10674336.shtml",
-      "publishedAt": "2026-08-08T10:44:56.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674680.shtml",
+      "publishedAt": "2026-08-09T08:32:57.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "文化"
     },
     {
-      "title": "电影《奥德赛》点映及预售总票房突破6000万",
-      "summary": "据灯塔专业版实时数据，截至8月9日9时18分，影片《奥德赛》点映及预售总票房突破6000万。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14895328.html",
-      "publishedAt": "2026-08-09T01:23:11.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "科技"
+      "title": "暑期档电影票房持续走高 “电影+”业态激发消费活力",
+      "summary": "截至目前，2026暑期档电影票房已超80亿元。今年暑期档，多部影片表现亮眼，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》暂列暑期档票房前三位。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674696.shtml",
+      "publishedAt": "2026-08-09T09:09:39.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "文化"
     },
     {
-      "title": "电影《欢迎来龙餐馆》预售总票房破5000万",
-      "summary": "据灯塔专业版实时数据，截至8月9日6时12分，影片《欢迎来龙餐馆》点映及预售总票房突破5000万。 ​​​",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14895269.html",
-      "publishedAt": "2026-08-09T00:32:11.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "科技"
+      "title": "“不输世界任何地方！”中国动画电影何以底气十足",
+      "summary": "近年来，中国动画电影迎来高质量发展黄金期。依托深厚的中华文化底蕴、日趋成熟的工业化体系以及不断扩容的文化消费市场，中国动画电影已经具备比肩世界一流动画的综合…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10674959.shtml",
+      "publishedAt": "2026-08-10T01:45:40.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "文化"
     },
     {
-      "title": "这种手机壳可能是医疗垃圾做的",
+      "title": "晶采观察丨全民健身热持续升温 体育产业成经济活力新增长极",
+      "summary": "你有多久，没痛快地出过一次汗了？8月8日，第18个全民健身日如期而至，全国多地公共体育场馆向公众免费或低收费开放。然而，这一天的价值远非节省数十元门票可以概…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674859.shtml",
+      "publishedAt": "2026-08-09T14:41:28.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "文化"
+    },
+    {
+      "title": "台风登陆半小时前后判若两地",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84&sa=fyb_news",
-      "publishedAt": "2026-08-09T02:05:31.881Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%89%8D%E5%90%8E%E5%88%A4%E8%8B%A5%E4%B8%A4%E5%9C%B0&sa=fyb_news",
+      "publishedAt": "2026-08-10T02:09:52.083Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
       "topic": "社会"
     },
     {
-      "title": "“全民健身日”近400位中老年女性在穗共练中式瑜伽",
-      "summary": "中新网广州8月8日电 (记者 郭军)8月8日是我国第18个“全民健身日”。当天，“燃后新生·不惧年岁”中式瑜伽大会在广州举办，近400位中老年女性齐聚一堂，…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-08/10674416.shtml",
-      "publishedAt": "2026-08-08T13:01:43.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "社会"
+      "title": "两部门联合启动2026年度计量支撑产业新质生产力发展项目征集工作",
+      "summary": "本次项目征集围绕新一代信息技术、人工智能、航空航天、新能源、新材料、高端装备、生物医药、量子科技、集成电路、仪器仪表十大重点领域，聚焦产业链关键共性计量装备…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14897777.html",
+      "publishedAt": "2026-08-10T02:02:00.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "科技"
     },
     {
-      "title": "北京奥运城市体育文化节开幕",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/hd2011/2026/08-09/1200546.shtml",
-      "publishedAt": "2026-08-09T01:13:25.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "文化"
-    },
-    {
-      "title": "既传统也叛逆，非遗伴手礼这样圈粉年轻人",
-      "summary": "云南省楚雄彝族自治州火把节8月6日启幕，年轻人都穿上了早已备好的“战袍”。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674482.shtml",
-      "publishedAt": "2026-08-09T01:02:13.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "文化"
-    },
-    {
-      "title": "宁夏第十七届运动会暨第十届民族传统体育运动会开幕",
-      "summary": "中新社银川8月8日电 (记者 杨迪 李佩珊)8月8日晚，宁夏回族自治区第十七届运动会暨第十届民族传统体育运动会开幕式在银川览山公园举行。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674456.shtml",
-      "publishedAt": "2026-08-08T22:03:59.000Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "文化"
-    },
-    {
-      "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+      "title": "台风登陆 玻璃上吹来八爪鱼三文鱼",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E&sa=fyb_news",
-      "publishedAt": "2026-08-09T02:05:31.881Z",
-      "fetchedAt": "2026-08-09T02:05:31.881Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86+%E7%8E%BB%E7%92%83%E4%B8%8A%E5%90%B9%E6%9D%A5%E5%85%AB%E7%88%AA%E9%B1%BC%E4%B8%89%E6%96%87%E9%B1%BC&sa=fyb_news",
+      "publishedAt": "2026-08-10T02:09:52.083Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "社会"
+    },
+    {
+      "title": "台风“白海豚”登陆地点和顺序与台风“巴威”相同",
+      "summary": "今年第13号台风“白海豚”昨日（8月9日）先在浙江省台州玉环登陆，后又在浙江乐清二次登陆，登陆的地点和顺序与之前的台风“巴威”相同，登陆强度略强于“巴威”。…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14897902.html",
+      "publishedAt": "2026-08-10T02:08:59.000Z",
+      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "topic": "社会"
     }
   ]
 }
