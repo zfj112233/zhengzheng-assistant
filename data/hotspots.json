@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-10T02:09:52.083Z",
+  "updatedAt": "2026-08-11T02:04:30.135Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "云南省第十七届运动会昆明开幕 智慧办赛创历届之最",
-      "summary": "中新网昆明8月9日电 (时文枝)云南省第十七届运动会8日晚在昆明开幕。作为“十五五”开局之年云南省举办的首个大型综合性体育赛事，本届省运会通过科技赋能与机制…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674554.shtml",
-      "publishedAt": "2026-08-09T04:29:57.000Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "title": "1元撬动15.77元！银幕之外，千亿级市场全面爆发！",
+      "summary": "根据网络平台数据，截至8月9日18时30分，2026年暑期档电影票房(含预售)达85.24亿元，同比增长3.47%；放映场次3046.3万场，同比增长7%；…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675240.shtml",
+      "publishedAt": "2026-08-10T08:44:44.000Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
+      "topic": "科技"
+    },
+    {
+      "title": "百花奖首设AIGC推优单元 6部获推优荣誉",
+      "summary": "中新网北京8月10日电 (记者 尹倩芸)第38届大众电影百花奖配套活动AIGC推优单元荣誉盛典于8日在北京举行。今年是百花奖创办64年来首次设立AIGC影像…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675067.shtml",
+      "publishedAt": "2026-08-10T03:49:09.000Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
       "topic": "科技"
     },
     {
       "title": "广东省运会暨残运会开幕 30名听障学生用手语“唱”国歌",
       "summary": "中新网茂名8月10日电 (梁盛 梁天宇)主题为“南粤竞秀，茂盛新篇”的广东省第十七届运动会暨第十届残疾人运动会开幕式，9日晚在茂名奥体中心体育馆举行，冼东妹…",
-      "source": "中新网",
+      "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-10/10674944.shtml",
       "publishedAt": "2026-08-10T01:48:30.000Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
       "topic": "社会"
     },
     {
-      "title": "穿汉服、看非遗 外国游客扎堆来华“深度文化游”",
-      "summary": "今年以来，随着我国入境免签政策持续发力，越来越多外国游客来到中国旅行。他们会选择什么样的旅游体验？",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674680.shtml",
-      "publishedAt": "2026-08-09T08:32:57.000Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
-      "topic": "文化"
-    },
-    {
-      "title": "暑期档电影票房持续走高 “电影+”业态激发消费活力",
-      "summary": "截至目前，2026暑期档电影票房已超80亿元。今年暑期档，多部影片表现亮眼，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》暂列暑期档票房前三位。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-09/10674696.shtml",
-      "publishedAt": "2026-08-09T09:09:39.000Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
-      "topic": "文化"
+      "title": "外媒：哥伦比亚强震已致132人死亡570人受伤",
+      "summary": "中新网8月11日电 据美国有线电视新闻网(CNN)报道，哥伦比亚城市首府协会称，当地时间10日发生的7.4级地震已造成至少132人死亡、570人受伤。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675516.shtml",
+      "publishedAt": "2026-08-11T01:35:04.000Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
+      "topic": "社会"
     },
     {
       "title": "“不输世界任何地方！”中国动画电影何以底气十足",
@@ -54,17 +54,17 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-09/10674859.shtml",
       "publishedAt": "2026-08-09T14:41:28.000Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
       "topic": "文化"
     },
     {
-      "title": "台风登陆半小时前后判若两地",
+      "title": "扎克伯格发长文谈AI",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%89%8D%E5%90%8E%E5%88%A4%E8%8B%A5%E4%B8%A4%E5%9C%B0&sa=fyb_news",
-      "publishedAt": "2026-08-10T02:09:52.083Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88AI&sa=fyb_news",
+      "publishedAt": "2026-08-11T02:04:30.135Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
+      "topic": "科技"
     },
     {
       "title": "两部门联合启动2026年度计量支撑产业新质生产力发展项目征集工作",
@@ -76,12 +76,12 @@
       "topic": "科技"
     },
     {
-      "title": "台风登陆 玻璃上吹来八爪鱼三文鱼",
+      "title": "第一次见有人撸台风羊毛",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86+%E7%8E%BB%E7%92%83%E4%B8%8A%E5%90%B9%E6%9D%A5%E5%85%AB%E7%88%AA%E9%B1%BC%E4%B8%89%E6%96%87%E9%B1%BC&sa=fyb_news",
-      "publishedAt": "2026-08-10T02:09:52.083Z",
-      "fetchedAt": "2026-08-10T02:09:52.083Z",
+      "url": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%9C%89%E4%BA%BA%E6%92%B8%E5%8F%B0%E9%A3%8E%E7%BE%8A%E6%AF%9B&sa=fyb_news",
+      "publishedAt": "2026-08-11T02:04:30.135Z",
+      "fetchedAt": "2026-08-11T02:04:30.135Z",
       "topic": "社会"
     },
     {
