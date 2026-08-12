@@ -2,10 +2,14 @@ name: Update Daily Hotspots
 
 on:
   schedule:
-    # 北京时间每天 08:17 = UTC 00:17；避开 GitHub Actions 整点高峰
-    - cron: "17 0 * * *"
-    # 北京时间每天 08:47 = UTC 00:47；备用补跑，若当天已成功更新脚本会自动跳过
-    - cron: "47 0 * * *"
+    # Beijing time 05:55 = UTC 21:55 (previous day). Run early so GitHub delay still lands before 08:00.
+    - cron: "55 21 * * *"
+    # Beijing time 06:07 = UTC 22:07. Backup attempt.
+    - cron: "7 22 * * *"
+    # Beijing time 06:22 = UTC 22:22. Backup attempt.
+    - cron: "22 22 * * *"
+    # Beijing time 06:37 = UTC 22:37. Backup attempt.
+    - cron: "37 22 * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,97 +1,70 @@
 {
-  "updatedAt": "2026-08-12T02:21:40.306Z",
+  "updatedAt": "2026-08-06T02:33:42.623Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "成都打工人扎堆“夜间上墙” 潮流运动点亮夏夜夜经济",
-      "summary": "中新网成都8月11日电 (记者 何浠)近日，成都夜间运动新风潮悄然兴起，告别下班后居家刷手机、久坐的传统休闲模式，越来越多职场年轻人走进室内攀岩馆，解锁“下…",
+      "title": "上海轨交警方抓获一名来沪观看演唱会的在逃人员",
+      "summary": "警民直通车上海官微8月5日消息，连日来，时代少年团“加冠礼”演唱会收官场在上海举办。上海轨交警方通过前端预警、精准防控，抓获一名乘坐地铁前往上海体育场观看演…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14878048.html",
+      "publishedAt": "2026-08-05T04:23:36.000Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "topic": "社会"
+    },
+    {
+      "title": "AI音乐遍地生长，法律边界在何处？",
+      "summary": "(文化只眼)",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-05/10672076.shtml",
+      "publishedAt": "2026-08-04T23:31:20.000Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "topic": "科技"
+    },
+    {
+      "title": "今年新疆霍尔果斯公路口岸出入境人员突破100万人次",
+      "summary": "据霍尔果斯出入境边防检查站发布的数据，今年以来，霍尔果斯公路口岸出入境人员跨境出行、商贸往来热度持续攀升，截至8月4日，今年经霍尔果斯公路口岸出入境旅客已突…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-05/10672236.shtml",
+      "publishedAt": "2026-08-05T03:46:58.000Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "topic": "社会"
+    },
+    {
+      "title": "美国宾州足球青年在海南以球会友",
+      "summary": "中新网海口8月5日电 (记者 王晓斌 李宇凡)美国宾夕法尼亚州大学生足球队访琼交流活动开营仪式，8月4日在海南英雅盛彼德学校举行。来自美国的20名师生代表将…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675741.shtml",
-      "publishedAt": "2026-08-11T06:55:07.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672137.shtml",
+      "publishedAt": "2026-08-05T01:40:02.000Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "topic": "社会"
     },
     {
-      "title": "2026年度电影总票房突破245亿！国产电影强势领跑",
-      "summary": "据网络平台数据",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10675755.shtml",
-      "publishedAt": "2026-08-11T07:08:09.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "科技"
-    },
-    {
-      "title": "成龙哈尔滨寄语青年电影人：走出去，认识自身的文化与创作优势",
-      "summary": "中新网哈尔滨8月11日电 (刘锡菊 赵宇航)11日，“成龙电影A计划·全球青年影像行动”启动仪式在哈尔滨举行。香港功夫电影标志性人物、国际功夫电影明星成龙出…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10676018.shtml",
-      "publishedAt": "2026-08-11T14:15:28.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
+      "title": "力量与速度的碰撞 广东省运会手球甲组赛事在信宜开战",
+      "summary": "中新网茂名8月5日电 (梁盛 高干)广东省第十七届运动会竞技体育组手球项目甲组比赛，4日至10日在茂名信宜市绍秀体育馆开战，来自广东8个地级市代表队的200…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-05/10672227.shtml",
+      "publishedAt": "2026-08-05T03:31:29.000Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
       "topic": "文化"
     },
     {
-      "title": "应对台风“白海豚” 各地多举措保障百姓“菜篮子”",
-      "summary": "受今年第十三号台风“白海豚”及其残余环流影响，我国多地发生强降雨。商务部第一时间启动应急响应，跟踪市场运行情况，指导受影响地区加大生活必需品货源组织力度。做…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676189.shtml",
-      "publishedAt": "2026-08-12T02:09:13.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "社会"
-    },
-    {
-      "title": "2026环阿尔泰山体育旅游交流大会在新疆举办",
-      "summary": "【中亚专线】",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10676008.shtml",
-      "publishedAt": "2026-08-11T13:59:26.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "文化"
-    },
-    {
-      "title": "最高人民法院发布商业特许经营典型案例",
-      "summary": "中新网8月12日电 据最高人民法院微博消息，8月12日，最高人民法院发布7件关于特许经营的典型案例。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676183.shtml",
-      "publishedAt": "2026-08-12T02:03:12.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "社会"
-    },
-    {
-      "title": "台风过境浙江舟山1500艘渔船出海开捕",
+      "title": "员工用代码17小时删光公司89TB数据",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%A2%83%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B11500%E8%89%98%E6%B8%94%E8%88%B9%E5%87%BA%E6%B5%B7%E5%BC%80%E6%8D%95&sa=fyb_news",
-      "publishedAt": "2026-08-12T02:21:40.306Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "社会"
-    },
-    {
-      "title": "储能产业链涨价，AI与消费税各拉一头",
-      "summary": "7月以来，已有10余家储能产业链上下游企业发布调价函。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14903281.html",
-      "publishedAt": "2026-08-12T02:10:42.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
+      "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E7%94%A8%E4%BB%A3%E7%A0%8117%E5%B0%8F%E6%97%B6%E5%88%A0%E5%85%89%E5%85%AC%E5%8F%B889TB%E6%95%B0%E6%8D%AE&sa=fyb_news",
+      "publishedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
       "topic": "科技"
     },
     {
-      "title": "净利翻倍，工业富联还是“代工厂”吗？",
-      "summary": "AI服务器放大了工业富联的制造能力，也把一个更难回答的问题推到市场面前。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14910025.html",
-      "publishedAt": "2026-08-12T02:10:28.000Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "科技"
-    },
-    {
-      "title": "聋人演员表白沈腾蒋奇明",
+      "title": "第14号台风“鲸鱼”已生成",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%81%8B%E4%BA%BA%E6%BC%94%E5%91%98%E8%A1%A8%E7%99%BD%E6%B2%88%E8%85%BE%E8%92%8B%E5%A5%87%E6%98%8E&sa=fyb_news",
-      "publishedAt": "2026-08-12T02:21:40.306Z",
-      "fetchedAt": "2026-08-12T02:21:40.306Z",
-      "topic": "娱乐"
+      "url": "https://m.baidu.com/s?word=%E7%AC%AC14%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E9%B2%B8%E9%B1%BC%E2%80%9D%E5%B7%B2%E7%94%9F%E6%88%90&sa=fyb_news",
+      "publishedAt": "2026-08-05T04:40:58.862Z",
+      "fetchedAt": "2026-08-05T04:40:58.862Z",
+      "topic": "社会"
     }
   ]
 }

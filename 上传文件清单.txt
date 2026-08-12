@@ -1,5 +1,8 @@
-﻿上传时请把本文件夹里的全部内容一起拖到 GitHub upload/main 页面。
-必须包含隐藏文件夹 .github，否则每日热点不会自动更新。
-必须包含 scripts 文件夹，否则 workflow 会找不到抓取脚本。
-必须包含 data/hotspots.json，否则前端没有热点数据文件。
-上传后到 Actions -> Update Daily Hotspots -> Run workflow 手动运行一次验证。
+﻿本次更新：
+1. 删除重要提醒模块入口。
+2. 今日事今日毕新增红灯置顶：点亮后事项置顶并变红。
+3. 麦克风按钮改为提示：支持输入法语音键盘模式，打开后可直接语音输入。
+4. 突破壁垒 GitHub Actions 提前两小时运行，显示仍保持北京时间 8 点前后。
+5. 英语学习新增我的收藏，可收藏每日单词、句子、AI 编码表达。
+
+上传时请把本文件夹内所有内容一次性拖进 GitHub Upload 页面，等待全部文件列出后再 Commit changes。
