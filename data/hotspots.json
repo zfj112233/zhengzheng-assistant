@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-08-13T02:23:56.055Z",
+  "updatedAt": "2026-08-14T02:21:46.327Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "从“好好吃饭”到珍视和平 《欢迎来龙餐馆》成都路演引共鸣",
-      "summary": "中新网8月12日电 (杨予頔)“成都不光好吃、好玩，而且是个幸福指数特别高的城市，所以观众才能这么热情、拥有这么好的心态。”12日，电影《欢迎来龙餐馆》主创…",
+      "title": "《四时江南》在沪发布：一部用四季串起的江南生活美学指南",
+      "summary": "中新网上海8月13日电 (记者 许婧)正在此间举行的2026上海书展上，由上海交通大学出版社出版的《四时江南：传统风物与生活美学》新书发布会在书展现场举办。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676488.shtml",
-      "publishedAt": "2026-08-12T09:53:12.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "文化"
-    },
-    {
-      "title": "综艺《不想睡的星期五》定档 聚焦城市夜间消费新图景",
-      "summary": "中新网长沙8月12日电 (记者 邓霞)当工作日的秩序退场，周五夜晚应当如何度过？湖南卫视与芒果TV联合打造的新奇夜生活探访真人秀《不想睡的星期五》正式定档，…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676686.shtml",
-      "publishedAt": "2026-08-12T14:50:12.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "娱乐"
-    },
-    {
-      "title": "美国7月消费者价格指数环比上涨 通胀仍处高位",
-      "summary": "美国劳工部12日发布的数据显示，美国7月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.1%，6月出现的环比下降未能持续。扣除食品和能源，美国7月核心…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676787.shtml",
-      "publishedAt": "2026-08-13T02:01:07.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "科技"
-    },
-    {
-      "title": "侵扰民众生活的“公害” AI外呼乱象亟待治理",
-      "summary": "AI外呼乱象亟待治理",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676774.shtml",
-      "publishedAt": "2026-08-13T01:47:22.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "科技"
-    },
-    {
-      "title": "武大靖出任中国短道速滑队主教练",
-      "summary": "国家体育总局冬季运动管理中心刚刚宣布，经公开选聘，冬奥冠军。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676352.shtml",
-      "publishedAt": "2026-08-12T06:19:28.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "文化"
-    },
-    {
-      "title": "有自媒体恶意拉踩、攻击运动员 国家体育总局体操中心发声",
-      "summary": "中新网8月12日电 据“中国体操协会”微信公众号消息，国家体育总局体操运动管理中心8月11日晚发布声明称，近期，国家体育总局体操运动管理中心(以下简称体操中…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676203.shtml",
-      "publishedAt": "2026-08-12T02:48:23.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "文化"
-    },
-    {
-      "title": "浙江一公司收到美国2.62亿元关税退税",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD2.62%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news",
-      "publishedAt": "2026-08-13T02:23:56.055Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "公共新闻"
-    },
-    {
-      "title": "AI选秀喧嚣过后，一场没有“真人”的追星游戏？",
-      "summary": "当新鲜感褪去，这场流量狂欢留给行业的，是一连串关于商业与内容本质的冷思考。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14914255.html",
-      "publishedAt": "2026-08-13T02:16:03.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
-      "topic": "科技"
-    },
-    {
-      "title": "台风天临时请假1小时被罚近1500元",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E4%B8%B4%E6%97%B6%E8%AF%B7%E5%81%871%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A%E8%BF%911500%E5%85%83&sa=fyb_news",
-      "publishedAt": "2026-08-13T02:23:56.055Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10676963.shtml",
+      "publishedAt": "2026-08-13T05:58:11.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
       "topic": "社会"
     },
     {
-      "title": "AI版支付宝“阿宝”鸿蒙版逐步开放测试",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "title": "“跟着电影去旅游”成暑期新时尚 影旅融合激活消费新动能",
+      "summary": "中新网石嘴山8月14日电 题：",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677426.shtml",
+      "publishedAt": "2026-08-14T01:50:00.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "文化"
+    },
+    {
+      "title": "开局起步“十五五”：海南做优三篇消费文章",
+      "summary": "中新网海口8月14日电 (张茜翼 张芷懿)到海南，买全球精品、享全球医疗、学全球专业，正在从愿景变为现实。海南近日出台的《“十五五”海南国际旅游消费中心规划…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677418.shtml",
+      "publishedAt": "2026-08-14T01:44:26.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "社会"
+    },
+    {
+      "title": "评论：华流就是顶流！成龙让全球影迷爱上中国功夫",
+      "summary": "中新网哈尔滨8月13日电 (记者 王琳)8月12日晚的哈尔滨大雨滂沱，第七届成龙国际动作电影周星光闪烁。一代又一代电影人在雨中体会，何为英雄，何为江湖。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10677312.shtml",
+      "publishedAt": "2026-08-13T14:12:15.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "文化"
+    },
+    {
+      "title": "深耕特色赛事IP，2026丽水国际轮滑赛收官",
+      "summary": "中新网8月13日电 以“四季丽水、全域轮滑”为主题的2026丽水国际轮滑赛12日在浙江省丽水全民健身中心收官，来自24个国家和地区的2000多名运动员及随行…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677326.shtml",
+      "publishedAt": "2026-08-13T14:51:43.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "文化"
+    },
+    {
+      "title": "广东省运会首设铁人三项赛事 开赛首日深圳队包揽四金",
+      "summary": "中新网茂名8月13日电(梁盛 杨珮珮)广东省第十七届运动会铁人三项比赛12日在茂名露天矿生态公园开赛，深圳队表现亮眼，四个组别赛事夺得4金1银2铜。",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676780.shtml",
+      "publishedAt": "2026-08-13T01:54:10.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "文化"
+    },
+    {
+      "title": "四川内江隆昌市发生3.6级地震",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E9%9A%86%E6%98%8C%E5%B8%82%E5%8F%91%E7%94%9F3.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
+      "publishedAt": "2026-08-14T02:21:46.327Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "社会"
+    },
+    {
+      "title": "河北承德市滦平县发生2.4级地震",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E6%89%BF%E5%BE%B7%E5%B8%82%E6%BB%A6%E5%B9%B3%E5%8E%BF%E5%8F%91%E7%94%9F2.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
+      "publishedAt": "2026-08-14T02:21:46.327Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "社会"
+    },
+    {
+      "title": "航锦科技(000818.SZ)2026年中报净利润为4986.30万元、较去年同期上涨263.32%",
+      "summary": "2026年8月14日，航锦科技(000818.SZ)发布2026年中报，营业总收入为14.47亿元，同比较去年同期下降34.68%，归母净利润为4986.3…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14916142.html",
-      "publishedAt": "2026-08-13T02:09:18.000Z",
-      "fetchedAt": "2026-08-13T02:23:56.055Z",
+      "url": "https://www.jiemian.com/article/14921761.html",
+      "publishedAt": "2026-08-14T02:18:43.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "topic": "科技"
+    },
+    {
+      "title": "大豪科技(603025.SH)2026年中报净利润为5.32亿元、较去年同期上涨33.45%",
+      "summary": "2026年8月14日，大豪科技(603025.SH)发布2026年中报，营业总收入为18.30亿元，同比较去年同期上涨23.36%，归母净利润为5.32亿元…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14921813.html",
+      "publishedAt": "2026-08-14T02:17:50.000Z",
+      "fetchedAt": "2026-08-14T02:21:46.327Z",
       "topic": "科技"
     }
   ]
