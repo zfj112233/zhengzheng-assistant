@@ -1,34 +1,16 @@
 {
-  "updatedAt": "2026-08-14T02:21:46.327Z",
+  "updatedAt": "2026-08-15T01:33:59.288Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "《四时江南》在沪发布：一部用四季串起的江南生活美学指南",
-      "summary": "中新网上海8月13日电 (记者 许婧)正在此间举行的2026上海书展上，由上海交通大学出版社出版的《四时江南：传统风物与生活美学》新书发布会在书展现场举办。",
+      "title": "2026年度电影总票房突破250亿！连续34天单日票房过亿",
+      "summary": "据网络平台数据",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10676963.shtml",
-      "publishedAt": "2026-08-13T05:58:11.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
-      "topic": "社会"
-    },
-    {
-      "title": "“跟着电影去旅游”成暑期新时尚 影旅融合激活消费新动能",
-      "summary": "中新网石嘴山8月14日电 题：",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677426.shtml",
-      "publishedAt": "2026-08-14T01:50:00.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
-      "topic": "文化"
-    },
-    {
-      "title": "开局起步“十五五”：海南做优三篇消费文章",
-      "summary": "中新网海口8月14日电 (张茜翼 张芷懿)到海南，买全球精品、享全球医疗、学全球专业，正在从愿景变为现实。海南近日出台的《“十五五”海南国际旅游消费中心规划…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677418.shtml",
-      "publishedAt": "2026-08-14T01:44:26.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
-      "topic": "社会"
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677566.shtml",
+      "publishedAt": "2026-08-14T05:02:11.000Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "topic": "科技"
     },
     {
       "title": "评论：华流就是顶流！成龙让全球影迷爱上中国功夫",
@@ -36,7 +18,7 @@
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/08-13/10677312.shtml",
       "publishedAt": "2026-08-13T14:12:15.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
       "topic": "文化"
     },
     {
@@ -45,53 +27,71 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677326.shtml",
       "publishedAt": "2026-08-13T14:51:43.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
       "topic": "文化"
     },
     {
-      "title": "广东省运会首设铁人三项赛事 开赛首日深圳队包揽四金",
-      "summary": "中新网茂名8月13日电(梁盛 杨珮珮)广东省第十七届运动会铁人三项比赛12日在茂名露天矿生态公园开赛，深圳队表现亮眼，四个组别赛事夺得4金1银2铜。",
+      "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
+      "summary": "中新社华盛顿8月14日电 (记者 沙晗汀)美国商务部当地时间14日公布数据显示，美国7月零售销售额环比下降0.6%，创一年来最大环比跌幅，低于市场普遍预期。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
+      "publishedAt": "2026-08-14T22:50:38.000Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "topic": "科技"
+    },
+    {
+      "title": "美国经济数据降温推动金价反弹，趋势性上涨条件尚不充分",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14927118.html",
+      "publishedAt": "2026-08-15T00:39:02.000Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "topic": "科技"
+    },
+    {
+      "title": "广东省运会乒乓球比赛开赛 627名小将角逐31枚金牌",
+      "summary": "中新网茂名8月14日电 (梁盛 李虹 吴伟强)13日至20日，广东省第十七届运动会竞技体育组乒乓球项目比赛在茂名高州市体育中心体育馆挥拍开赛。来自广州、深圳…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10676780.shtml",
-      "publishedAt": "2026-08-13T01:54:10.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10677792.shtml",
+      "publishedAt": "2026-08-14T10:40:34.000Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
       "topic": "文化"
     },
     {
-      "title": "四川内江隆昌市发生3.6级地震",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E9%9A%86%E6%98%8C%E5%B8%82%E5%8F%91%E7%94%9F3.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
-      "publishedAt": "2026-08-14T02:21:46.327Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "title": "美国联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
+      "summary": "中新社纽约8月14日电 美国联合健康集团高管枪杀案的嫌疑人路易吉·曼吉奥内14日在纽约曼哈顿就两项联邦指控表示认罪。这两项指控最高可判处终身监禁。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678019.shtml",
+      "publishedAt": "2026-08-14T23:13:14.000Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "美国密歇根州发生枪击事件，已致包含嫌犯在内6人死亡",
+      "summary": "当地时间8月14日，美国密歇根州米索基县发生一起枪击事件，造成5人死亡、1人受伤。此外，39岁的嫌疑人查德·希克曼也确认死亡。密歇根州警方表示，警员接到一处…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14927107.html",
+      "publishedAt": "2026-08-15T00:20:27.000Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
       "topic": "社会"
     },
     {
-      "title": "河北承德市滦平县发生2.4级地震",
+      "title": "暴雨洪涝过后 喝水千万别大意",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E6%89%BF%E5%BE%B7%E5%B8%82%E6%BB%A6%E5%B9%B3%E5%8E%BF%E5%8F%91%E7%94%9F2.4%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
-      "publishedAt": "2026-08-14T02:21:46.327Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
+      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E8%BF%87%E5%90%8E+%E5%96%9D%E6%B0%B4%E5%8D%83%E4%B8%87%E5%88%AB%E5%A4%A7%E6%84%8F&sa=fyb_news",
+      "publishedAt": "2026-08-15T01:33:59.288Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
       "topic": "社会"
     },
     {
-      "title": "航锦科技(000818.SZ)2026年中报净利润为4986.30万元、较去年同期上涨263.32%",
-      "summary": "2026年8月14日，航锦科技(000818.SZ)发布2026年中报，营业总收入为14.47亿元，同比较去年同期下降34.68%，归母净利润为4986.3…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14921761.html",
-      "publishedAt": "2026-08-14T02:18:43.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
-      "topic": "科技"
-    },
-    {
-      "title": "大豪科技(603025.SH)2026年中报净利润为5.32亿元、较去年同期上涨33.45%",
-      "summary": "2026年8月14日，大豪科技(603025.SH)发布2026年中报，营业总收入为18.30亿元，同比较去年同期上涨23.36%，归母净利润为5.32亿元…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14921813.html",
-      "publishedAt": "2026-08-14T02:17:50.000Z",
-      "fetchedAt": "2026-08-14T02:21:46.327Z",
-      "topic": "科技"
+      "title": "印尼7.7级地震引发海啸",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8&sa=fyb_news",
+      "publishedAt": "2026-08-15T01:33:59.288Z",
+      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "topic": "社会"
     }
   ]
 }
