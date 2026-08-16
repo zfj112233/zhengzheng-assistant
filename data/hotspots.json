@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-08-15T01:33:59.288Z",
+  "updatedAt": "2026-08-16T01:40:35.492Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "2026年度电影总票房突破250亿！连续34天单日票房过亿",
+      "title": "中韩专家学者共话儒家经典现实应用",
+      "summary": "中新网济南8月15日电(周艺伟)“在儒家传统中，经典不仅是知识的简单积累，更是提供生活伦理标准与社会秩序原理的规范性文本。经典诠释不是单纯的字句辨析，而是一…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678350.shtml",
+      "publishedAt": "2026-08-15T11:57:29.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "社会"
+    },
+    {
+      "title": "2026暑期档电影票房超95亿 “下半场”势头依旧强劲",
       "summary": "据网络平台数据",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677566.shtml",
-      "publishedAt": "2026-08-14T05:02:11.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678329.shtml",
+      "publishedAt": "2026-08-15T11:40:16.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
       "topic": "科技"
     },
     {
-      "title": "评论：华流就是顶流！成龙让全球影迷爱上中国功夫",
-      "summary": "中新网哈尔滨8月13日电 (记者 王琳)8月12日晚的哈尔滨大雨滂沱，第七届成龙国际动作电影周星光闪烁。一代又一代电影人在雨中体会，何为英雄，何为江湖。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10677312.shtml",
-      "publishedAt": "2026-08-13T14:12:15.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "文化"
-    },
-    {
-      "title": "深耕特色赛事IP，2026丽水国际轮滑赛收官",
-      "summary": "中新网8月13日电 以“四季丽水、全域轮滑”为主题的2026丽水国际轮滑赛12日在浙江省丽水全民健身中心收官，来自24个国家和地区的2000多名运动员及随行…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677326.shtml",
-      "publishedAt": "2026-08-13T14:51:43.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "文化"
-    },
-    {
-      "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
-      "summary": "中新社华盛顿8月14日电 (记者 沙晗汀)美国商务部当地时间14日公布数据显示，美国7月零售销售额环比下降0.6%，创一年来最大环比跌幅，低于市场普遍预期。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
-      "publishedAt": "2026-08-14T22:50:38.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "科技"
-    },
-    {
-      "title": "美国经济数据降温推动金价反弹，趋势性上涨条件尚不充分",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "title": "美国印第安纳州遭遇恶劣天气，至少5人死亡",
+      "summary": "当地时间8月15日消息，美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。过去一周，该州连降暴雨，导致多条河流的水位创下历史新高，迫使居…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14927118.html",
-      "publishedAt": "2026-08-15T00:39:02.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "科技"
-    },
-    {
-      "title": "广东省运会乒乓球比赛开赛 627名小将角逐31枚金牌",
-      "summary": "中新网茂名8月14日电 (梁盛 李虹 吴伟强)13日至20日，广东省第十七届运动会竞技体育组乒乓球项目比赛在茂名高州市体育中心体育馆挥拍开赛。来自广州、深圳…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10677792.shtml",
-      "publishedAt": "2026-08-14T10:40:34.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "文化"
-    },
-    {
-      "title": "美国联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
-      "summary": "中新社纽约8月14日电 美国联合健康集团高管枪杀案的嫌疑人路易吉·曼吉奥内14日在纽约曼哈顿就两项联邦指控表示认罪。这两项指控最高可判处终身监禁。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678019.shtml",
-      "publishedAt": "2026-08-14T23:13:14.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "生活方式"
-    },
-    {
-      "title": "美国密歇根州发生枪击事件，已致包含嫌犯在内6人死亡",
-      "summary": "当地时间8月14日，美国密歇根州米索基县发生一起枪击事件，造成5人死亡、1人受伤。此外，39岁的嫌疑人查德·希克曼也确认死亡。密歇根州警方表示，警员接到一处…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14927107.html",
-      "publishedAt": "2026-08-15T00:20:27.000Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
+      "url": "https://www.jiemian.com/article/14928145.html",
+      "publishedAt": "2026-08-15T22:56:10.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
       "topic": "社会"
     },
     {
-      "title": "暴雨洪涝过后 喝水千万别大意",
+      "title": "2026海峡两岸（福州）青少年科技教育交流会在福州开幕",
+      "summary": "中新社福州8月15日电 (叶秋云)2026海峡两岸(福州)青少年科技教育交流会15日在福州开幕。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678434.shtml",
+      "publishedAt": "2026-08-15T15:30:01.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "社会"
+    },
+    {
+      "title": "警方通报“青岛大学新校徽被指像旭日旗”：一男子利用AI造谣被行拘并罚款",
+      "summary": "崂山公安8月16日发布警情通报，近日，该局接到青岛大学工作人员报警，反映有网民在网络平台发布传播涉及该校校徽的不实信息。经工作，警方迅速查获违法行为人龙某（…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14928244.html",
+      "publishedAt": "2026-08-16T00:59:26.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "社会"
+    },
+    {
+      "title": "诺兰又把全世界骗进电影院了",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E8%BF%87%E5%90%8E+%E5%96%9D%E6%B0%B4%E5%8D%83%E4%B8%87%E5%88%AB%E5%A4%A7%E6%84%8F&sa=fyb_news",
-      "publishedAt": "2026-08-15T01:33:59.288Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=%E8%AF%BA%E5%85%B0%E5%8F%88%E6%8A%8A%E5%85%A8%E4%B8%96%E7%95%8C%E9%AA%97%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2%E4%BA%86&sa=fyb_news",
+      "publishedAt": "2026-08-16T01:40:35.492Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "文化"
     },
     {
-      "title": "印尼7.7级地震引发海啸",
+      "title": "黑龙江省第十六届运动会在鹤城开幕 “冠军团”亮相助阵",
+      "summary": "中新网齐齐哈尔8月15日电(记者 王妮娜 史轶夫)15日上午，黑龙江省第十六届运动会暨第九届残疾人运动会在齐齐哈尔市鹤城体育场开幕。本届运动会参赛总规模超1…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678234.shtml",
+      "publishedAt": "2026-08-15T08:12:59.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "文化"
+    },
+    {
+      "title": "婚姻登记解锁新场景 多地创新服务让结婚领证更有“仪式感”",
+      "summary": "本报讯(记者秦亦姝)公园、景区、音乐节、体育赛事……如今，新人领证场景早已不局限于传统的办事大厅。近日，天津首个银行内结婚登记点启用，“银行能办结婚证了”冲…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678449.shtml",
+      "publishedAt": "2026-08-16T00:35:09.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "文化"
+    },
+    {
+      "title": "广东省运会男足D组决赛成绩出炉 深圳队夺冠",
+      "summary": "中新网茂名8月15日电 (梁盛 梁晶晶 李虹)广东省第十七届运动会竞技体育组足球项目男子D组决赛，14日在茂名高州市圆满收官，深圳队以总比分5比3战胜广州队…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678089.shtml",
+      "publishedAt": "2026-08-15T03:53:17.000Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "文化"
+    },
+    {
+      "title": "“AI神童”爆仓引发连锁反应",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8&sa=fyb_news",
-      "publishedAt": "2026-08-15T01:33:59.288Z",
-      "fetchedAt": "2026-08-15T01:33:59.288Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=%E2%80%9CAI%E7%A5%9E%E7%AB%A5%E2%80%9D%E7%88%86%E4%BB%93%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94&sa=fyb_news",
+      "publishedAt": "2026-08-16T01:40:35.492Z",
+      "fetchedAt": "2026-08-16T01:40:35.492Z",
+      "topic": "科技"
     }
   ]
 }
