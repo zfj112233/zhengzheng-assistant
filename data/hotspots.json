@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-08-22T01:31:10.694Z",
+  "updatedAt": "2026-08-23T01:43:01.055Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "科技早报 | 长江存储一季度营收470.42亿元，净利333.79亿元；同程旅行完成收购嘀嗒出行",
-      "summary": "半导体现新一轮涨价潮；SK海力士：正评估新建存储芯片生产设施等方案；三星公布韩国史上最大股东回报计划。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14966586.html",
-      "publishedAt": "2026-08-22T00:45:00.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "社会"
-    },
-    {
-      "title": "湖南为非遗代表性传承人输出标准化数字服务",
-      "summary": "中新网长沙8月21日电(王灵)21日举行的2026湖南文化旅游产业博览会现场，“数钥通+联合数资”平台上线，搭建了集“确权、流通、产业振兴、文化出海”于一体…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682071.shtml",
-      "publishedAt": "2026-08-21T13:30:09.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "科技"
-    },
-    {
-      "title": "广西举办体育消费嘉年华 加快建设高质量户外运动目的地",
-      "summary": "中新网南宁8月21日电(黄令妍)广西官方21日召开新闻发布会介绍，围绕推动“体育产业旺起来”目标，广西壮族自治区体育局联合多部门共同举办2026“桂野仙踪·…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-21/10681986.shtml",
-      "publishedAt": "2026-08-21T11:57:59.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "文化"
-    },
-    {
-      "title": "2026暑期档票房超110亿！“电影+”玩法持续上新",
+      "title": "2026年度电影总票房超270亿！暑期档成绩亮眼刷新两项纪录",
       "summary": "据网络平台数据",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681947.shtml",
-      "publishedAt": "2026-08-21T11:10:32.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682443.shtml",
+      "publishedAt": "2026-08-22T12:11:17.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
       "topic": "科技"
     },
     {
-      "title": "《给阿嬷的情书》海外票房破亿 多部国产影片海外热映",
-      "summary": "近期，扎根本土生活、承载中国文化的多部国产电影陆续登陆海外院线。其中《给阿嬷的情书》凭借真实细腻的故事内容，收获多国观众认可，目前海外票房已超1亿元。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682180.shtml",
-      "publishedAt": "2026-08-22T01:19:29.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "文化"
+      "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
+      "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85161",
+      "publishedAt": "2026-08-22T11:00:50.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "科技"
     },
     {
-      "title": "安徽省运会青少年部13人次刷新省纪录",
-      "summary": "中新网宿州8月21日电 (记者 张强)记者21日从安徽省第十六届运动会(以下简称“安徽省运会”)新闻发布会上获悉，截至目前，在已完赛的青少年部赛事中，举重项…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-21/10681645.shtml",
-      "publishedAt": "2026-08-21T06:30:56.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "文化"
-    },
-    {
-      "title": "从“打卡”到“体验”解码暑期旅游新趋势",
-      "summary": "央视网消息(焦点访谈)：这个暑期，国内文旅市场持续火热，旅游市场进一步向县域、乡镇下沉。文化和旅游部启动2026年全国暑期文化和旅游消费季，联动多部门推出避…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682181.shtml",
-      "publishedAt": "2026-08-22T01:21:37.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "文化"
-    },
-    {
-      "title": "台风沙德尔加强为台风级",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E5%8A%A0%E5%BC%BA%E4%B8%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7&sa=fyb_news",
-      "publishedAt": "2026-08-22T01:31:10.694Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
+      "title": "中国主题出版物及文创展在悉尼举行",
+      "summary": "中新社悉尼8月22日电 (记者 薄雯雯)中国主题出版物及文创展22日在澳大利亚悉尼开幕，来自中澳两国出版界、文化界、教育界等领域的近百位嘉宾出席。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682439.shtml",
+      "publishedAt": "2026-08-22T12:12:09.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
       "topic": "社会"
     },
     {
-      "title": "Bilibili 进军国际市场",
-      "summary": "Bilibili 本周重新发布了国际版应用，准备推出英文版本，进军全球市场。新的国际版应用将不需要身份验证，用户无需提供护照或身份证件即可注册。Bilibi…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85155",
-      "publishedAt": "2026-08-21T07:16:32.000Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
-      "topic": "公共新闻"
-    },
-    {
-      "title": "这些美女帅哥竟然是机器人",
+      "title": "世界人形机器人运动会",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E7%BE%8E%E5%A5%B3%E5%B8%85%E5%93%A5%E7%AB%9F%E7%84%B6%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news",
-      "publishedAt": "2026-08-22T01:31:10.694Z",
-      "fetchedAt": "2026-08-22T01:31:10.694Z",
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A&sa=fyb_news",
+      "publishedAt": "2026-08-23T01:43:01.055Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "科技"
+    },
+    {
+      "title": "从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
+      "summary": "随着悬崖之上的电梯徐徐攀升，人的视野豁然开朗。全透明的玻璃幕墙外，尼珠河谷底被绝壁环绕、被河水滋养、被时光遗忘又被旅游唤醒的尼珠河村，迎接着峡谷之外好奇的目…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682502.shtml",
+      "publishedAt": "2026-08-22T23:07:42.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "社会"
+    },
+    {
+      "title": "“神州北极”燃情开跑 国门巡礼赛事漠河启幕",
+      "summary": "中新网漠河8月22日电 (田德雨 邵天李)8月22日，2026中国辉煌足迹火炬传承跑(漠河站)国门巡礼系列活动暨第二届全国全民健身大赛(东北赛区漠河站)在漠…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682275.shtml",
+      "publishedAt": "2026-08-22T06:24:35.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "文化"
+    },
+    {
+      "title": "第二届世界人形机器人运动会开幕",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/tp/hd2011/2026/08-23/1201798.shtml",
+      "publishedAt": "2026-08-23T01:37:58.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "科技"
+    },
+    {
+      "title": "强风暴横扫波罗的海三国，致两人死亡",
+      "summary": "一个强气旋8月22日由南向北横扫波罗的海三国，给立陶宛、拉脱维亚和爱沙尼亚带来强风、暴雨和雷暴，造成大范围树木倒伏、建筑和电力设施受损以及城市积水。当地媒体…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14970350.html",
+      "publishedAt": "2026-08-23T00:06:20.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "社会"
+    },
+    {
+      "title": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金",
+      "summary": "中新社西安8月21日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站21日进入第二比赛日的争夺。当日，冰上舞蹈、女子单人滑两个…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682139.shtml",
+      "publishedAt": "2026-08-21T22:44:23.000Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "“AI红娘”承诺三年不结婚就退款",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E2%80%9CAI%E7%BA%A2%E5%A8%98%E2%80%9D%E6%89%BF%E8%AF%BA%E4%B8%89%E5%B9%B4%E4%B8%8D%E7%BB%93%E5%A9%9A%E5%B0%B1%E9%80%80%E6%AC%BE&sa=fyb_news",
+      "publishedAt": "2026-08-23T01:43:01.055Z",
+      "fetchedAt": "2026-08-23T01:43:01.055Z",
       "topic": "科技"
     }
   ]
