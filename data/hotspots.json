@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-08-23T01:43:01.055Z",
+  "updatedAt": "2026-08-24T01:40:45.392Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "2026年度电影总票房超270亿！暑期档成绩亮眼刷新两项纪录",
-      "summary": "据网络平台数据",
+      "title": "“东方美学生活方式展”在京开展 融汇古今中外艺术家作品",
+      "summary": "中新网北京8月23日电 (记者 应妮)传统的东方美学如何与今天的人的具体生活产生连接？由水墨艺术家林曦担任策展人的“《生活的艺术》——东方美学生活方式展”2…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682443.shtml",
-      "publishedAt": "2026-08-22T12:11:17.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "科技"
-    },
-    {
-      "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
-      "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85161",
-      "publishedAt": "2026-08-22T11:00:50.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "科技"
-    },
-    {
-      "title": "中国主题出版物及文创展在悉尼举行",
-      "summary": "中新社悉尼8月22日电 (记者 薄雯雯)中国主题出版物及文创展22日在澳大利亚悉尼开幕，来自中澳两国出版界、文化界、教育界等领域的近百位嘉宾出席。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682439.shtml",
-      "publishedAt": "2026-08-22T12:12:09.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682675.shtml",
+      "publishedAt": "2026-08-23T07:29:23.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
       "topic": "社会"
     },
     {
-      "title": "世界人形机器人运动会",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A&sa=fyb_news",
-      "publishedAt": "2026-08-23T01:43:01.055Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "科技"
-    },
-    {
-      "title": "从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
-      "summary": "随着悬崖之上的电梯徐徐攀升，人的视野豁然开朗。全透明的玻璃幕墙外，尼珠河谷底被绝壁环绕、被河水滋养、被时光遗忘又被旅游唤醒的尼珠河村，迎接着峡谷之外好奇的目…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682502.shtml",
-      "publishedAt": "2026-08-22T23:07:42.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "社会"
-    },
-    {
-      "title": "“神州北极”燃情开跑 国门巡礼赛事漠河启幕",
-      "summary": "中新网漠河8月22日电 (田德雨 邵天李)8月22日，2026中国辉煌足迹火炬传承跑(漠河站)国门巡礼系列活动暨第二届全国全民健身大赛(东北赛区漠河站)在漠…",
+      "title": "斯诺克武汉公开赛：肖国栋获开门红",
+      "summary": "中新社武汉8月23日电 (记者 张芹)2026中国光谷世界斯诺克武汉公开赛23日在华中科技大学光谷体育馆开赛，来自全球各地顶尖斯诺克选手齐聚武汉，开启为期7…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682275.shtml",
-      "publishedAt": "2026-08-22T06:24:35.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-23/10682802.shtml",
+      "publishedAt": "2026-08-23T12:21:32.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "科技"
+    },
+    {
+      "title": "真人与机器人同台共演 《机器人生》在沪探索舞台新可能",
+      "summary": "中新网上海8月23日电(记者 许婧)当机器人不再是舞台上的“道具”，而是与真人演员平等的“共演者”，舞台艺术会呈现怎样的新形态？由上海戏剧学院师生深度参与的…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682763.shtml",
+      "publishedAt": "2026-08-23T10:46:54.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "科技"
+    },
+    {
+      "title": "机器人短跑超越人类，但刹住是问题",
+      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85169",
+      "publishedAt": "2026-08-23T15:48:05.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "科技"
+    },
+    {
+      "title": "2026年“侨海逐梦”华裔大学生研习活动结营",
+      "summary": "中新网海口8月24日电 (符宇群王梓懿)“通过这次实习，让大家看到了海南不同的一面，这里不仅有美丽的自然风景，也有丰富的文化和正在不断发展的产业。”日本中央…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-24/10682951.shtml",
+      "publishedAt": "2026-08-24T01:20:39.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "社会"
+    },
+    {
+      "title": "北京中轴国际定向公开赛隆福寺站落幕",
+      "summary": "中新网北京8月24日电 (记者 邢翀)23日，由北京市体育局、北京市体育总会、北京市东城区人民政府联合主办的北京中轴国际定向公开赛暨东城寻迹·中轴城市定向赛…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10682955.shtml",
+      "publishedAt": "2026-08-24T01:19:27.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
       "topic": "文化"
     },
     {
-      "title": "第二届世界人形机器人运动会开幕",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/hd2011/2026/08-23/1201798.shtml",
-      "publishedAt": "2026-08-23T01:37:58.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "科技"
+      "title": "2026中国跆拳道公开赛长沙开赛 800余名运动员角逐奥运积分",
+      "summary": "中新网长沙8月23日电 (周雨墨)22日晚，2026中国跆拳道公开赛在湖南师范大学开赛。这是该项赛事连续第二年落户长沙，汇聚来自全球28个国家和地区的800…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-23/10682551.shtml",
+      "publishedAt": "2026-08-23T02:16:18.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "文化"
     },
     {
-      "title": "强风暴横扫波罗的海三国，致两人死亡",
-      "summary": "一个强气旋8月22日由南向北横扫波罗的海三国，给立陶宛、拉脱维亚和爱沙尼亚带来强风、暴雨和雷暴，造成大范围树木倒伏、建筑和电力设施受损以及城市积水。当地媒体…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14970350.html",
-      "publishedAt": "2026-08-23T00:06:20.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
+      "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
+      "summary": "俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head un…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85168",
+      "publishedAt": "2026-08-23T15:02:01.000Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
       "topic": "社会"
     },
     {
-      "title": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金",
-      "summary": "中新社西安8月21日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站21日进入第二比赛日的争夺。当日，冰上舞蹈、女子单人滑两个…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682139.shtml",
-      "publishedAt": "2026-08-21T22:44:23.000Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "生活方式"
-    },
-    {
-      "title": "“AI红娘”承诺三年不结婚就退款",
+      "title": "四川宜宾市长宁县发生4.7级地震",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CAI%E7%BA%A2%E5%A8%98%E2%80%9D%E6%89%BF%E8%AF%BA%E4%B8%89%E5%B9%B4%E4%B8%8D%E7%BB%93%E5%A9%9A%E5%B0%B1%E9%80%80%E6%AC%BE&sa=fyb_news",
-      "publishedAt": "2026-08-23T01:43:01.055Z",
-      "fetchedAt": "2026-08-23T01:43:01.055Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%95%BF%E5%AE%81%E5%8E%BF%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
+      "publishedAt": "2026-08-24T01:40:45.392Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "社会"
+    },
+    {
+      "title": "老人店内离世店主赔1.9万 细节披露",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BA%97%E5%86%85%E7%A6%BB%E4%B8%96%E5%BA%97%E4%B8%BB%E8%B5%941.9%E4%B8%87+%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&sa=fyb_news",
+      "publishedAt": "2026-08-24T01:40:45.392Z",
+      "fetchedAt": "2026-08-24T01:40:45.392Z",
+      "topic": "社会"
     }
   ]
 }
