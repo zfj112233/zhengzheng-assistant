@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-08-25T01:35:25.796Z",
+  "updatedAt": "2026-08-26T01:40:14.325Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "文学IP拥抱AIGC 中国长春电影节搭建文影转化交流平台",
-      "summary": "中新网长春8月24日电 (高龙安 李彦国)第二十一届中国长春电影节“中国文学新力量”系列活动24日举行，众多文坛名家、影视新锐、专家学者齐聚现场，助力推动文…",
+      "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
+      "summary": "据网络平台数据",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683410.shtml",
-      "publishedAt": "2026-08-24T12:52:22.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
+      "publishedAt": "2026-08-25T15:08:12.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
       "topic": "科技"
     },
     {
-      "title": "聚焦留守儿童成长 电影《大河少年》亮相长春电影节",
-      "summary": "中新网长春8月24日电 第21届中国长春电影节开幕式日前在长春举办，电影《大河少年》剧组主创嘉宾应邀出席开幕式盛典。导演刘全玮，演员侯天来、陈之辉，制片人兼…",
+      "title": "从“门票经济”迈向“创新经济” 业界共话科技重塑文旅新体验",
+      "summary": "中新网合肥8月26日电 (江婉琪)“科技是翅膀，文化是心脏。只有深耕在地文化，科技赋能才有意义。”大型史诗文旅演艺《徽秀》总导演张凯25日在合肥说。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684285.shtml",
+      "publishedAt": "2026-08-26T01:27:53.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
+      "topic": "科技"
+    },
+    {
+      "title": "AI介入文学与影视创作 业界共探技术与创作边界",
+      "summary": "中新社长春8月25日电 (李彦国 高龙安)当下，AI正深刻介入文学与影视创作。正在举行的第二十一届中国长春电影节上，多位作家、编剧、导演围绕“AI时代文学的…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683357.shtml",
-      "publishedAt": "2026-08-24T11:37:11.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684070.shtml",
+      "publishedAt": "2026-08-25T12:25:19.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
+      "topic": "科技"
+    },
+    {
+      "title": "美国计划再次对 H1B 签证征收 10 万美元费用，计划吊销 20 万商务或旅游签证",
+      "summary": "美国总统特朗普于 2025 年 9 月签署总统令，规定申请 H1B 签证需缴纳 10 万美元手续费。但联邦地区法院今年 6 月判定这一措施违法并予以撤销。本…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85188",
+      "publishedAt": "2026-08-25T07:23:25.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
       "topic": "社会"
     },
     {
-      "title": "从展台“秀肌肉”到“走”进街头巷尾 城市真实场景变为机器人的“试验场”",
-      "summary": "阅读提示",
+      "title": "中国引领人工智能全球治理的三重路径（人民要论）",
+      "summary": "习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上发表的主旨讲话中提出“坚持开放共赢，驱动创新发展”“强化风险意识，确保安全可控”“鼓…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683543.shtml",
-      "publishedAt": "2026-08-25T00:27:04.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-26/10684299.shtml",
+      "publishedAt": "2026-08-26T01:34:19.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
       "topic": "科技"
     },
     {
-      "title": "机器人短跑超越人类，但刹住是问题",
-      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85169",
-      "publishedAt": "2026-08-23T15:48:05.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026年粤BA全明星赛暨粤港澳篮球邀请赛将于9月举办",
-      "summary": "中新网东莞8月24日电 (记者 张璐)记者24日从广东省篮球协会获悉，2026年广东省城市篮球联赛(简称“粤BA”)全明星赛暨粤港澳篮球邀请赛(简称“赛事”…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683419.shtml",
-      "publishedAt": "2026-08-24T13:10:21.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
-      "topic": "文化"
-    },
-    {
-      "title": "苏州探索“电影+非遗”融合新路径：拿着票根寻技艺 沿着光影去旅行",
-      "summary": "苏州探索“电影+非遗”融合新路径",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10683550.shtml",
-      "publishedAt": "2026-08-25T00:43:01.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
-      "topic": "文化"
-    },
-    {
-      "title": "北京中轴国际定向公开赛隆福寺站落幕",
-      "summary": "中新网北京8月24日电 (记者 邢翀)23日，由北京市体育局、北京市体育总会、北京市东城区人民政府联合主办的北京中轴国际定向公开赛暨东城寻迹·中轴城市定向赛…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10682955.shtml",
-      "publishedAt": "2026-08-24T01:19:27.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
-      "topic": "文化"
-    },
-    {
-      "title": "坐3小时看电影 有必要拍这么长吗",
+      "title": "美国乡村音乐传奇多莉·帕顿去世",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9D%903%E5%B0%8F%E6%97%B6%E7%9C%8B%E7%94%B5%E5%BD%B1+%E6%9C%89%E5%BF%85%E8%A6%81%E6%8B%8D%E8%BF%99%E4%B9%88%E9%95%BF%E5%90%97&sa=fyb_news",
-      "publishedAt": "2026-08-25T01:35:25.796Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E4%B9%A1%E6%9D%91%E9%9F%B3%E4%B9%90%E4%BC%A0%E5%A5%87%E5%A4%9A%E8%8E%89%C2%B7%E5%B8%95%E9%A1%BF%E5%8E%BB%E4%B8%96&sa=fyb_news",
+      "publishedAt": "2026-08-26T01:40:14.325Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
       "topic": "文化"
     },
     {
-      "title": "微软AI智能体系统Aion曝光",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E8%BD%AFAI%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9FAion%E6%9B%9D%E5%85%89&sa=fyb_news",
-      "publishedAt": "2026-08-25T01:35:25.796Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
-      "topic": "科技"
+      "title": "500名青少年跆拳道好手相聚 陕西眉县以赛赋能体旅农融合发展",
+      "summary": "中新网陕西眉县8月25日电 (记者 阿琳娜)记者25日从2026年陕西省青少年体育俱乐部跆拳道联赛(太白山站)赛事发布会获悉，此次赛事将于9月25日至9月2…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-25/10684039.shtml",
+      "publishedAt": "2026-08-25T11:18:01.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
+      "topic": "文化"
     },
     {
-      "title": "北自科技(603082.SH)：2026年中报净利润为5000.37万元、同比较去年同期下降34.33%",
-      "summary": "2026年8月25日，北自科技(603082.SH)发布2026年中报，营业总收入为9.84亿元，同比较去年同期上涨4.05%，归母净利润为5000.37万…",
+      "title": "夯实后备人才基础，全国轮滑（速度轮滑）锦标赛在延庆收官",
+      "summary": "中新网北京8月25日电 全国轮滑(速度轮滑)锦标赛日前在北京延庆八达岭国际会展中心速度轮滑场收官。赛事为全国轮滑专业选手搭建起技术交流、竞技比拼的高水平平台…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-25/10683742.shtml",
+      "publishedAt": "2026-08-25T04:20:19.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
+      "topic": "文化"
+    },
+    {
+      "title": "扶不扶 不能再成为社会阴影",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%89%B6%E4%B8%8D%E6%89%B6+%E4%B8%8D%E8%83%BD%E5%86%8D%E6%88%90%E4%B8%BA%E7%A4%BE%E4%BC%9A%E9%98%B4%E5%BD%B1&sa=fyb_news",
+      "publishedAt": "2026-08-26T01:40:14.325Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
+      "topic": "社会"
+    },
+    {
+      "title": "振华科技(000733.SZ)：2026年中报净利润为2.47亿元、同比较去年同期下降20.99%",
+      "summary": "2026年8月26日，振华科技(000733.SZ)发布2026年中报，营业总收入为22.42亿元，同比较去年同期下降6.97%，归母净利润为2.47亿元，…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14980529.html",
-      "publishedAt": "2026-08-25T01:11:58.000Z",
-      "fetchedAt": "2026-08-25T01:35:25.796Z",
+      "url": "https://www.jiemian.com/article/14989680.html",
+      "publishedAt": "2026-08-26T01:13:51.000Z",
+      "fetchedAt": "2026-08-26T01:40:14.325Z",
       "topic": "科技"
     }
   ]
