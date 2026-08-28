@@ -1,52 +1,34 @@
 {
-  "updatedAt": "2026-08-27T08:33:46.716Z",
+  "updatedAt": "2026-08-28T10:46:50.587Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "从“门票经济”迈向“创新经济” 业界共话科技重塑文旅新体验",
-      "summary": "中新网合肥8月26日电 (江婉琪)“科技是翅膀，文化是心脏。只有深耕在地文化，科技赋能才有意义。”大型史诗文旅演艺《徽秀》总导演张凯25日在合肥说。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-26/10684285.shtml",
-      "publishedAt": "2026-08-26T01:27:53.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "科技"
-    },
-    {
-      "title": "外媒：尼泊尔洪灾已致644名游客失联 含127名尼泊尔游客",
-      "summary": "中新网8月27日电 据英国广播公司(BBC)及美国有线电视新闻网(CNN)报道，据尼泊尔旅游委员会27日公布的最新数据，尼泊尔北部地区山洪造成644名游客失…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10685281.shtml",
-      "publishedAt": "2026-08-27T08:16:01.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "科技"
-    },
-    {
-      "title": "长沙连续承办国际跆拳道赛事 以体育赛事激活城市文旅消费",
-      "summary": "中新网长沙8月26日电 (尹兴邦)2026中国跆拳道公开赛近日在长沙举行。这项世界跆拳道联合会认证的G1级别奥运积分赛，吸引全球28个国家和地区810余名运…",
+      "title": "中外青年走进国家体育总局秦皇岛训练基地 感悟中国冰雪运动精神",
+      "summary": "中新网8月27日电 据北京体育大学国际教育与交流学院消息，8月中旬，由2名指导教师与12名来自中国、伊朗、马来西亚、巴基斯坦、泰国、越南等国家的学生组成的“…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-26/10684561.shtml",
-      "publishedAt": "2026-08-26T07:22:57.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/ty/2026/08-27/10685291.shtml",
+      "publishedAt": "2026-08-27T11:08:42.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "社会"
     },
     {
-      "title": "从“看别人”到“见自己” 年轻人喜欢电影里的“中国味”",
-      "summary": "从“看别人”到“见自己”",
+      "title": "2026年中国电影暑期档票房超过去年",
+      "summary": "中新社北京8月27日电 (记者 高凯)据灯塔专业版实时数据，截至北京时间8月27日18时24分，2026年中国电影暑期档(6月1日至8月31日)总票房突破1…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-27/10684898.shtml",
-      "publishedAt": "2026-08-26T22:21:48.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/cul/2026/08-27/10685478.shtml",
+      "publishedAt": "2026-08-27T13:05:31.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "科技"
     },
     {
-      "title": "全球海洋表面温度创历史最高水平",
-      "summary": "由于人类活动导致的气候变化以及日益严重的厄尔尼诺现象，全球海洋温度创历史最高水平。根据欧洲哥白尼气候变化服务中心的数据，除极地外，全球海洋表面平均温度周六达…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85198",
-      "publishedAt": "2026-08-26T07:45:48.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "科技"
+      "title": "多地电影院推进“电影+”多业态融合 一张电影票，解锁更多“新玩法”",
+      "summary": "“小狗也可以和我一起看电影了。”近日，在北京东坝万达影城，一位带着宠物前来观影的观众开启了一场特别的观影体验。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10685555.shtml",
+      "publishedAt": "2026-08-27T23:34:29.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "文化"
     },
     {
       "title": "2026年第十一届长城杯国际青少年足球邀请赛揭幕",
@@ -54,44 +36,62 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-27/10685006.shtml",
       "publishedAt": "2026-08-27T02:15:12.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
       "topic": "文化"
     },
     {
-      "title": "新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务",
-      "summary": "新西兰提出了一项法案 The Online Safety (Minimum Age and Child Safety Risk Assessment) Bi…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85197",
-      "publishedAt": "2026-08-26T06:26:46.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "社会"
-    },
-    {
-      "title": "沈阳市“减证便民”再提速 数据共享让群众办事“免提交”",
-      "summary": "中新网沈阳8月27日电 (记者 李晛)记者27日自沈阳市人力资源和社会保障局获悉，随着全市人社系统内部数据共享机制加速落地，沈阳市劳动者权益维护中心(市劳动…",
+      "title": "广东将发放3000万元文旅消费补贴",
+      "summary": "中新网广州8月28日电 (记者 程景伟)广东省文化和旅游厅副厅长赵红8月28日在广州通报，2026广东金秋文旅消费季将于9月11日启动，持续至10月底，覆盖…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-27/10685279.shtml",
-      "publishedAt": "2026-08-27T08:25:30.000Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "社会"
-    },
-    {
-      "title": "电影《坠落2》定档",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%9D%A0%E8%90%BD2%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news",
-      "publishedAt": "2026-08-27T08:33:46.716Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686049.shtml",
+      "publishedAt": "2026-08-28T10:44:33.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
       "topic": "文化"
     },
     {
-      "title": "AI漫剧《非妖哉》爆火",
+      "title": "Meta将支付 170 亿美元和解儿童隐私保护诉讼，将限制青少年在特定时间访问社媒",
+      "summary": "Meta 与美国多州就儿童隐私和消费者保护案达成和解，同意向各州支付总额将近 167 亿美元和解金，以及对青少年用户施加一系列社媒使用限制，包括每天不能使用…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85215",
+      "publishedAt": "2026-08-27T15:29:16.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "社会"
+    },
+    {
+      "title": "广西北海依托滨海文旅资源打造“体育+”多元消费场景",
+      "summary": "中新网南宁8月28日电(记者 冯抒敏)广西壮族自治区第十六届运动会、广西壮族自治区第十一届残疾人运动会暨第六届特殊奥林匹克运动会将于12月在广西北海市开幕。…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686015.shtml",
+      "publishedAt": "2026-08-28T10:27:42.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "文化"
+    },
+    {
+      "title": "外交部回应泥石流灾害涉外国人情况",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=AI%E6%BC%AB%E5%89%A7%E3%80%8A%E9%9D%9E%E5%A6%96%E5%93%89%E3%80%8B%E7%88%86%E7%81%AB&sa=fyb_news",
-      "publishedAt": "2026-08-27T08:33:46.716Z",
-      "fetchedAt": "2026-08-27T08:33:46.716Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%B6%89%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%83%85%E5%86%B5&sa=fyb_news",
+      "publishedAt": "2026-08-28T10:46:50.587Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "社会"
+    },
+    {
+      "title": "法国法庭认定辐射与空乘罹患乳腺癌相关",
+      "summary": "法国法院首次认定宇宙辐射是一名空姐罹患乳腺癌的职业因素，其他相关因素包括被动吸烟和长年夜班工作。这一裁决可能会为类似诉讼打开大门，因为研究不断表明，长期高空…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85220",
+      "publishedAt": "2026-08-28T08:14:19.000Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "社会"
+    },
+    {
+      "title": "四川内江地震",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E5%86%85%E6%B1%9F%E5%9C%B0%E9%9C%87&sa=fyb_news",
+      "publishedAt": "2026-08-28T10:46:50.587Z",
+      "fetchedAt": "2026-08-28T10:46:50.587Z",
+      "topic": "社会"
     }
   ]
 }
