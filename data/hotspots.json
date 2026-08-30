@@ -1,61 +1,70 @@
 {
-  "updatedAt": "2026-08-29T06:34:21.215Z",
+  "updatedAt": "2026-08-30T04:46:54.226Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "多地电影院推进“电影+”多业态融合 一张电影票，解锁更多“新玩法”",
-      "summary": "“小狗也可以和我一起看电影了。”近日，在北京东坝万达影城，一位带着宠物前来观影的观众开启了一场特别的观影体验。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10685555.shtml",
-      "publishedAt": "2026-08-27T23:34:29.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
-      "topic": "文化"
-    },
-    {
-      "title": "出海短剧踩刹车：AI挤走剧组，但取代不了情绪与IP",
-      "summary": "真人换成AI，省下的钱只是最表层的账本。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15026261.html",
-      "publishedAt": "2026-08-29T04:56:16.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
-      "topic": "科技"
-    },
-    {
-      "title": "国家数据局：词元市场需求呈现爆发式增长",
-      "summary": "2026中国国际大数据产业博览会正在贵州贵阳举办。今天，国家数据局负责人在数博会上表示，当前大模型加速向千行百业深度落地，带动我国词元调用量快速攀升，市场需…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686368.shtml",
-      "publishedAt": "2026-08-29T05:22:11.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
-      "topic": "科技"
-    },
-    {
-      "title": "无人机拍下了引发中尼边境致命泥石流的冰川崩塌",
-      "summary": "根据网友在小红书上发布、由 BBC 验证真实性的两则无人机拍摄视频，视频记录了喜马拉雅山脉蓝塘里壤峰冰川崩塌的瞬间，中尼边境的致命泥石流灾害正是由其引发的。…",
+      "title": "中国账户试图悄悄煽动美国反数据中心情绪？",
+      "summary": "在 OpenAI 之后，另一家美国 AI 关联公司 X/SpaceX 称，有约 200 个中国关联水军账号在社媒上悄悄煽动美国民众的反数据中心情绪。相关账号…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85224",
-      "publishedAt": "2026-08-28T14:39:21.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
-      "topic": "社会"
+      "url": "https://www.solidot.org/story?sid=85232",
+      "publishedAt": "2026-08-29T15:43:37.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
+      "topic": "科技"
     },
     {
-      "title": "评论：“微改造”撬动“大民生” 广西南宁“绣”出城市温度",
-      "summary": "中新网南宁8月29日电(记者 黄艳梅)2026年秋季学期即将开学，在广西南宁市白沙路学校校门外人行道上，一排新型轻量化便民座椅近日完成布设并投入使用。有家长…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686387.shtml",
-      "publishedAt": "2026-08-29T06:21:25.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
-      "topic": "社会"
-    },
-    {
-      "title": "第二十一届中国长春电影节闭幕 《给阿嬷的情书》获评委会大奖",
-      "summary": "中新网长春8月29日电 (高龙安 张瑶)第二十一届中国长春电影节28日晚闭幕，“金鹿奖”十大奖项揭晓。《给阿嬷的情书》获评委会大奖，李思潼凭借该片获最佳女演…",
+      "title": "“闽式生活”把千年文脉揉进消费场景",
+      "summary": "簪花点茶住土楼，福建老传统做出年轻态",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686317.shtml",
-      "publishedAt": "2026-08-29T03:23:46.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686451.shtml",
+      "publishedAt": "2026-08-29T08:35:07.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
       "topic": "文化"
+    },
+    {
+      "title": "机器人产业数据质量与标准创新联合倡议在2026数博会对外发布",
+      "summary": "中新网贵阳8月30日电 (记者 张伟)2026中国国际大数据产业博览会——“建设数据工厂释放数据价值”人工智能数据工厂创新发展交流活动29日在贵阳举行。活动…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686682.shtml",
+      "publishedAt": "2026-08-30T02:52:16.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
+      "topic": "科技"
+    },
+    {
+      "title": "普热普强藏布堰塞湖下游山体发生滑坡 形成新的堰塞体",
+      "summary": "记者从应急管理部获悉，为保障西藏日喀则市吉隆县泥石流灾害抢险救援工作，应急管理部调派“雨燕应急”成员单位侦察无人机和大载重无人机，持续监测普热普强藏布堰塞湖…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686729.shtml",
+      "publishedAt": "2026-08-30T04:37:33.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
+      "topic": "社会"
+    },
+    {
+      "title": "西藏吉隆泥石流灾害新闻发布会",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news",
+      "publishedAt": "2026-08-30T04:46:54.226Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
+      "topic": "社会"
+    },
+    {
+      "title": "文牧野解读《欢迎来龙餐馆》：以烟火美食映照战争与和平",
+      "summary": "中新网北京8月29日电(韩辉 曾钰权)8月28日晚，电影《欢迎来龙餐馆》映后见面会在北京举行。导演、编剧文牧野携演员蒋奇明与北京观众见面，围绕影片创作缘起、…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686399.shtml",
+      "publishedAt": "2026-08-29T06:39:06.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
+      "topic": "文化"
+    },
+    {
+      "title": "人形机器人的跑步方式与人类不同",
+      "summary": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85228",
+      "publishedAt": "2026-08-29T10:46:44.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
+      "topic": "科技"
     },
     {
       "title": "1105名运动员参赛创纪录 第七届中国晋中国际柔力球大赛9月开赛",
@@ -63,34 +72,25 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/08-29/10686269.shtml",
       "publishedAt": "2026-08-29T00:43:54.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
       "topic": "生活方式"
     },
     {
-      "title": "乐清辟谣镇水兽被挖致台风频登陆",
+      "title": "西藏泥石流灾害原因现已查明",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B9%90%E6%B8%85%E8%BE%9F%E8%B0%A3%E9%95%87%E6%B0%B4%E5%85%BD%E8%A2%AB%E6%8C%96%E8%87%B4%E5%8F%B0%E9%A3%8E%E9%A2%91%E7%99%BB%E9%99%86&sa=fyb_news",
-      "publishedAt": "2026-08-29T06:34:21.215Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E7%8E%B0%E5%B7%B2%E6%9F%A5%E6%98%8E&sa=fyb_news",
+      "publishedAt": "2026-08-30T04:46:54.226Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
       "topic": "社会"
     },
     {
-      "title": "父亲实地考察物价后给女儿涨生活费",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%88%B6%E4%BA%B2%E5%AE%9E%E5%9C%B0%E8%80%83%E5%AF%9F%E7%89%A9%E4%BB%B7%E5%90%8E%E7%BB%99%E5%A5%B3%E5%84%BF%E6%B6%A8%E7%94%9F%E6%B4%BB%E8%B4%B9&sa=fyb_news",
-      "publishedAt": "2026-08-29T06:34:21.215Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
-      "topic": "生活方式"
-    },
-    {
-      "title": "2026中国虚拟体育公开赛总决赛在合肥开幕",
-      "summary": "中新网合肥8月29日电 2026中国虚拟体育公开赛总决赛28日在安徽合肥开幕。经过全国线上海选、从6000余名参赛者中脱颖而出的晋级选手将在虚拟自行车、虚拟…",
+      "title": "2026中国-马来西亚赛事交流活动海口登场",
+      "summary": "中新网海口8月30日电 (记者 张茜翼)2026中国-马来西亚赛事交流活动29日下午在海口拉开帷幕。来自海南与马来西亚的六支队伍，将在两天内展开多场角逐。",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-29/10686302.shtml",
-      "publishedAt": "2026-08-29T02:33:19.000Z",
-      "fetchedAt": "2026-08-29T06:34:21.215Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686649.shtml",
+      "publishedAt": "2026-08-30T01:56:23.000Z",
+      "fetchedAt": "2026-08-30T04:46:54.226Z",
       "topic": "文化"
     }
   ]
