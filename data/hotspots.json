@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-02T03:53:02.442Z",
+  "updatedAt": "2026-09-03T03:51:48.840Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "开局起步“十五五”：打造国际健康岛，海南持续增加优质健康服务供给",
-      "summary": "中新网海口9月2日电 (记者 符宇群)人均预期寿命达到全国前列，孕产妇死亡率、5岁以下儿童死亡率优于全球高收入国家平均水平，婴儿死亡率达到海南省历史最好水平…",
+      "title": "国家体育总局：新周期全民健身计划面向社会各类人群",
+      "summary": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：与2021年到…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-02/10688535.shtml",
-      "publishedAt": "2026-09-02T03:15:54.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689364.shtml",
+      "publishedAt": "2026-09-03T03:23:41.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
       "topic": "社会"
     },
     {
-      "title": "纪录电影《主场》首映式在京举行",
-      "summary": "中新网北京9月1日电 (记者 高凯)以2025年在大连举办的国际大体联足球世界杯为背景，跟随北京师范大学、北京航空航天大学、上海体育大学、延边大学四支中国高…",
+      "title": "第十届平遥国际电影展公布“迁徙计划”推荐名单",
+      "summary": "中新社太原9月2日电 (记者 胡健)第十届平遥国际电影展产业单元“迁徙计划·从文学到影视”推荐作品2日揭晓，艾伟、梁鸿、肖克凡、畀愚等作家创作的10部文学作…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-01/10688249.shtml",
-      "publishedAt": "2026-09-01T13:39:08.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688961.shtml",
+      "publishedAt": "2026-09-02T11:28:25.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "文化"
     },
     {
-      "title": "2026年暑期档总票房124.98亿，周星驰《功夫女足》成票房冠军",
-      "summary": "中新网北京9月1日电(记者 任思雨)据国家电影局数据，2026年暑期档(6.1-8.31)电影总票房为124.98亿元，观影总人次达3.4亿，同比分别增长4…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-01/10687814.shtml",
-      "publishedAt": "2026-09-01T05:19:41.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "科技"
-    },
-    {
-      "title": "长三角科创布局聚焦常州：制造重镇瞄准产创融合",
-      "summary": "中新网常州9月2日电 (记者 唐娟)9月1日，上海(长三角)国际科技创新中心常州高能级创新型城市建设大会在江苏常州召开。会上，地方政府发布建设方案与配套政策…",
+      "title": "宁德遇大范围暴雨到大暴雨 多项雨量数据刷新历史纪录",
+      "summary": "中新网宁德9月3日电 (吴允杰)受台风“沙德尔”与热带辐合带共同影响，自8月31日起，福建省宁德市遭遇大范围暴雨到大暴雨，福鼎市、柘荣县境内出现特大暴雨。经…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688532.shtml",
-      "publishedAt": "2026-09-02T03:14:00.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689379.shtml",
+      "publishedAt": "2026-09-03T03:41:34.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "社会"
     },
     {
-      "title": "ChatGPT 和 Reddit 被要求遵守欧盟的 DSA",
-      "summary": "欧盟委员会周一表示，OpenAI 的 ChatGPT 将需要遵守更严格的欧盟法规，否则将面临罚款。聊天机器人 ChatGPT、社媒论坛 Reddit 和游戏…",
+      "title": "联合国报告警告全球气温升幅数年内将超过 1.5 度",
+      "summary": "联合国环境规划署（UNEP）2 日发布报告，警告称地球变暖导致全球平均气温较工业革命前上升的幅度将在数年内超过 1.5 度，灾害、健康危害等风险将上升至危机…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85254",
-      "publishedAt": "2026-09-01T12:51:39.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026年中国保龄球巡回赛暨第二届“彭世杯” 河南保龄球大赛闭幕",
-      "summary": "中新网郑州9月1日电 2026年中国保龄球巡回赛暨第二届“彭世杯”河南保龄球大赛近日在郑州落下帷幕。为期三天的精彩赛事，汇聚了全国保龄球精英，运动员们以球会…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10688161.shtml",
-      "publishedAt": "2026-09-01T13:15:37.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "文化"
-    },
-    {
-      "title": "中国速度攀岩系列赛长沙站举行 采用四赛道竞速",
-      "summary": "中新网9月1日电 据赛事主办方消息，8月31日，2026年中国速度攀岩系列赛(湖南长沙站)在湖南湘江新区梅溪湖城市岛落下帷幕。赛事为期三天，设置男子速度(四…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10688152.shtml",
-      "publishedAt": "2026-09-01T11:35:43.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "文化"
-    },
-    {
-      "title": "沙德尔回马枪 福建暴雨",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%B2%99%E5%BE%B7%E5%B0%94%E5%9B%9E%E9%A9%AC%E6%9E%AA+%E7%A6%8F%E5%BB%BA%E6%9A%B4%E9%9B%A8&sa=fyb_news",
-      "publishedAt": "2026-09-02T03:53:02.442Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
+      "url": "https://www.solidot.org/story?sid=85264",
+      "publishedAt": "2026-09-02T10:26:44.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
       "topic": "社会"
     },
     {
-      "title": "谁在赚机器人的“学费”？",
-      "summary": "一条新兴产业链开始加速度。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15044017.html",
-      "publishedAt": "2026-09-02T03:14:03.000Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
+      "title": "进口影片加速适配 中国成全球电影核心票仓",
+      "summary": "根据国家电影局统计，2026年暑期档电影票房为124.98亿元，观影人次为3.4亿，同比分别增长4.45%、5.86%。多部国产电影以能够引起观众广泛共鸣的…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688827.shtml",
+      "publishedAt": "2026-09-02T08:28:26.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "文化"
+    },
+    {
+      "title": "仿生机器人女性偏多",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%81%8F%E5%A4%9A&sa=fyb_news",
+      "publishedAt": "2026-09-03T03:51:48.840Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "社会"
+    },
+    {
+      "title": "清华“火神队”人形机器人足球赛场成功卫冕",
+      "summary": "中新网北京9月2日电 (记者 曾玥)记者从清华大学获悉，在近日于北京举行的第二届世界人形机器人运动会足球5V5大型组比赛中，由清华大学自动化系研究员赵明国指…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-02/10688940.shtml",
+      "publishedAt": "2026-09-02T10:40:34.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
       "topic": "科技"
     },
     {
-      "title": "徐州12345涌入万件演唱会诉求",
+      "title": "2026哈尔滨马拉松9月开跑 全球3万跑者将齐聚冰城",
+      "summary": "中新网哈尔滨9月2日电(记者 王妮娜)2026哈尔滨马拉松赛事发布会2日在哈尔滨举行。会议宣布，本届赛事将于9月13日7时30分开跑，届时3万名全球跑者将齐…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-02/10688941.shtml",
+      "publishedAt": "2026-09-02T10:45:16.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "文化"
+    },
+    {
+      "title": "东电被判赔偿部分福岛核事故避难者",
+      "summary": "日本大阪地方法院9月2日就福岛第一核电站事故避难者诉讼案作出裁决，判令东京电力公司承担部分赔偿责任，但驳回了原告对日本政府的索偿要求。原告方不服判决，表示将…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15049616.html",
+      "publishedAt": "2026-09-03T03:19:14.000Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "社会"
+    },
+    {
+      "title": "AI肖像授权是因为缺钱？戚薇回应",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%BE%90%E5%B7%9E12345%E6%B6%8C%E5%85%A5%E4%B8%87%E4%BB%B6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%AF%89%E6%B1%82&sa=fyb_news",
-      "publishedAt": "2026-09-02T03:53:02.442Z",
-      "fetchedAt": "2026-09-02T03:53:02.442Z",
-      "topic": "娱乐"
+      "url": "https://m.baidu.com/s?word=AI%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%BC%BA%E9%92%B1%EF%BC%9F%E6%88%9A%E8%96%87%E5%9B%9E%E5%BA%94&sa=fyb_news",
+      "publishedAt": "2026-09-03T03:51:48.840Z",
+      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "topic": "科技"
     }
   ]
 }
