@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-09-03T03:51:48.840Z",
+  "updatedAt": "2026-09-04T03:53:47.105Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
       "title": "国家体育总局：新周期全民健身计划面向社会各类人群",
       "summary": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：与2021年到…",
-      "source": "中新网",
+      "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689364.shtml",
       "publishedAt": "2026-09-03T03:23:41.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
       "topic": "社会"
     },
     {
-      "title": "第十届平遥国际电影展公布“迁徙计划”推荐名单",
-      "summary": "中新社太原9月2日电 (记者 胡健)第十届平遥国际电影展产业单元“迁徙计划·从文学到影视”推荐作品2日揭晓，艾伟、梁鸿、肖克凡、畀愚等作家创作的10部文学作…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688961.shtml",
-      "publishedAt": "2026-09-02T11:28:25.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
-      "topic": "文化"
-    },
-    {
-      "title": "宁德遇大范围暴雨到大暴雨 多项雨量数据刷新历史纪录",
-      "summary": "中新网宁德9月3日电 (吴允杰)受台风“沙德尔”与热带辐合带共同影响，自8月31日起，福建省宁德市遭遇大范围暴雨到大暴雨，福鼎市、柘荣县境内出现特大暴雨。经…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689379.shtml",
-      "publishedAt": "2026-09-03T03:41:34.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
-      "topic": "社会"
-    },
-    {
-      "title": "联合国报告警告全球气温升幅数年内将超过 1.5 度",
-      "summary": "联合国环境规划署（UNEP）2 日发布报告，警告称地球变暖导致全球平均气温较工业革命前上升的幅度将在数年内超过 1.5 度，灾害、健康危害等风险将上升至危机…",
+      "title": "纽约市禁止八年级以下公立学校学生使用生成式 AI",
+      "summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85264",
-      "publishedAt": "2026-09-02T10:26:44.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "url": "https://www.solidot.org/story?sid=85281",
+      "publishedAt": "2026-09-03T15:29:05.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
       "topic": "社会"
     },
     {
-      "title": "进口影片加速适配 中国成全球电影核心票仓",
-      "summary": "根据国家电影局统计，2026年暑期档电影票房为124.98亿元，观影人次为3.4亿，同比分别增长4.45%、5.86%。多部国产电影以能够引起观众广泛共鸣的…",
+      "title": "中国建筑师马岩松主持设计的卢卡斯叙事艺术博物馆将在洛杉矶开馆",
+      "summary": "中新网北京9月3日电 (记者 应妮)记者从建筑师马岩松工作室获悉，由其主持设计的卢卡斯叙事艺术博物馆将于9月22日在美国洛杉矶正式开馆。这座由好莱坞著名电影…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688827.shtml",
-      "publishedAt": "2026-09-02T08:28:26.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-03/10689949.shtml",
+      "publishedAt": "2026-09-03T14:28:11.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
       "topic": "文化"
     },
     {
-      "title": "仿生机器人女性偏多",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%81%8F%E5%A4%9A&sa=fyb_news",
-      "publishedAt": "2026-09-03T03:51:48.840Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
-      "topic": "社会"
-    },
-    {
-      "title": "清华“火神队”人形机器人足球赛场成功卫冕",
-      "summary": "中新网北京9月2日电 (记者 曾玥)记者从清华大学获悉，在近日于北京举行的第二届世界人形机器人运动会足球5V5大型组比赛中，由清华大学自动化系研究员赵明国指…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-02/10688940.shtml",
-      "publishedAt": "2026-09-02T10:40:34.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "title": "事关智能锁和养老机器人 我国智能家居国际标准化建设提速",
+      "summary": "记者今天了解到，我国近期深度参与国际标准化组织(ISO)、国际电工委员会(IEC)智能家居标准化工作，积极推动国际标准立项、研制及发布落地。其中，我国牵头制…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690172.shtml",
+      "publishedAt": "2026-09-04T03:43:41.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
       "topic": "科技"
     },
     {
-      "title": "2026哈尔滨马拉松9月开跑 全球3万跑者将齐聚冰城",
-      "summary": "中新网哈尔滨9月2日电(记者 王妮娜)2026哈尔滨马拉松赛事发布会2日在哈尔滨举行。会议宣布，本届赛事将于9月13日7时30分开跑，届时3万名全球跑者将齐…",
+      "title": "国家体育总局：“十五五”时期将完善竞技体育新型举国体制",
+      "summary": "中新网北京9月3日电 (记者 国璇)国家体育总局局长高志丹3日在北京表示，“十五五”时期将完善竞技体育新型举国体制，更好发挥市场机制和社会力量在竞技体育发展…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-02/10688941.shtml",
-      "publishedAt": "2026-09-02T10:45:16.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
-      "topic": "文化"
-    },
-    {
-      "title": "东电被判赔偿部分福岛核事故避难者",
-      "summary": "日本大阪地方法院9月2日就福岛第一核电站事故避难者诉讼案作出裁决，判令东京电力公司承担部分赔偿责任，但驳回了原告对日本政府的索偿要求。原告方不服判决，表示将…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15049616.html",
-      "publishedAt": "2026-09-03T03:19:14.000Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689464.shtml",
+      "publishedAt": "2026-09-03T06:17:02.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
       "topic": "社会"
     },
     {
-      "title": "AI肖像授权是因为缺钱？戚薇回应",
+      "title": "AI短剧“撞脸”幕后：盗脸、买卖脸成完整“产业链”",
+      "summary": "AI短剧何以“一张脸演百剧”？",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-03/10689561.shtml",
+      "publishedAt": "2026-09-03T07:42:21.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "广州八成市民使用过AI 最期待AI率先应用于民生",
+      "summary": "中新网广州9月4日电 (许青青 王薇)据广州市统计局3日发布的调查显示，广州市八成市民使用过AI，最期待AI率先在民生领域落地应用，包括智慧医疗、智慧交通、…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690150.shtml",
+      "publishedAt": "2026-09-04T03:18:43.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
+      "topic": "社会"
+    },
+    {
+      "title": "Uber 裁员 3300 人",
+      "summary": "Uber 宣布裁员 3300 人，大约占全球员工总数的 10%。与其它科技公司不同的是，Uber 不是以 AI 的借口裁员的，而是旨在精简管理层和降低成本。…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85269",
+      "publishedAt": "2026-09-03T07:29:51.000Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "深夜突发！美国AI大宕机",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=AI%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%BC%BA%E9%92%B1%EF%BC%9F%E6%88%9A%E8%96%87%E5%9B%9E%E5%BA%94&sa=fyb_news",
-      "publishedAt": "2026-09-03T03:51:48.840Z",
-      "fetchedAt": "2026-09-03T03:51:48.840Z",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA&sa=fyb_news",
+      "publishedAt": "2026-09-04T03:53:47.105Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "年薪可达百万！商业航天抢人",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%96%AA%E5%8F%AF%E8%BE%BE%E7%99%BE%E4%B8%87%EF%BC%81%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%A2%E4%BA%BA&sa=fyb_news",
+      "publishedAt": "2026-09-04T03:53:47.105Z",
+      "fetchedAt": "2026-09-04T03:53:47.105Z",
       "topic": "科技"
     }
   ]
