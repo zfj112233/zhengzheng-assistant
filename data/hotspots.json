@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-08T03:57:53.354Z",
+  "updatedAt": "2026-09-09T04:03:26.009Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "全国首部闽宁协作主题AI微短剧《塞上渔歌》正式上线",
-      "summary": "中新网福州9月7日电 （记者 闫旭）6日，全国首部闽宁协作主题AI微短剧《塞上渔歌》上线启动仪式暨新闻发布会在福州举行。",
+      "title": "第十届平遥国际电影展公布两大短片评审团 八校师资与意大利影人共荐新人",
+      "summary": "中新网太原9月8日电 (记者 胡健)第十届平遥国际电影展8日公布“费穆荣誉·最佳短片”与“平遥一角·最佳学生短片”两大评审团阵容。九位来自国内外知名影视院校…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-07/10691752.shtml",
-      "publishedAt": "2026-09-07T02:57:02.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692829.shtml",
+      "publishedAt": "2026-09-08T12:07:25.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "社会"
     },
     {
-      "title": "法国西南部气温超过40摄氏度 突破9月历史同期高温纪录",
-      "summary": "中新网巴黎9月8日电 法国西南部部分地区气温当地时间7日超过40摄氏度，从而突破9月历史同期高温纪录。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692367.shtml",
-      "publishedAt": "2026-09-08T03:30:51.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "社会"
+      "title": "美国今年上半年 CD 和黑胶唱片销量大幅增长",
+      "summary": "根据 RIAA 公布的数据，美国今年上半年 CD 和黑胶唱片等实体唱片销量大幅增长。消费者对订阅服务价格上涨的不满推动了实体音乐的复苏。上半年录制音乐收入比…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85315",
+      "publishedAt": "2026-09-08T06:51:37.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "科技"
     },
     {
       "title": "第十届平遥国际电影展公布“藏龙·短片”“平遥一角”入围名单",
@@ -27,71 +27,71 @@
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692427.shtml",
       "publishedAt": "2026-09-08T02:49:32.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
       "topic": "文化"
     },
     {
-      "title": "泰国暂停所有数据中心项目建设",
-      "summary": "泰国经济和社会发展委员会上周下令暂停所有数据中心项目的建设，给予数据中心运营商和投资者一周时间提交运营信息，以帮助政府加快制定统一的数据中心监管框架。经济和…",
+      "title": "15分制国际首秀 2026亚青羽赛在蓉开赛",
+      "summary": "中新网成都9月8日电 (祝欢)8日，2026亚洲U17暨U15青少年羽毛球锦标赛在成都温江开赛。本届赛事为期6天，来自14个国家和地区的400余名青少年运动…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692790.shtml",
+      "publishedAt": "2026-09-08T11:15:20.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "文化"
+    },
+    {
+      "title": "体育文化全国行走进西安建大 李昕奚爱华李雪芮参与互动",
+      "summary": "中新网9月8日电 据国家体育总局体育文化发展中心消息，2026体育文化全国行——走进西安建筑科技大学体育文化活动，8日在西安建筑科技大学雁塔校区举办。篮球名…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692962.shtml",
+      "publishedAt": "2026-09-08T15:00:02.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "科技"
+    },
+    {
+      "title": "澳大利亚想要社媒平台允许用户退出算法驱动的信息流",
+      "summary": "在禁止儿童使用社媒平台之后，澳大利亚工党政府提出了一项新的法律草案，要求社媒平台允许用户退出算法驱动的信息流。用户可选择算法推荐的个性化内容作为默认信息流，…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85312",
-      "publishedAt": "2026-09-07T14:17:15.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
+      "url": "https://www.solidot.org/story?sid=85320",
+      "publishedAt": "2026-09-08T11:15:04.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
       "topic": "社会"
     },
     {
-      "title": "开局起步“十五五”：海南万宁谋体育旅游“两篇文章”",
-      "summary": "中新网海口9月7日电 (张茜翼 王俞力)把游客“流量”转化为产业“增量”，把当下“热度”转化为长久“口碑”——这是海南省万宁市在“十五五”开局之年为体育旅游…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10692273.shtml",
-      "publishedAt": "2026-09-07T14:17:57.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "文化"
-    },
-    {
-      "title": "柴达木星球挑战赛在青海省海西举办",
-      "summary": "中新网西宁9月7日电 (袁振民 毛璐 孙睿)9月4日至6日，柴达木星球挑战赛在青海海西州茫崖市冷湖举行。该挑战赛是国内首个融合科技、科幻、体育、生态的户外定…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691711.shtml",
-      "publishedAt": "2026-09-07T02:25:34.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "科技"
-    },
-    {
-      "title": "AI产业热潮叠加低基数效应，8月中国出口同比增长25%",
-      "summary": "当前外需整体偏强，特别是全球AI投资热潮会继续对我国芯片出口形成较强拉动。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15067504.html",
-      "publishedAt": "2026-09-08T03:16:01.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "科技"
-    },
-    {
-      "title": "从雍正朱批到宋代茶具：四库全书数字化成果展让古籍走出“故纸堆”",
-      "summary": "中新网兰州9月8日电(记者 高莹)提起《四库全书》，多数人的印象是卷帙浩繁、文字艰深、束之高阁的古代典籍。9月8日，记者走进位于甘肃省兰州市的读者插图艺术馆…",
+      "title": "教育观察：杭州如何为“00后”教师铺就成长车道？",
+      "summary": "中新网杭州9月9日电(林波 曹丹 孙琳茹)午休后的幼儿园里，男幼师巧手翻飞，为孩童编出各式可爱发型；特教校园中，年轻班主任俯身陪伴，读懂特殊孩子的无声情绪；…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692460.shtml",
-      "publishedAt": "2026-09-08T03:31:57.000Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-09/10693131.shtml",
+      "publishedAt": "2026-09-09T03:36:37.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "社会"
+    },
+    {
+      "title": "中新健康｜白露过后，最忌“露”这两个部位",
+      "summary": "中新网北京9月9日电(罗春昊)二十四节气中“白露”是秋天的第三个节气，“白露”过后，大部分地区暑气基本消散，天气开始转凉，早晚温差明显拉大。老话讲“白露身不…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-09/10693110.shtml",
+      "publishedAt": "2026-09-09T02:54:09.000Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "社会"
+    },
+    {
+      "title": "AI眼镜突然卖不动了",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=AI%E7%9C%BC%E9%95%9C%E7%AA%81%E7%84%B6%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news",
+      "publishedAt": "2026-09-09T04:03:26.009Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
       "topic": "科技"
     },
     {
-      "title": "6G手机要来了",
+      "title": "浙江一公司收到美国3.66亿元关税退税",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=6G%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news",
-      "publishedAt": "2026-09-08T03:57:53.354Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "科技"
-    },
-    {
-      "title": "年轻人为什么爱上“杀糕局”",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B1%E4%B8%8A%E2%80%9C%E6%9D%80%E7%B3%95%E5%B1%80%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-09-08T03:57:53.354Z",
-      "fetchedAt": "2026-09-08T03:57:53.354Z",
-      "topic": "生活方式"
+      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E&sa=fyb_news",
+      "publishedAt": "2026-09-09T04:03:26.009Z",
+      "fetchedAt": "2026-09-09T04:03:26.009Z",
+      "topic": "公共新闻"
     }
   ]
 }
