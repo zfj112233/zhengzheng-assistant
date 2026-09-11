@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T04:01:56.517Z",
+  "updatedAt": "2026-09-11T03:58:58.287Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
@@ -9,26 +9,17 @@
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/09-10/10693767.shtml",
       "publishedAt": "2026-09-10T02:10:31.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
       "topic": "科技"
     },
     {
-      "title": "第十届全国优秀儿童戏剧展演在江苏常熟落幕",
-      "summary": "中新网苏州9月9日电 (记者 常慕城)由文化和旅游部艺术司、江苏省文化和旅游厅、苏州市人民政府主办的第十届全国优秀儿童戏剧展演闭幕式，8日晚在常熟声谷大剧院…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693192.shtml",
-      "publishedAt": "2026-09-09T06:21:24.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
-      "topic": "社会"
-    },
-    {
-      "title": "全球34所高校赛艇选手南京同场竞技",
-      "summary": "中新网南京9月9日电 (记者 徐珊珊)2026南京·大学生国际赛艇公开赛新闻发布会9月9日在南京大学鼓楼校区举行。赛事总体规划、参赛阵容、赛制规则及奖项设置…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-09/10693508.shtml",
-      "publishedAt": "2026-09-09T12:06:44.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
-      "topic": "社会"
+      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navie…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85339",
+      "publishedAt": "2026-09-10T15:51:55.000Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
+      "topic": "科技"
     },
     {
       "title": "屏幕使用时长导致学生阅读得分大幅下降",
@@ -36,62 +27,71 @@
       "source": "Solidot科技",
       "url": "https://www.solidot.org/story?sid=85333",
       "publishedAt": "2026-09-09T17:13:04.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
       "topic": "社会"
     },
     {
-      "title": "2026滨州国际公路自行车赛落幕",
-      "summary": "中新网滨州9月9日电 九九黄河·2026滨州国际公路自行车赛9日在山东滨州举行。这项由国际自行车联盟认证的一级单日赛事，已跻身中国体育旅游精品项目重点推介行列。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-09/10693588.shtml",
-      "publishedAt": "2026-09-09T13:42:15.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
+      "title": "第十届平遥国际电影展发布官方海报和主题",
+      "summary": "中新网太原9月10日电 (记者 胡健)第十届平遥国际电影展组委会10日发布官方海报和主题，本届影展主题为“答案在路上”，海报则以两组人物剪影致敬两位电影先驱…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-10/10694116.shtml",
+      "publishedAt": "2026-09-10T10:19:53.000Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
       "topic": "文化"
     },
     {
-      "title": "全国新的社会阶层人士“科创中国”服务团走进山东青岛",
-      "summary": "图为嘉宾与人形机器人互动。张孝鹏 摄 图为机器人写福字吸引众多嘉宾驻足。张孝鹏 摄 图为嘉宾了解一款虚拟现实眼镜产品。张孝鹏 摄 图为嘉宾品尝机器人制作的咖…",
+      "title": "认知症老人有了AI聊天“老搭子”",
+      "summary": "照护机构下单，科技企业接单：经验“喂”进智能体，熟悉的护理员会“分身”",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10693818.shtml",
-      "publishedAt": "2026-09-10T02:52:57.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694495.shtml",
+      "publishedAt": "2026-09-11T02:49:14.000Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
       "topic": "社会"
     },
     {
-      "title": "“智囊团”发挥作用 建言更好建设国际商事纠纷解决机制",
-      "summary": "中新网上海9月10日电 (记者 张素)中国最高人民法院国际商事专家委员会，是由在国际商事法律领域具有精深造诣的中外法学法律专家组成的一个“智囊团”。",
+      "title": "家门口的赛事带热城市文旅",
+      "summary": "浙江诸暨以“篮球+”融合文商旅体产业",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693848.shtml",
-      "publishedAt": "2026-09-10T03:52:23.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
-      "topic": "社会"
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694483.shtml",
+      "publishedAt": "2026-09-11T02:38:23.000Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
+      "topic": "文化"
     },
     {
-      "title": "欧盟气候机构：今年8月是有记录以来全球最热月份",
-      "summary": "当地时间9月10日，欧盟哥白尼气候变化服务局表示，刚刚过去的8月与2023年7月并列成为有记录以来全球最热的月份。该机构数据显示，8月全球平均气温为16.9…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15077785.html",
-      "publishedAt": "2026-09-10T03:32:03.000Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
-      "topic": "科技"
-    },
-    {
-      "title": "戚薇AI脸演丧尸片了",
+      "title": "电影《老江湖》冲击力",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86&sa=fyb_news",
-      "publishedAt": "2026-09-10T04:01:56.517Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E8%80%81%E6%B1%9F%E6%B9%96%E3%80%8B%E5%86%B2%E5%87%BB%E5%8A%9B&sa=fyb_news",
+      "publishedAt": "2026-09-11T03:58:58.287Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
+      "topic": "文化"
     },
     {
-      "title": "教育本就是一场美好的双向奔赴",
+      "title": "2026年度象棋文字书法作品文化活动在上海举办",
+      "summary": "中新网9月10日电 据国家体育总局体育文化发展中心消息，2026年度象棋文字书法作品文化活动于上海市嘉定区南翔檀园拉开帷幕，乒乓球世界冠军、“乒乓外交”亲历…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694336.shtml",
+      "publishedAt": "2026-09-10T14:09:20.000Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
+      "topic": "文化"
+    },
+    {
+      "title": "洗车排队起冲突 老人被打致多处骨折",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E6%9C%AC%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4&sa=fyb_news",
-      "publishedAt": "2026-09-10T04:01:56.517Z",
-      "fetchedAt": "2026-09-10T04:01:56.517Z",
+      "url": "https://m.baidu.com/s?word=%E6%B4%97%E8%BD%A6%E6%8E%92%E9%98%9F%E8%B5%B7%E5%86%B2%E7%AA%81+%E8%80%81%E4%BA%BA%E8%A2%AB%E6%89%93%E8%87%B4%E5%A4%9A%E5%A4%84%E9%AA%A8%E6%8A%98&sa=fyb_news",
+      "publishedAt": "2026-09-11T03:58:58.287Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
       "topic": "社会"
+    },
+    {
+      "title": "北京田径世锦赛迎倒计时一周年 巩立姣寄语新秀珍惜大赛机会",
+      "summary": "中新网北京9月10日电(记者 国璇) 北京2027年世界田径锦标赛倒计时一周年活动10日在国家体育场举行。奥运冠军、去年退役的铅球名将巩立姣寄语中国田径新秀…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694317.shtml",
+      "publishedAt": "2026-09-10T13:45:06.000Z",
+      "fetchedAt": "2026-09-11T03:58:58.287Z",
+      "topic": "文化"
     }
   ]
 }
