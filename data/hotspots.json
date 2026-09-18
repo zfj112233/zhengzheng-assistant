@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-17T04:21:02.757Z",
+  "updatedAt": "2026-09-18T04:04:54.507Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "“光语”点亮石库门 滕俊杰：情感是底色 AI作为“画笔”",
-      "summary": "中新网上海9月16日电 (记者 陈静)“闪亮·上海”(静安)2026国际光影艺术大赛决赛16日举行，20件海内外入围光影艺术作品经大赛评委会多轮严谨终审，角…",
+      "title": "今年前8个月全国上线微短剧43万部 其中AI剧超九成",
+      "summary": "中新社北京9月17日电 (记者 马帅莎)中国国务院新闻办公室17日在北京举行新闻发布会。记者从会上获悉，今年前8个月，全国上线微短剧共43万部，是去年全年的…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-16/10697847.shtml",
-      "publishedAt": "2026-09-16T12:58:45.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-17/10698257.shtml",
+      "publishedAt": "2026-09-17T08:21:55.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
       "topic": "科技"
     },
     {
-      "title": "第十届平遥国际电影展片单揭晓 近40个国家和地区50部影片入围",
-      "summary": "中新社山西平遥9月16日电 (记者 胡健)第十届平遥国际电影展16日揭晓入围片单，来自中国、法国、美国、韩国、罗马尼亚等近40个国家和地区的50部影片入围。…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-16/10697795.shtml",
-      "publishedAt": "2026-09-16T12:46:49.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "文化"
-    },
-    {
-      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
-      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smar…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85395",
-      "publishedAt": "2026-09-16T10:53:58.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "科技"
-    },
-    {
-      "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
-      "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 …",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85394",
-      "publishedAt": "2026-09-16T10:30:50.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "科技"
-    },
-    {
-      "title": "手搓电影《目不转睛》",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%90%93%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%AE%E4%B8%8D%E8%BD%AC%E7%9D%9B%E3%80%8B&sa=fyb_news",
-      "publishedAt": "2026-09-17T04:21:02.757Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "文化"
-    },
-    {
-      "title": "国家广电总局：严禁AI魔改，使用AI的广电视听节目必须添加内容标识",
-      "summary": "新闻发布会现场。袁秀月 摄 中新网9月17日电 (记者 袁秀月)9月17日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局副…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698123.shtml",
-      "publishedAt": "2026-09-17T03:30:42.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "科技"
-    },
-    {
-      "title": "长春大冬会筹备提速 吉林市分赛区迎代表团实地考察",
-      "summary": "中新网吉林9月16日电 (记者 苍雁 石洪宇)16日，长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)代表团团长会议参会代表赴吉林市分赛区实地…",
+      "title": "2026太原马拉松奖励体系升级 首设中国籍运动员特别奖",
+      "summary": "中新网太原9月17日电(记者 胡健)2026太原马拉松(简称“太马”)赛事发布会17日在山西省太原市滨河体育中心举行，本届赛事将于9月27日7时30分在五一…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-16/10697540.shtml",
-      "publishedAt": "2026-09-16T07:49:24.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698530.shtml",
+      "publishedAt": "2026-09-17T13:34:12.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "文化"
+    },
+    {
+      "title": "2026镜泊湖网络文学产业合作交流大会在牡丹江启幕",
+      "summary": "中新网牡丹江9月17日电 (唐凤来)9月17日，2026镜泊湖网络文学产业合作交流大会暨“耳根宇宙”AIGC内容创作大赛在牡丹江市开幕，来自全国各地的网络作…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-17/10698289.shtml",
+      "publishedAt": "2026-09-17T08:30:17.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "科技"
+    },
+    {
+      "title": "东南大学举行2026年开学典礼 本硕博新生扬帆启航",
+      "summary": "图为新生佩戴东南大学校徽。中新社记者 泱波 摄 图为开学典礼现场。（无人机照片）中新社记者 泱波 摄 图为新生代表向家长、重点生源中学校长代表献花致谢。中新…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10698808.shtml",
+      "publishedAt": "2026-09-18T03:49:10.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
       "topic": "社会"
     },
     {
-      "title": "（爱知·名古屋亚运会）胡明轩、吴愉担任爱知·名古屋亚运会中国体育代表团旗手",
-      "summary": "中新社日本名古屋9月16日电 (记者 国璇) 中国体育代表团16日宣布爱知·名古屋亚运会开幕式旗手人选，男子篮球运动员胡明轩和女子拳击运动员吴愉将在19日的…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-16/10697868.shtml",
-      "publishedAt": "2026-09-16T13:25:57.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "文化"
+      "title": "今年上线的微短剧逾九成是 AI 剧",
+      "summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85408",
+      "publishedAt": "2026-09-17T10:31:46.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "科技"
     },
     {
-      "title": "途虎养车成为2026世界技能大赛金牌合作伙伴 携顶尖赛事锻造专业汽修硬实力",
-      "summary": "近日，途虎养车正式官宣成为2026世界技能大赛金牌合作伙伴。这是途虎养车首次牵手国际顶级职业技能赛事，途虎将围绕专业技师认证、赛事级技术标准及产教融合人才培…",
+      "title": "探访中国传统村落：福建罗源岭兜村",
+      "summary": "9月17日，航拍岭兜村。（无人机照片）中新社记者 王东明 摄 9月17日，村民在村中晒稻谷。（无人机照片）中新社记者 王东明 摄 9月17日，游客在岭兜村参…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698132.shtml",
-      "publishedAt": "2026-09-17T03:46:47.000Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10698794.shtml",
+      "publishedAt": "2026-09-18T03:53:50.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "科技"
+    },
+    {
+      "title": "“十五五”时期如何推进地下管网建设，住建部回应来了",
+      "summary": "住建部表示，加强城市地下管网建设，既有利于完善城市功能、增进民生福祉，又有利于扩大有效投资。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15111965.html",
+      "publishedAt": "2026-09-18T03:47:38.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "社会"
+    },
+    {
+      "title": "2027年乒乓球混团世界杯将首次纳入洛杉矶奥运会积分体系",
+      "summary": "中新社北京9月17日电 国际乒联17日公布了2027年世界杯赛历。中国成都将连续第五年承办国际乒联混合团体世界杯，同时2027年该项赛事将首次纳入2028年…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698590.shtml",
+      "publishedAt": "2026-09-17T15:16:53.000Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
       "topic": "文化"
     },
     {
-      "title": "机顶盒将成为历史",
+      "title": "总书记引领科技强国路",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%B0%86%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2&sa=fyb_news",
-      "publishedAt": "2026-09-17T04:21:02.757Z",
-      "fetchedAt": "2026-09-17T04:21:02.757Z",
-      "topic": "文化"
+      "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E8%B7%AF&sa=fyb_news",
+      "publishedAt": "2026-09-18T04:04:54.507Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "科技"
+    },
+    {
+      "title": "一个智能药盒卖3900元",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E8%8D%AF%E7%9B%92%E5%8D%963900%E5%85%83&sa=fyb_news",
+      "publishedAt": "2026-09-18T04:04:54.507Z",
+      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "topic": "科技"
     }
   ]
 }
