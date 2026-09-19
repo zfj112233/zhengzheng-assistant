@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-18T04:04:54.507Z",
+  "updatedAt": "2026-09-19T04:02:09.956Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "今年前8个月全国上线微短剧43万部 其中AI剧超九成",
-      "summary": "中新社北京9月17日电 (记者 马帅莎)中国国务院新闻办公室17日在北京举行新闻发布会。记者从会上获悉，今年前8个月，全国上线微短剧共43万部，是去年全年的…",
+      "title": "第十届平遥国际电影展“大师·对话”日程公布 七场活动聚焦电影传承与创新",
+      "summary": "中新网太原9月18日电 (记者 胡健)第十届平遥国际电影展“大师·对话”系列学术活动将于9月25日至30日在平遥电影宫举行，共设7场大师班及对话。活动邀请中…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-17/10698257.shtml",
-      "publishedAt": "2026-09-17T08:21:55.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026太原马拉松奖励体系升级 首设中国籍运动员特别奖",
-      "summary": "中新网太原9月17日电(记者 胡健)2026太原马拉松(简称“太马”)赛事发布会17日在山西省太原市滨河体育中心举行，本届赛事将于9月27日7时30分在五一…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698530.shtml",
-      "publishedAt": "2026-09-17T13:34:12.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-18/10699039.shtml",
+      "publishedAt": "2026-09-18T08:37:14.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
       "topic": "文化"
     },
     {
-      "title": "2026镜泊湖网络文学产业合作交流大会在牡丹江启幕",
-      "summary": "中新网牡丹江9月17日电 (唐凤来)9月17日，2026镜泊湖网络文学产业合作交流大会暨“耳根宇宙”AIGC内容创作大赛在牡丹江市开幕，来自全国各地的网络作…",
+      "title": "创作者借助生成式AI探索文化表达 专家建言读懂传统、观照当下",
+      "summary": "中新网北京9月18日电 题：",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-17/10698289.shtml",
-      "publishedAt": "2026-09-17T08:30:17.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-18/10699204.shtml",
+      "publishedAt": "2026-09-18T12:36:47.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
       "topic": "科技"
     },
     {
-      "title": "东南大学举行2026年开学典礼 本硕博新生扬帆启航",
-      "summary": "图为新生佩戴东南大学校徽。中新社记者 泱波 摄 图为开学典礼现场。（无人机照片）中新社记者 泱波 摄 图为新生代表向家长、重点生源中学校长代表献花致谢。中新…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10698808.shtml",
-      "publishedAt": "2026-09-18T03:49:10.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
-      "topic": "社会"
-    },
-    {
-      "title": "今年上线的微短剧逾九成是 AI 剧",
-      "summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导…",
+      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动盗窃",
+      "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动盗窃。他不认为抓取…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85408",
-      "publishedAt": "2026-09-17T10:31:46.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "url": "https://www.solidot.org/story?sid=85423",
+      "publishedAt": "2026-09-18T16:11:37.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
       "topic": "科技"
     },
     {
-      "title": "探访中国传统村落：福建罗源岭兜村",
-      "summary": "9月17日，航拍岭兜村。（无人机照片）中新社记者 王东明 摄 9月17日，村民在村中晒稻谷。（无人机照片）中新社记者 王东明 摄 9月17日，游客在岭兜村参…",
+      "title": "AI进入未成年人生活：是工具，还是依赖？",
+      "summary": "中新网9月19日电 (宋宇晟)人工智能正在进入未成年人的生活。如今，只需一段文字指令，AI就能完成与孩子的互动。",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10698794.shtml",
-      "publishedAt": "2026-09-18T03:53:50.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699398.shtml",
+      "publishedAt": "2026-09-19T03:49:12.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
       "topic": "科技"
     },
     {
-      "title": "“十五五”时期如何推进地下管网建设，住建部回应来了",
-      "summary": "住建部表示，加强城市地下管网建设，既有利于完善城市功能、增进民生福祉，又有利于扩大有效投资。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15111965.html",
-      "publishedAt": "2026-09-18T03:47:38.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "title": "广东民族乐团赴荷奏响中荷文化交流温情乐章",
+      "summary": "中新网9月19日电 “华韵少年·乐动中西”主题音乐会近日在荷兰代尔夫特中文学校举办。广东民族乐团携手荷兰华裔青少年音乐爱好者，在中秋将至、家国同庆的氛围里，…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-19/10699377.shtml",
+      "publishedAt": "2026-09-19T03:22:29.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
       "topic": "社会"
     },
     {
-      "title": "2027年乒乓球混团世界杯将首次纳入洛杉矶奥运会积分体系",
-      "summary": "中新社北京9月17日电 国际乒联17日公布了2027年世界杯赛历。中国成都将连续第五年承办国际乒联混合团体世界杯，同时2027年该项赛事将首次纳入2028年…",
+      "title": "85% 的日本游戏开发者在工作中使用生成式 AI",
+      "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game In…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85422",
+      "publishedAt": "2026-09-18T15:48:43.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "topic": "科技"
+    },
+    {
+      "title": "第五届全国老健会匹克球交流活动长沙启幕 全国32支代表队以球会友",
+      "summary": "中新网长沙9月18日电 (吉蔼韬)18日，第五届全国老年人体育健身大会“北京银行杯”匹克球交流活动在湖南国展匹克球赛事中心开幕。",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698590.shtml",
-      "publishedAt": "2026-09-17T15:16:53.000Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-18/10699243.shtml",
+      "publishedAt": "2026-09-18T14:01:01.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
       "topic": "文化"
     },
     {
-      "title": "总书记引领科技强国路",
+      "title": "店主贴“回趟公安”被解读成拘留",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E8%B7%AF&sa=fyb_news",
-      "publishedAt": "2026-09-18T04:04:54.507Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E5%BA%97%E4%B8%BB%E8%B4%B4%E2%80%9C%E5%9B%9E%E8%B6%9F%E5%85%AC%E5%AE%89%E2%80%9D%E8%A2%AB%E8%A7%A3%E8%AF%BB%E6%88%90%E6%8B%98%E7%95%99&sa=fyb_news",
+      "publishedAt": "2026-09-19T04:02:09.956Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "topic": "社会"
     },
     {
-      "title": "一个智能药盒卖3900元",
+      "title": "2026第二届河北省武术交流大赛在沧州开幕",
+      "summary": "中新网沧州9月18日电 (李玉素)18日，以“以武为媒 赛事兴城”为主题的“中佳杯”2026第二届河北省武术交流大赛在河北省沧州市孟村回族自治县八极拳展演馆…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-18/10698964.shtml",
+      "publishedAt": "2026-09-18T07:15:05.000Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "topic": "文化"
+    },
+    {
+      "title": "被韩国人捧成网红 这个品牌要IPO吗",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E8%8D%AF%E7%9B%92%E5%8D%963900%E5%85%83&sa=fyb_news",
-      "publishedAt": "2026-09-18T04:04:54.507Z",
-      "fetchedAt": "2026-09-18T04:04:54.507Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%8D%A7%E6%88%90%E7%BD%91%E7%BA%A2+%E8%BF%99%E4%B8%AA%E5%93%81%E7%89%8C%E8%A6%81IPO%E5%90%97&sa=fyb_news",
+      "publishedAt": "2026-09-19T04:02:09.956Z",
+      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "topic": "公共新闻"
     }
   ]
 }
