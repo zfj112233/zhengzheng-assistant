@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-19T04:02:09.956Z",
+  "updatedAt": "2026-09-20T04:21:24.608Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "第十届平遥国际电影展“大师·对话”日程公布 七场活动聚焦电影传承与创新",
-      "summary": "中新网太原9月18日电 (记者 胡健)第十届平遥国际电影展“大师·对话”系列学术活动将于9月25日至30日在平遥电影宫举行，共设7场大师班及对话。活动邀请中…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-18/10699039.shtml",
-      "publishedAt": "2026-09-18T08:37:14.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
-      "topic": "文化"
-    },
-    {
-      "title": "创作者借助生成式AI探索文化表达 专家建言读懂传统、观照当下",
-      "summary": "中新网北京9月18日电 题：",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-18/10699204.shtml",
-      "publishedAt": "2026-09-18T12:36:47.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
-      "topic": "科技"
-    },
-    {
-      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动盗窃",
-      "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动盗窃。他不认为抓取…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85423",
-      "publishedAt": "2026-09-18T16:11:37.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
-      "topic": "科技"
-    },
-    {
-      "title": "AI进入未成年人生活：是工具，还是依赖？",
-      "summary": "中新网9月19日电 (宋宇晟)人工智能正在进入未成年人的生活。如今，只需一段文字指令，AI就能完成与孩子的互动。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699398.shtml",
-      "publishedAt": "2026-09-19T03:49:12.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
-      "topic": "科技"
-    },
-    {
-      "title": "广东民族乐团赴荷奏响中荷文化交流温情乐章",
-      "summary": "中新网9月19日电 “华韵少年·乐动中西”主题音乐会近日在荷兰代尔夫特中文学校举办。广东民族乐团携手荷兰华裔青少年音乐爱好者，在中秋将至、家国同庆的氛围里，…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-19/10699377.shtml",
-      "publishedAt": "2026-09-19T03:22:29.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "title": "国家药监局：鼓励外资将原研药品和高端医疗装备引进境内生产",
+      "summary": "9月20日，国家药监局副局长杨胜在国新办发布会上表示，将支持医药产业规模化、集约化、高端化发展。鼓励医药企业建设智能工厂、绿色工厂，将继续支持京津冀、长三角…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15117165.html",
+      "publishedAt": "2026-09-20T03:01:45.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
       "topic": "社会"
     },
     {
-      "title": "85% 的日本游戏开发者在工作中使用生成式 AI",
-      "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game In…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85422",
-      "publishedAt": "2026-09-18T15:48:43.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
-      "topic": "科技"
-    },
-    {
-      "title": "第五届全国老健会匹克球交流活动长沙启幕 全国32支代表队以球会友",
-      "summary": "中新网长沙9月18日电 (吉蔼韬)18日，第五届全国老年人体育健身大会“北京银行杯”匹克球交流活动在湖南国展匹克球赛事中心开幕。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-18/10699243.shtml",
-      "publishedAt": "2026-09-18T14:01:01.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "title": "张姗姗《同时 暂时》亮相平遥国际摄影大展 探讨时空交错下的人与环境",
+      "summary": "中新网晋中9月19日电 (记者 胡健)第26届平遥国际摄影大展19日在山西晋中平遥古城启幕。独立电影人、视觉艺术家张姗姗的个人展览《同时 暂时》亮相大展，该…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699661.shtml",
+      "publishedAt": "2026-09-19T12:43:34.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
       "topic": "文化"
     },
     {
-      "title": "店主贴“回趟公安”被解读成拘留",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%BA%97%E4%B8%BB%E8%B4%B4%E2%80%9C%E5%9B%9E%E8%B6%9F%E5%85%AC%E5%AE%89%E2%80%9D%E8%A2%AB%E8%A7%A3%E8%AF%BB%E6%88%90%E6%8B%98%E7%95%99&sa=fyb_news",
-      "publishedAt": "2026-09-19T04:02:09.956Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "title": "第十三届丝绸之路国际电影节在西安开幕",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/shipin/2026/09-20/news1069463.shtml",
+      "publishedAt": "2026-09-20T03:08:36.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "topic": "文化"
+    },
+    {
+      "title": "市场监管总局：将加强重点领域食品安全风险防控 完善“三品一特”监管措施",
+      "summary": "中新网9月20日电 9月20日，国新办就“十五五”时期推动市场监管高质量发展有关情况举行新闻发布会。会上，市场监管总局新闻发言人、副局长束为表示，食品、药品…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699868.shtml",
+      "publishedAt": "2026-09-20T03:50:01.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
       "topic": "社会"
     },
     {
-      "title": "2026第二届河北省武术交流大赛在沧州开幕",
-      "summary": "中新网沧州9月18日电 (李玉素)18日，以“以武为媒 赛事兴城”为主题的“中佳杯”2026第二届河北省武术交流大赛在河北省沧州市孟村回族自治县八极拳展演馆…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-18/10698964.shtml",
-      "publishedAt": "2026-09-18T07:15:05.000Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
+      "title": "《迪士尼奇妙百年特展》中国首秀落地北京",
+      "summary": "中新社北京9月19日电 (记者 陈杭)《迪士尼奇妙百年特展》中国首秀开幕式19日在北京举行。作为该全球巡展首次进入中国市场，此次特展展览面积约2000平方米…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699652.shtml",
+      "publishedAt": "2026-09-19T12:26:13.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
       "topic": "文化"
     },
     {
-      "title": "被韩国人捧成网红 这个品牌要IPO吗",
+      "title": "以文化自觉 守护城市根脉",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%8D%A7%E6%88%90%E7%BD%91%E7%BA%A2+%E8%BF%99%E4%B8%AA%E5%93%81%E7%89%8C%E8%A6%81IPO%E5%90%97&sa=fyb_news",
-      "publishedAt": "2026-09-19T04:02:09.956Z",
-      "fetchedAt": "2026-09-19T04:02:09.956Z",
-      "topic": "公共新闻"
+      "url": "https://m.baidu.com/s?word=%E4%BB%A5%E6%96%87%E5%8C%96%E8%87%AA%E8%A7%89+%E5%AE%88%E6%8A%A4%E5%9F%8E%E5%B8%82%E6%A0%B9%E8%84%89&sa=fyb_news",
+      "publishedAt": "2026-09-20T04:21:24.608Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "topic": "文化"
+    },
+    {
+      "title": "亚运迎来“新朋友” 这些项目有点酷",
+      "summary": "本届亚运会上，有不少首次登台的“新朋友”，兼具传统与创新，体现着亚运设项的年轻化和全球化趋势。",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699767.shtml",
+      "publishedAt": "2026-09-20T00:19:58.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "topic": "文化"
+    },
+    {
+      "title": "中外选手在重庆竞逐中国国际山地户外运动公开赛",
+      "summary": "中新社重庆9月19日电 (梁钦卿 肖江川)2026“仙隆杯”第21届中国国际山地户外运动公开赛(重庆·武隆)暨全国徒步大会(重庆武隆站)19日开赛。近300…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699694.shtml",
+      "publishedAt": "2026-09-19T12:52:59.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "长期依赖AI真的会让人变笨吗",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E9%95%BF%E6%9C%9F%E4%BE%9D%E8%B5%96AI%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E7%AC%A8%E5%90%97&sa=fyb_news",
+      "publishedAt": "2026-09-20T04:21:24.608Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "topic": "科技"
+    },
+    {
+      "title": "Android 17 QPR1 引入了 Pixel 暂时独占的新 API",
+      "summary": "Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 QPR1 更新，引入了新 API。而这些 API …",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85425",
+      "publishedAt": "2026-09-19T15:53:08.000Z",
+      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "topic": "科技"
     }
   ]
 }
