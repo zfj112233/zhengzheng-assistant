@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-20T04:21:24.608Z",
+  "updatedAt": "2026-09-21T04:18:50.118Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "国家药监局：鼓励外资将原研药品和高端医疗装备引进境内生产",
-      "summary": "9月20日，国家药监局副局长杨胜在国新办发布会上表示，将支持医药产业规模化、集约化、高端化发展。鼓励医药企业建设智能工厂、绿色工厂，将继续支持京津冀、长三角…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15117165.html",
-      "publishedAt": "2026-09-20T03:01:45.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "title": "探古楼绣香囊寻酱香 外籍留学生在湖南湘潭感知中华文化",
+      "summary": "中新网湘潭9月21日电 (邓霞 邓菁岚 王隽)访古溯源，品读千年文脉；巧手传韵，邂逅非遗之美；寻味匠心，传承百年技艺……9月20日，来自湘潭大学、湖南科技大…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10700577.shtml",
+      "publishedAt": "2026-09-21T03:13:42.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
       "topic": "社会"
     },
     {
-      "title": "张姗姗《同时 暂时》亮相平遥国际摄影大展 探讨时空交错下的人与环境",
-      "summary": "中新网晋中9月19日电 (记者 胡健)第26届平遥国际摄影大展19日在山西晋中平遥古城启幕。独立电影人、视觉艺术家张姗姗的个人展览《同时 暂时》亮相大展，该…",
+      "title": "第八届中国诗歌节将在浙江台州举办 王计兵等新大众诗歌代表诗人参加",
+      "summary": "中新网北京9月20日电 (记者 应妮)记者从文化和旅游部20日在京举行的新闻发布会上获悉，第八届中国诗歌节将于10月12日至23日在浙江省台州市举办。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699661.shtml",
-      "publishedAt": "2026-09-19T12:43:34.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10700358.shtml",
+      "publishedAt": "2026-09-20T13:16:49.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
       "topic": "文化"
     },
     {
-      "title": "第十三届丝绸之路国际电影节在西安开幕",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/shipin/2026/09-20/news1069463.shtml",
-      "publishedAt": "2026-09-20T03:08:36.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "title": "第十一届中国京剧艺术节将在湖北武汉举行",
+      "summary": "中新网北京9月20日电 (记者 应妮)记者从文化和旅游部20日在京举行的新闻发布会上获悉，第十一届中国京剧艺术节将于10月15日至11月5日在湖北武汉举办。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10700356.shtml",
+      "publishedAt": "2026-09-20T13:13:49.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
       "topic": "文化"
     },
     {
-      "title": "市场监管总局：将加强重点领域食品安全风险防控 完善“三品一特”监管措施",
-      "summary": "中新网9月20日电 9月20日，国新办就“十五五”时期推动市场监管高质量发展有关情况举行新闻发布会。会上，市场监管总局新闻发言人、副局长束为表示，食品、药品…",
+      "title": "AI大数据赋能肾病诊疗 数智化腹膜透析中心联盟广州成立",
+      "summary": "中新网广州9月21日电 (记者 蔡敏婕)当前，大数据、人工智能(AI)等新一代信息技术正加速与医疗行业深度融合，为腹膜透析高质量发展提供新的工具和路径。",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699868.shtml",
-      "publishedAt": "2026-09-20T03:50:01.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-21/10700591.shtml",
+      "publishedAt": "2026-09-21T03:21:16.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
       "topic": "社会"
     },
     {
-      "title": "《迪士尼奇妙百年特展》中国首秀落地北京",
-      "summary": "中新社北京9月19日电 (记者 陈杭)《迪士尼奇妙百年特展》中国首秀开幕式19日在北京举行。作为该全球巡展首次进入中国市场，此次特展展览面积约2000平方米…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699652.shtml",
-      "publishedAt": "2026-09-19T12:26:13.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
-      "topic": "文化"
-    },
-    {
-      "title": "以文化自觉 守护城市根脉",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%BB%A5%E6%96%87%E5%8C%96%E8%87%AA%E8%A7%89+%E5%AE%88%E6%8A%A4%E5%9F%8E%E5%B8%82%E6%A0%B9%E8%84%89&sa=fyb_news",
-      "publishedAt": "2026-09-20T04:21:24.608Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
-      "topic": "文化"
-    },
-    {
-      "title": "亚运迎来“新朋友” 这些项目有点酷",
-      "summary": "本届亚运会上，有不少首次登台的“新朋友”，兼具传统与创新，体现着亚运设项的年轻化和全球化趋势。",
+      "title": "北京市第十七届运动会群众组保龄球比赛圆满收官",
+      "summary": "中新网北京9月20日电 北京市第十七届运动会群众组保龄球赛事全部竞赛项目19日顺利完成。经全部场次激烈角逐，赛事六个项目的名次全部决出。最终，东城区代表队以…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699767.shtml",
-      "publishedAt": "2026-09-20T00:19:58.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10700417.shtml",
+      "publishedAt": "2026-09-20T14:16:01.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
       "topic": "文化"
     },
     {
-      "title": "中外选手在重庆竞逐中国国际山地户外运动公开赛",
-      "summary": "中新社重庆9月19日电 (梁钦卿 肖江川)2026“仙隆杯”第21届中国国际山地户外运动公开赛(重庆·武隆)暨全国徒步大会(重庆武隆站)19日开赛。近300…",
+      "title": "四省老年运动员齐聚浙江开化舞秧歌 展现银发活力",
+      "summary": "中新网衢州9月20日电(张煜欢 张顺全)为普及推广健身秧歌特色体育项目，丰富广大老年人精神文化生活，9月18日至20日，2026年浙江省老年人健身秧歌交流活…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699694.shtml",
-      "publishedAt": "2026-09-19T12:52:59.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
-      "topic": "生活方式"
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10700300.shtml",
+      "publishedAt": "2026-09-20T12:23:26.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
+      "topic": "文化"
     },
     {
-      "title": "长期依赖AI真的会让人变笨吗",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E9%95%BF%E6%9C%9F%E4%BE%9D%E8%B5%96AI%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E7%AC%A8%E5%90%97&sa=fyb_news",
-      "publishedAt": "2026-09-20T04:21:24.608Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
-      "topic": "科技"
-    },
-    {
-      "title": "Android 17 QPR1 引入了 Pixel 暂时独占的新 API",
-      "summary": "Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 QPR1 更新，引入了新 API。而这些 API …",
+      "title": "美国俄勒冈州数据中心用电量接近总用电量的四分之一",
+      "summary": "根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85425",
-      "publishedAt": "2026-09-19T15:53:08.000Z",
-      "fetchedAt": "2026-09-20T04:21:24.608Z",
+      "url": "https://www.solidot.org/story?sid=85435",
+      "publishedAt": "2026-09-20T15:56:30.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
       "topic": "科技"
+    },
+    {
+      "title": "微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言",
+      "summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copi…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85433",
+      "publishedAt": "2026-09-20T15:09:59.000Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
+      "topic": "科技"
+    },
+    {
+      "title": "王源演唱会在月饼伴手礼里藏了金币",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%A8%E6%9C%88%E9%A5%BC%E4%BC%B4%E6%89%8B%E7%A4%BC%E9%87%8C%E8%97%8F%E4%BA%86%E9%87%91%E5%B8%81&sa=fyb_news",
+      "publishedAt": "2026-09-21T04:18:50.118Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
+      "topic": "娱乐"
+    },
+    {
+      "title": "闲鱼暗藏涉黄产业链 涉未成年少女",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E9%97%B2%E9%B1%BC%E6%9A%97%E8%97%8F%E6%B6%89%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE+%E6%B6%89%E6%9C%AA%E6%88%90%E5%B9%B4%E5%B0%91%E5%A5%B3&sa=fyb_news",
+      "publishedAt": "2026-09-21T04:18:50.118Z",
+      "fetchedAt": "2026-09-21T04:18:50.118Z",
+      "topic": "经济观察"
     }
   ]
 }
