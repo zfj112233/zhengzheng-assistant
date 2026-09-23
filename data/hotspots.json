@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-09-22T04:14:33.343Z",
+  "updatedAt": "2026-09-23T04:11:50.226Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "新加坡付费鼓励公众读书",
-      "summary": "新加坡国家图书馆管理局启动了名为 ReadSG 的全国阅读运动，旨在在数字时代恢复公众的阅读习惯，它推出的鼓励阅读措施包括每天打卡看书 15 分钟即可换取“…",
+      "title": "第十三届丝绸之路国际电影节 电影与城市IP联动活动在西安举行",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/shipin/2026/09-23/news1069862.shtml",
+      "publishedAt": "2026-09-23T03:23:32.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "topic": "文化"
+    },
+    {
+      "title": "（活力中国）宁夏传统掇绣融入现代生活 非遗文创俏销海外",
+      "summary": "中新社宁夏固原9月22日电 (记者 杨迪 刘洋)“掇绣在海外很火，我们每次带着文创产品参加国际展会，都是空着皮箱回来的。”宁夏固原市非物质文化遗产代表性项目…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701462.shtml",
+      "publishedAt": "2026-09-22T06:53:46.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "topic": "文化"
+    },
+    {
+      "title": "宁夏举办第六届农耕健身大赛 演绎乡村体育新活力",
+      "summary": "中新网银川9月23日电 (记者 李佩珊)9月22日，2026年全民健身主题示范活动暨宁夏第六届农耕健身大赛在位于银川市贺兰县的宁夏农旅产业园举行。来自宁夏2…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10701991.shtml",
+      "publishedAt": "2026-09-23T03:13:55.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "topic": "文化"
+    },
+    {
+      "title": "美国酒精消费自疫情以来首次下降",
+      "summary": "盖洛普 8 月民调显示，仅有 54% 的美国人饮酒，而 2010 年这一数字是 67%。千禧一代和 Z 世代推动了减少饮酒的趋势，而 50-64 岁的中老年…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85437",
-      "publishedAt": "2026-09-21T06:24:05.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
+      "url": "https://www.solidot.org/story?sid=85455",
+      "publishedAt": "2026-09-22T16:36:41.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
       "topic": "科技"
     },
     {
-      "title": "2026中国农民丰收节第九届乡村电影周将启幕",
-      "summary": "中新网北京9月21日电 (记者 李嘉薇)2026中国农民丰收节第九届乡村电影周新闻发布会21日在北京举行。据悉，今年丰收节以“丰收开新局 实干促振兴”为主题…",
+      "title": "上海嘉定文脉书画创作展启幕 百余幅佳作描绘沪派江南",
+      "summary": "中新网上海9月22日电(范宇斌)22日，由上海市嘉定区委宣传部、嘉定区文化和旅游局指导，上海嘉定十方画院主办的“沪派江南·人文嘉定——上海嘉定文脉书画创作展…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-21/10701069.shtml",
-      "publishedAt": "2026-09-21T14:13:17.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701820.shtml",
+      "publishedAt": "2026-09-22T14:21:29.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
       "topic": "文化"
     },
     {
-      "title": "（神州写真）多地布局机器人“学校”促多元应用场景加快落地",
-      "summary": "中新社杭州9月22日电 题：多地布局机器人“学校”促多元应用场景加快落地",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701330.shtml",
-      "publishedAt": "2026-09-22T03:43:26.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
-      "topic": "社会"
-    },
-    {
-      "title": "戏韵中华助友谊长青 上海交大联动闵行举办民间外交主题活动",
-      "summary": "中新网上海9月22日电(范宇斌)21日是国际和平日，由上海市欧美同学会主办，上海市欧美同学会闵行分会、上海市欧美同学会上海交通大学分会承办的“戏韵中华·友谊…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701291.shtml",
-      "publishedAt": "2026-09-22T02:40:58.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
-      "topic": "社会"
-    },
-    {
-      "title": "攀岩世界杯重庆站落幕 中国队斩获2金1银2铜",
-      "summary": "中新网9月21日电 据赛事主办方消息，9月20日，历时三天的“2026年世界攀联攀岩世界杯(中国重庆)”在大田湾全民健身广场落幕。中国队获得混合速度接力和女…",
+      "title": "中国羽毛球男团首秀 力克韩国队晋级半决赛",
+      "summary": "中新网9月22日电 (记者 李志全)当地时间9月22日，在爱知·名古屋亚运会羽毛球项目男子团体四分之一决赛中，中国男团迎来赛事首秀，以3:2战胜韩国队，晋级…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701054.shtml",
-      "publishedAt": "2026-09-21T13:37:59.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701792.shtml",
+      "publishedAt": "2026-09-22T12:18:15.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
       "topic": "文化"
     },
     {
-      "title": "外交部领事保护中心提醒中国公民中秋、国庆假期注意海外出行安全",
-      "summary": "中秋、国庆假期将至，外交部领事保护中心提醒拟赴海外中国公民提升防范意识，安全文明出行。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701374.shtml",
-      "publishedAt": "2026-09-22T04:04:44.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
-      "topic": "社会"
-    },
-    {
-      "title": "驰骋东江源 江西安远以赛事点燃山水激情",
-      "summary": "中新网赣州9月21日电 (熊锦阳 刘思婷)9月21日，由国际自行车联盟授权，江西省人民政府主办的第十四届环鄱阳湖国际自行车大赛第二站在江西三百山景区举行。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701103.shtml",
-      "publishedAt": "2026-09-21T14:09:55.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
-      "topic": "文化"
-    },
-    {
-      "title": "教别人用AI赚翻了",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%95%99%E5%88%AB%E4%BA%BA%E7%94%A8AI%E8%B5%9A%E7%BF%BB%E4%BA%86&sa=fyb_news",
-      "publishedAt": "2026-09-22T04:14:33.343Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
-      "topic": "科技"
-    },
-    {
-      "title": "豆包手机发售 AI代理进入终端竞赛",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%8F%91%E5%94%AE+AI%E4%BB%A3%E7%90%86%E8%BF%9B%E5%85%A5%E7%BB%88%E7%AB%AF%E7%AB%9E%E8%B5%9B&sa=fyb_news",
-      "publishedAt": "2026-09-22T04:14:33.343Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
-      "topic": "科技"
-    },
-    {
-      "title": "道氏技术：暂未与宇树科技合作",
-      "summary": "道氏技术9月22日在互动平台表示，公司暂未与宇树科技合作。",
+      "title": "全球AI相关产品贸易额超4万亿美元",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15126502.html",
-      "publishedAt": "2026-09-22T03:52:00.000Z",
-      "fetchedAt": "2026-09-22T04:14:33.343Z",
+      "url": "https://www.jiemian.com/article/15131683.html",
+      "publishedAt": "2026-09-23T03:49:11.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "topic": "科技"
+    },
+    {
+      "title": "美国球员艾德蒙·萨姆纳回归广东宏远征战CBA",
+      "summary": "中新网东莞9月22日电 (记者 张璐)广东宏远篮球俱乐部22日发布消息称，近日，该俱乐部已完成与外援艾德蒙·萨姆纳的续约工作，待注册材料递交CBA公司并完成…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701628.shtml",
+      "publishedAt": "2026-09-22T11:11:15.000Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "topic": "公共新闻"
+    },
+    {
+      "title": "台当局称小红书文化侵略 国台办回应",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E5%BD%93%E5%B1%80%E7%A7%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%96%87%E5%8C%96%E4%BE%B5%E7%95%A5+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news",
+      "publishedAt": "2026-09-23T04:11:50.226Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "topic": "文化"
+    },
+    {
+      "title": "高通发布两款2纳米旗舰芯片",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%B8%A4%E6%AC%BE2%E7%BA%B3%E7%B1%B3%E6%97%97%E8%88%B0%E8%8A%AF%E7%89%87&sa=fyb_news",
+      "publishedAt": "2026-09-23T04:11:50.226Z",
+      "fetchedAt": "2026-09-23T04:11:50.226Z",
       "topic": "科技"
     }
   ]
