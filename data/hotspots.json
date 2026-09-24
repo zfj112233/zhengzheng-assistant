@@ -1,33 +1,51 @@
 {
-  "updatedAt": "2026-09-23T04:11:50.226Z",
+  "updatedAt": "2026-09-24T04:06:55.590Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "第十三届丝绸之路国际电影节 电影与城市IP联动活动在西安举行",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/shipin/2026/09-23/news1069862.shtml",
-      "publishedAt": "2026-09-23T03:23:32.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
-      "topic": "文化"
-    },
-    {
-      "title": "（活力中国）宁夏传统掇绣融入现代生活 非遗文创俏销海外",
-      "summary": "中新社宁夏固原9月22日电 (记者 杨迪 刘洋)“掇绣在海外很火，我们每次带着文创产品参加国际展会，都是空着皮箱回来的。”宁夏固原市非物质文化遗产代表性项目…",
+      "title": "以AI技术探索科幻影像新边界 科幻电影《檐下未来》概念片首发",
+      "summary": "中新网杭州9月23日电 由中国科普作家协会科幻作家、青年导演及编剧刘汉霖原创的科幻电影《檐下未来》，日前在2026云栖大会首次公开亮相并发布概念片。《檐下未…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701462.shtml",
-      "publishedAt": "2026-09-22T06:53:46.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-23/10702559.shtml",
+      "publishedAt": "2026-09-23T13:36:04.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "topic": "科技"
+    },
+    {
+      "title": "印度汉学家：越来越多印度年轻人爱上中国古典文学丨中国不一样",
+      "summary": "印度汉学家魏汉(Vikash Kumar Singh)在接受采访时表示，过去，印度人了解中国文化，主要靠中国功夫、电影和美食。如今，越来越多印度年轻人不再只…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/shipin/2026/09-24/news1070033.shtml",
+      "publishedAt": "2026-09-24T03:09:40.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
       "topic": "文化"
     },
     {
-      "title": "宁夏举办第六届农耕健身大赛 演绎乡村体育新活力",
-      "summary": "中新网银川9月23日电 (记者 李佩珊)9月22日，2026年全民健身主题示范活动暨宁夏第六届农耕健身大赛在位于银川市贺兰县的宁夏农旅产业园举行。来自宁夏2…",
+      "title": "第十三届丝绸之路国际电影节闭幕 导演谢飞获终身成就奖",
+      "summary": "中新社西安9月23日电 (记者 张一辰 杨英琦 党田野)23日晚，第十三届丝绸之路国际电影节闭幕式暨颁奖典礼在西安举行。颁奖典礼上，“金丝路奖”评委会大奖、…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702674.shtml",
+      "publishedAt": "2026-09-23T17:35:59.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "topic": "文化"
+    },
+    {
+      "title": "文化和旅游部：我国已成为国际旅游最大客源国和主要目的地",
+      "summary": "9月24日，国新办举行“开局起步‘十五五’”系列主题新闻发布会。发布会上，文化和旅游部有关负责人介绍，我国已经成为国际旅游最大客源国和主要目的地。2025年…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10701991.shtml",
-      "publishedAt": "2026-09-23T03:13:55.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702880.shtml",
+      "publishedAt": "2026-09-24T03:06:34.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "topic": "文化"
+    },
+    {
+      "title": "文化和旅游部：推动服务精细化，破解拥堵、停车如厕等难题",
+      "summary": "9月24日，国新办举行“开局起步‘十五五’”系列主题新闻发布会。发布会上，文化和旅游部有关负责人介绍，“十五五”时期，将推动服务精细化，让人民群众旅游更舒心…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15136661.html",
+      "publishedAt": "2026-09-24T03:22:57.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
       "topic": "文化"
     },
     {
@@ -36,62 +54,44 @@
       "source": "Solidot科技",
       "url": "https://www.solidot.org/story?sid=85455",
       "publishedAt": "2026-09-22T16:36:41.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
       "topic": "科技"
     },
     {
-      "title": "上海嘉定文脉书画创作展启幕 百余幅佳作描绘沪派江南",
-      "summary": "中新网上海9月22日电(范宇斌)22日，由上海市嘉定区委宣传部、嘉定区文化和旅游局指导，上海嘉定十方画院主办的“沪派江南·人文嘉定——上海嘉定文脉书画创作展…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701820.shtml",
-      "publishedAt": "2026-09-22T14:21:29.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "title": "宁波网球公开赛发布单打入围阵容 5位世界前十选手参赛",
+      "summary": "中新网宁波9月24日电(张煜欢)23日，2026宁波银行·宁波网球公开赛新闻发布会在浙江宁波举行。作为WTA年终总决赛前的关键一站，今年赛事吸引了5位世界前…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702686.shtml",
+      "publishedAt": "2026-09-23T22:11:13.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
       "topic": "文化"
     },
     {
-      "title": "中国羽毛球男团首秀 力克韩国队晋级半决赛",
-      "summary": "中新网9月22日电 (记者 李志全)当地时间9月22日，在爱知·名古屋亚运会羽毛球项目男子团体四分之一决赛中，中国男团迎来赛事首秀，以3:2战胜韩国队，晋级…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701792.shtml",
-      "publishedAt": "2026-09-22T12:18:15.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "title": "跨越太平洋的历史性握手",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E6%8F%A1%E6%89%8B&sa=fyb_news",
+      "publishedAt": "2026-09-24T04:06:55.590Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
       "topic": "文化"
     },
     {
-      "title": "全球AI相关产品贸易额超4万亿美元",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15131683.html",
-      "publishedAt": "2026-09-23T03:49:11.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
-      "topic": "科技"
+      "title": "全国女排锦标赛小组赛收官 八强名单出炉",
+      "summary": "中新网佛山9月24日电 (记者 张璐)正野杯·2026年全国女子排球锦标赛(简称“比赛”)小组赛阶段23日已在佛山顺德德胜体育中心全部结束。经过五个比赛日的…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702794.shtml",
+      "publishedAt": "2026-09-24T02:13:50.000Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "topic": "文化"
     },
     {
-      "title": "美国球员艾德蒙·萨姆纳回归广东宏远征战CBA",
-      "summary": "中新网东莞9月22日电 (记者 张璐)广东宏远篮球俱乐部22日发布消息称，近日，该俱乐部已完成与外援艾德蒙·萨姆纳的续约工作，待注册材料递交CBA公司并完成…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701628.shtml",
-      "publishedAt": "2026-09-22T11:11:15.000Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
+      "title": "习近平抵达美国首都华盛顿",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF&sa=fyb_news",
+      "publishedAt": "2026-09-24T04:06:55.590Z",
+      "fetchedAt": "2026-09-24T04:06:55.590Z",
       "topic": "公共新闻"
-    },
-    {
-      "title": "台当局称小红书文化侵略 国台办回应",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E5%BD%93%E5%B1%80%E7%A7%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%96%87%E5%8C%96%E4%BE%B5%E7%95%A5+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news",
-      "publishedAt": "2026-09-23T04:11:50.226Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
-      "topic": "文化"
-    },
-    {
-      "title": "高通发布两款2纳米旗舰芯片",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%B8%A4%E6%AC%BE2%E7%BA%B3%E7%B1%B3%E6%97%97%E8%88%B0%E8%8A%AF%E7%89%87&sa=fyb_news",
-      "publishedAt": "2026-09-23T04:11:50.226Z",
-      "fetchedAt": "2026-09-23T04:11:50.226Z",
-      "topic": "科技"
     }
   ]
 }
