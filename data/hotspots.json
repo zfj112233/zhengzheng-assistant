@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-24T04:06:55.590Z",
+  "updatedAt": "2026-09-25T04:20:43.691Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "以AI技术探索科幻影像新边界 科幻电影《檐下未来》概念片首发",
-      "summary": "中新网杭州9月23日电 由中国科普作家协会科幻作家、青年导演及编剧刘汉霖原创的科幻电影《檐下未来》，日前在2026云栖大会首次公开亮相并发布概念片。《檐下未…",
+      "title": "湖南岳阳让亚洲赛事走进“城市客厅”",
+      "summary": "中新网岳阳9月25日电 (胡语桐)24日，第三届亚洲中学生三对三篮球锦标赛在湖南岳阳开赛。来自孟加拉国、文莱、哈萨克斯坦、马来西亚、尼泊尔、新加坡、泰国、中…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703518.shtml",
+      "publishedAt": "2026-09-24T16:01:18.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
+      "topic": "社会"
+    },
+    {
+      "title": "十五运会官方纪录电影《同湾同梦》首映礼在广州启幕",
+      "summary": "中新网广州9月24日电 (记者 程景伟)第十五届全国运动会官方纪录电影《同湾同梦》24日在广州举行首映礼。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-23/10702559.shtml",
-      "publishedAt": "2026-09-23T13:36:04.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
-      "topic": "科技"
-    },
-    {
-      "title": "印度汉学家：越来越多印度年轻人爱上中国古典文学丨中国不一样",
-      "summary": "印度汉学家魏汉(Vikash Kumar Singh)在接受采访时表示，过去，印度人了解中国文化，主要靠中国功夫、电影和美食。如今，越来越多印度年轻人不再只…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/shipin/2026/09-24/news1070033.shtml",
-      "publishedAt": "2026-09-24T03:09:40.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703134.shtml",
+      "publishedAt": "2026-09-24T09:22:59.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
       "topic": "文化"
     },
     {
-      "title": "第十三届丝绸之路国际电影节闭幕 导演谢飞获终身成就奖",
-      "summary": "中新社西安9月23日电 (记者 张一辰 杨英琦 党田野)23日晚，第十三届丝绸之路国际电影节闭幕式暨颁奖典礼在西安举行。颁奖典礼上，“金丝路奖”评委会大奖、…",
+      "title": "香港导演许鞍华获平遥影展“东西方交流贡献荣誉”",
+      "summary": "中新社山西平遥9月24日电 (记者 胡健)第十届平遥国际电影展24日晚在山西晋中平遥古城开幕，组委会将本届影展“卧虎藏龙东西方交流贡献荣誉”授予香港导演许鞍…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702674.shtml",
-      "publishedAt": "2026-09-23T17:35:59.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703513.shtml",
+      "publishedAt": "2026-09-24T15:28:08.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
       "topic": "文化"
     },
     {
-      "title": "文化和旅游部：我国已成为国际旅游最大客源国和主要目的地",
-      "summary": "9月24日，国新办举行“开局起步‘十五五’”系列主题新闻发布会。发布会上，文化和旅游部有关负责人介绍，我国已经成为国际旅游最大客源国和主要目的地。2025年…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702880.shtml",
-      "publishedAt": "2026-09-24T03:06:34.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
-      "topic": "文化"
-    },
-    {
-      "title": "文化和旅游部：推动服务精细化，破解拥堵、停车如厕等难题",
-      "summary": "9月24日，国新办举行“开局起步‘十五五’”系列主题新闻发布会。发布会上，文化和旅游部有关负责人介绍，“十五五”时期，将推动服务精细化，让人民群众旅游更舒心…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15136661.html",
-      "publishedAt": "2026-09-24T03:22:57.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
-      "topic": "文化"
-    },
-    {
-      "title": "美国酒精消费自疫情以来首次下降",
-      "summary": "盖洛普 8 月民调显示，仅有 54% 的美国人饮酒，而 2010 年这一数字是 67%。千禧一代和 Z 世代推动了减少饮酒的趋势，而 50-64 岁的中老年…",
+      "title": "部分三星智能冰箱在升级固件之后停止工作",
+      "summary": "本周二，。受影响的是三星 Bespoke AI 系列冰箱，大部分是 2024 年或之后生产的四门冰箱。受影响的冰箱在尝试通过三星智能家居平台 SmartTh…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85455",
-      "publishedAt": "2026-09-22T16:36:41.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "url": "https://www.solidot.org/story?sid=85472",
+      "publishedAt": "2026-09-24T12:51:49.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
       "topic": "科技"
     },
     {
-      "title": "宁波网球公开赛发布单打入围阵容 5位世界前十选手参赛",
-      "summary": "中新网宁波9月24日电(张煜欢)23日，2026宁波银行·宁波网球公开赛新闻发布会在浙江宁波举行。作为WTA年终总决赛前的关键一站，今年赛事吸引了5位世界前…",
+      "title": "建设自贸港银发健康高地 专家：不在于只卖气候和风景",
+      "summary": "中新网海口9月25日电 (记者 符宇群)每年冬季，约40万至50万省外老人南下入琼越冬，与本地不断增长的常住老年人口叠加，形成海南独有的“双老人”结构——这…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-25/10703615.shtml",
+      "publishedAt": "2026-09-25T03:47:46.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
+      "topic": "社会"
+    },
+    {
+      "title": "一次性铝箔餐具铝迁移量远超食品安全标准 检察公益诉讼力推整改",
+      "summary": "一次性铝箔餐具大家的生活中经常遇到，它轻便耐用、保鲜防漏，被广泛应用于烧烤、外卖、航空餐、家庭聚餐等食品接触材料领域。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703626.shtml",
+      "publishedAt": "2026-09-25T03:39:46.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
+      "topic": "社会"
+    },
+    {
+      "title": "首届FIFA东盟杯香港开赛",
+      "summary": "中新社香港9月24日电 (记者 赵静怡)首届FIFA(国际足联)东盟杯(下称“东盟杯”)第二级别赛事24日下午在香港旺角大球场开幕，老挝队以3:1战胜文莱队…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702686.shtml",
-      "publishedAt": "2026-09-23T22:11:13.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703390.shtml",
+      "publishedAt": "2026-09-24T13:16:32.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
       "topic": "文化"
     },
     {
-      "title": "跨越太平洋的历史性握手",
+      "title": "微软放弃封禁 Microslop",
+      "summary": "微软 CEO 纳德拉（Satya Nadella）关于 AI 的著名评论促使网民为微软起了 Microslop 的绰号，绰号的流行和随处可见促使微软今年早些…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85471",
+      "publishedAt": "2026-09-24T10:47:28.000Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
+      "topic": "科技"
+    },
+    {
+      "title": "用手机钢化膜的受害者出现了",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E6%8F%A1%E6%89%8B&sa=fyb_news",
-      "publishedAt": "2026-09-24T04:06:55.590Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
-      "topic": "文化"
+      "url": "https://m.baidu.com/s?word=%E7%94%A8%E6%89%8B%E6%9C%BA%E9%92%A2%E5%8C%96%E8%86%9C%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news",
+      "publishedAt": "2026-09-25T04:20:43.691Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
+      "topic": "科技"
     },
     {
-      "title": "全国女排锦标赛小组赛收官 八强名单出炉",
-      "summary": "中新网佛山9月24日电 (记者 张璐)正野杯·2026年全国女子排球锦标赛(简称“比赛”)小组赛阶段23日已在佛山顺德德胜体育中心全部结束。经过五个比赛日的…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702794.shtml",
-      "publishedAt": "2026-09-24T02:13:50.000Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
-      "topic": "文化"
-    },
-    {
-      "title": "习近平抵达美国首都华盛顿",
+      "title": "演员李治廷官宣当爸",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF&sa=fyb_news",
-      "publishedAt": "2026-09-24T04:06:55.590Z",
-      "fetchedAt": "2026-09-24T04:06:55.590Z",
-      "topic": "公共新闻"
+      "url": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E6%9D%8E%E6%B2%BB%E5%BB%B7%E5%AE%98%E5%AE%A3%E5%BD%93%E7%88%B8&sa=fyb_news",
+      "publishedAt": "2026-09-25T04:20:43.691Z",
+      "fetchedAt": "2026-09-25T04:20:43.691Z",
+      "topic": "娱乐"
     }
   ]
 }
