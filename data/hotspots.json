@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-26T04:24:50.607Z",
+  "updatedAt": "2026-09-27T04:42:40.015Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "文博热、非遗火 一组数据看我国文旅市场发展活力",
-      "summary": "9月24日，国新办举行“开局起步‘十五五’”系列主题新闻发布会。发布会上，文化和旅游部有关负责人介绍，“十四五”时期，我国文化和旅游发展取得明显成效。截至2…",
+      "title": "全球媒体聚焦 | 美媒：中秋节带火中国文旅消费",
+      "summary": "今年中秋假期，国内旅游市场持续升温。美国《旅行与旅游世界》网站报道称，中秋节这一传统佳节通过灯会、文艺演出、传统手工艺展示活动、地方美食体验以及多个省份的旅…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703797.shtml",
-      "publishedAt": "2026-09-25T10:05:44.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "科技"
-    },
-    {
-      "title": "中国各地推动 AI 视频产业化",
-      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85475",
-      "publishedAt": "2026-09-25T11:11:10.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704295.shtml",
+      "publishedAt": "2026-09-26T15:02:02.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "文化"
     },
     {
       "title": "中秋档电影总票房破亿！超20部影片集中上新",
       "summary": "据网络平台数据",
-      "source": "中新网",
+      "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704041.shtml",
       "publishedAt": "2026-09-26T04:08:37.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
       "topic": "科技"
     },
     {
-      "title": "2026中秋、国庆档电影片单发布会在京举办",
-      "summary": "中新网北京9月25日电 (记者 高凯)“绽放——2026中秋、国庆档暨纪念红军长征胜利90周年电影片单发布会”日前在京举行，多部长征题材影片及中秋、国庆档佳…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703842.shtml",
-      "publishedAt": "2026-09-25T13:31:17.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "文化"
-    },
-    {
-      "title": "2026年中国汽车场地越野锦标赛（利通区站）开幕",
-      "summary": "中新网宁夏吴忠9月26日电 2026年中国汽车场地越野锦标赛(利通区站)暨第三届“从利通出发”越野文化旅游活动25日在吴忠市利通区盛大开幕。全国近50名车手…",
+      "title": "2026“赣超”落幕南昌队夺冠 超6.1万名观众现场观赛",
+      "summary": "中新网南昌9月27日电 (记者 刘占昆 刘力鑫 )26日晚，2026年江西省城市足球超级联赛(简称“赣超”)冠亚军决赛在南昌国际体育中心举行，经过90分钟鏖…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10703955.shtml",
-      "publishedAt": "2026-09-25T16:12:51.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704323.shtml",
+      "publishedAt": "2026-09-27T00:48:12.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
       "topic": "文化"
     },
     {
-      "title": "“郑和行之友谊使者”系列文化交流活动走进斯里兰卡",
-      "summary": "图为观众观看现场展出的云南文创产品。中新社记者 刘冉阳 摄 图为现场展出的AI海报。中新社记者 刘冉阳 摄 图为观众观看现场展出的云南文创产品。中新社记者 …",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10703994.shtml",
-      "publishedAt": "2026-09-26T01:16:32.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "科技"
-    },
-    {
-      "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
-      "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多…",
+      "title": "荷兰政府测试本土发行版 NixOS",
+      "summary": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85476",
-      "publishedAt": "2026-09-25T13:36:46.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "社会"
+      "url": "https://www.solidot.org/story?sid=85481",
+      "publishedAt": "2026-09-26T14:44:52.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "科技"
     },
     {
-      "title": "浙江启动U13男足海外集训选拔 青训国际化按下加速键",
-      "summary": "中新网杭州9月25日电(张煜欢)为深耕青少年足球人才培养体系，推动本土青训与国际先进体系深度接轨，9月25日至29日，浙江省足球运动管理中心举办浙江U13男…",
+      "title": "全国青少年皮划艇U系列联赛在上海崇明挥桨",
+      "summary": "中新网9月27日电 由国家体育总局水上运动管理中心、中国皮划艇协会主办的2026年中国皮划艇马拉松公开赛、2026年全国青少年皮划艇U系列联赛(上海·崇明站…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704354.shtml",
+      "publishedAt": "2026-09-27T02:35:17.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "文化"
+    },
+    {
+      "title": "黑手党可能阻止了芬太尼流入意大利",
+      "summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85478",
+      "publishedAt": "2026-09-26T03:42:34.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "文化"
+    },
+    {
+      "title": "NYBO青少年篮球公开赛迈入第十个赛季",
+      "summary": "中新网9月27日电 2026-2027赛季星耀未来NYBO青少年篮球公开赛揭幕战暨十周年主题发布活动26日在烟台国际博览中心举行，赛事由此正式迈入第十个赛季。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704356.shtml",
+      "publishedAt": "2026-09-27T02:36:41.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "文化"
+    },
+    {
+      "title": "2026“挥拍中国”羽毛球公开赛长三角赛区宁波站首日挥拍",
+      "summary": "中新网宁波9月27日电 国缘2026“挥拍中国”羽毛球公开赛长三角赛区宁波站在宁波中体城挥拍开赛。赛事由中国羽毛球协会指导，中体产业集团主办，为中国羽毛球协…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703848.shtml",
-      "publishedAt": "2026-09-25T14:12:54.000Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "生活方式"
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704337.shtml",
+      "publishedAt": "2026-09-27T01:27:55.000Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "文化"
     },
     {
-      "title": "习近平圆满结束对美国的国事访问",
+      "title": "自由式小轮车亚运历史首金",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news",
-      "publishedAt": "2026-09-26T04:24:50.607Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "公共新闻"
+      "url": "https://m.baidu.com/s?word=%E8%87%AA%E7%94%B1%E5%BC%8F%E5%B0%8F%E8%BD%AE%E8%BD%A6%E4%BA%9A%E8%BF%90%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91&sa=fyb_news",
+      "publishedAt": "2026-09-27T04:42:40.015Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "文化"
     },
     {
-      "title": "国际油价25日下跌",
+      "title": "132名领导手机号公开 不只是敢接电话",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B725%E6%97%A5%E4%B8%8B%E8%B7%8C&sa=fyb_news",
-      "publishedAt": "2026-09-26T04:24:50.607Z",
-      "fetchedAt": "2026-09-26T04:24:50.607Z",
-      "topic": "公共新闻"
+      "url": "https://m.baidu.com/s?word=132%E5%90%8D%E9%A2%86%E5%AF%BC%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%85%AC%E5%BC%80+%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%95%A2%E6%8E%A5%E7%94%B5%E8%AF%9D&sa=fyb_news",
+      "publishedAt": "2026-09-27T04:42:40.015Z",
+      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "topic": "科技"
     }
   ]
 }
