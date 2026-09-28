@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-27T04:42:40.015Z",
+  "updatedAt": "2026-09-28T04:44:19.280Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "全球媒体聚焦 | 美媒：中秋节带火中国文旅消费",
-      "summary": "今年中秋假期，国内旅游市场持续升温。美国《旅行与旅游世界》网站报道称，中秋节这一传统佳节通过灯会、文艺演出、传统手工艺展示活动、地方美食体验以及多个省份的旅…",
+      "title": "台湾影片《入学许可》平遥首映 聚焦亲子教育议题",
+      "summary": "中新社山西平遥9月27日电 (记者 胡健)台湾影片《入学许可》27日在第十届平遥国际电影展举行亚洲首映，台湾导演徐琨华携主创亮相新闻发布会，影片聚焦亲子关系…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704295.shtml",
-      "publishedAt": "2026-09-26T15:02:02.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704469.shtml",
+      "publishedAt": "2026-09-27T09:18:09.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "社会"
     },
     {
-      "title": "中秋档电影总票房破亿！超20部影片集中上新",
-      "summary": "据网络平台数据",
+      "title": "第十五届中国电影史年会在山西太原召开",
+      "summary": "中新网9月28日电 9月26日至27日，。本届年会由中国电影资料馆(中国电影艺术研究中心)与山西师范大学联合主办，主题为“社会史中的电影史：中国经验·地方立…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704692.shtml",
+      "publishedAt": "2026-09-28T03:42:16.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "社会"
+    },
+    {
+      "title": "孙阳首次担纲主演 《发现之旅》平遥首映：把电子游戏“玩”进电影",
+      "summary": "中新网山西平遥9月27日电 (记者 胡健)演员孙阳首次担纲电影“大男主”影片《发现之旅》27日在第十届平遥国际电影展举行亚洲首映，该片将电子游戏元素嵌入真人…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704041.shtml",
-      "publishedAt": "2026-09-26T04:08:37.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704591.shtml",
+      "publishedAt": "2026-09-27T13:26:12.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "文化"
     },
     {
-      "title": "2026“赣超”落幕南昌队夺冠 超6.1万名观众现场观赛",
-      "summary": "中新网南昌9月27日电 (记者 刘占昆 刘力鑫 )26日晚，2026年江西省城市足球超级联赛(简称“赣超”)冠亚军决赛在南昌国际体育中心举行，经过90分钟鏖…",
+      "title": "世界赛艇联合会500米冲刺赛在沪完成全球首秀",
+      "summary": "中新社上海9月27日电 (记者 缪璐)世界赛艇联合会上海冲刺赛27日落幕。该赛事是世界赛艇联合会首次以城市命名、以500米冲刺为赛制打造的官方赛事。",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704323.shtml",
-      "publishedAt": "2026-09-27T00:48:12.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704597.shtml",
+      "publishedAt": "2026-09-27T13:21:12.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
       "topic": "文化"
     },
     {
-      "title": "荷兰政府测试本土发行版 NixOS",
-      "summary": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85481",
-      "publishedAt": "2026-09-26T14:44:52.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "科技"
-    },
-    {
-      "title": "全国青少年皮划艇U系列联赛在上海崇明挥桨",
-      "summary": "中新网9月27日电 由国家体育总局水上运动管理中心、中国皮划艇协会主办的2026年中国皮划艇马拉松公开赛、2026年全国青少年皮划艇U系列联赛(上海·崇明站…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704354.shtml",
-      "publishedAt": "2026-09-27T02:35:17.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "文化"
-    },
-    {
-      "title": "黑手党可能阻止了芬太尼流入意大利",
-      "summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85478",
-      "publishedAt": "2026-09-26T03:42:34.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "文化"
-    },
-    {
-      "title": "NYBO青少年篮球公开赛迈入第十个赛季",
-      "summary": "中新网9月27日电 2026-2027赛季星耀未来NYBO青少年篮球公开赛揭幕战暨十周年主题发布活动26日在烟台国际博览中心举行，赛事由此正式迈入第十个赛季。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704356.shtml",
-      "publishedAt": "2026-09-27T02:36:41.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "文化"
-    },
-    {
-      "title": "2026“挥拍中国”羽毛球公开赛长三角赛区宁波站首日挥拍",
-      "summary": "中新网宁波9月27日电 国缘2026“挥拍中国”羽毛球公开赛长三角赛区宁波站在宁波中体城挥拍开赛。赛事由中国羽毛球协会指导，中体产业集团主办，为中国羽毛球协…",
+      "title": "2026年中国汽车场地越野锦标赛（利通区站）精彩落幕",
+      "summary": "中新网宁夏吴忠9月28日电 2026年中国汽车场地越野锦标赛(利通区站)暨第三届“从利通出发”越野文化旅游活动27日落下帷幕。经过预赛与决赛的连续较量，各组…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704337.shtml",
-      "publishedAt": "2026-09-27T01:27:55.000Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704739.shtml",
+      "publishedAt": "2026-09-28T03:36:30.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
       "topic": "文化"
     },
     {
-      "title": "自由式小轮车亚运历史首金",
+      "title": "第二十一届联合国教科文组织孔子教育奖在山东曲阜揭晓",
+      "summary": "中新社山东曲阜9月28日电 (记者 李欣 赵晓)第二十一届联合国教科文组织孔子教育奖28日在孔子故里山东曲阜揭晓，来自黎巴嫩、墨西哥、泰国的三个项目获此殊荣。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704787.shtml",
+      "publishedAt": "2026-09-28T04:29:29.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "社会"
+    },
+    {
+      "title": "福上于香港中环开幕，将福建风物融入空间与餐桌 | 美味上新",
+      "summary": "福上将福建家常风味带到香港中环，并以空间设计、定制器物与闽茶呈现地方饮食文化。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15137690.html",
+      "publishedAt": "2026-09-28T03:22:15.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "文化"
+    },
+    {
+      "title": "人力资源和社会保障部致贺电",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%87%AA%E7%94%B1%E5%BC%8F%E5%B0%8F%E8%BD%AE%E8%BD%A6%E4%BA%9A%E8%BF%90%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91&sa=fyb_news",
-      "publishedAt": "2026-09-27T04:42:40.015Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
-      "topic": "文化"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E9%83%A8%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news",
+      "publishedAt": "2026-09-28T04:44:19.280Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "社会"
     },
     {
-      "title": "132名领导手机号公开 不只是敢接电话",
+      "title": "优必选仿生机器人已经开始交付",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=132%E5%90%8D%E9%A2%86%E5%AF%BC%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%85%AC%E5%BC%80+%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%95%A2%E6%8E%A5%E7%94%B5%E8%AF%9D&sa=fyb_news",
-      "publishedAt": "2026-09-27T04:42:40.015Z",
-      "fetchedAt": "2026-09-27T04:42:40.015Z",
+      "url": "https://m.baidu.com/s?word=%E4%BC%98%E5%BF%85%E9%80%89%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E4%BA%A4%E4%BB%98&sa=fyb_news",
+      "publishedAt": "2026-09-28T04:44:19.280Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
       "topic": "科技"
+    },
+    {
+      "title": "Bitget 被盗走价值 3.875 亿美元加密货币",
+      "summary": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85486",
+      "publishedAt": "2026-09-27T10:45:23.000Z",
+      "fetchedAt": "2026-09-28T04:44:19.280Z",
+      "topic": "经济观察"
     }
   ]
 }
