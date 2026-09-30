@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-29T05:10:29.643Z",
+  "updatedAt": "2026-09-30T04:57:59.750Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "半年产量突破5500部 “南京短剧”加速跑",
-      "summary": "中新网南京9月29日电 (张传明 唐娟)近日，“智汇无限”AI微短剧产业高质量发展推进会在南京举行。该活动立足南京城市文化禀赋，面向南京都市圈产业协同，以“…",
+      "title": "《烧火工》沉浸体验空间全球首发 刘慈欣称技术拓展幻想文学的表达",
+      "summary": "中新网上海9月29日电 (记者 郑莹莹)刘慈欣科幻童话《烧火工》沉浸体验空间29日在上海科技馆进行全球首发。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-29/10705294.shtml",
-      "publishedAt": "2026-09-29T02:52:56.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-29/10705623.shtml",
+      "publishedAt": "2026-09-29T08:27:07.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
       "topic": "科技"
     },
     {
-      "title": "人犬羁绊荒野治愈 布拉德·皮特新片《野兽之心》将映",
-      "summary": "中新网北京9月28日电 (记者 高凯)28日，由美国派拉蒙影片公司出品、布拉德·皮特主演的电影《野兽之心》发布“见证羁绊”预告，影片将于9月30日登陆中国内…",
+      "title": "第十届平遥国际电影展各奖项揭晓",
+      "summary": "中新社山西平遥9月29日电 (记者 胡健)第十届平遥国际电影展“平遥之夜”29日晚在山西晋中平遥古城举行，各竞赛单元荣誉逐一揭晓。山西籍导演牛牛执导的《尾款…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10705029.shtml",
-      "publishedAt": "2026-09-28T11:27:22.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-29/10705939.shtml",
+      "publishedAt": "2026-09-29T15:06:40.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
       "topic": "文化"
     },
     {
-      "title": "“中华体育精神大讲堂”走进北京校园 奥运冠军巩立姣分享“梦想成真的故事”",
-      "summary": "中新网北京9月29日电 “中华体育精神大讲堂”校园宣讲和“冠军体育课”运动员进校园活动28日先后走进北京第一师范学校附属小学和北京汇文中学。两届田径世锦赛冠…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-29/10705302.shtml",
-      "publishedAt": "2026-09-29T02:47:35.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
-      "topic": "社会"
-    },
-    {
-      "title": "美国逾七成沿海地区每年沉降逾 0.1 厘米",
-      "summary": "沿海居民不仅需要担心海平面上升，还需要担心地面沉降。研究人员分析了卫星雷达测量的逾 1.9 亿垂直地面运动数据点，发现 2007-2020 年间美国沿海地区…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85495",
-      "publishedAt": "2026-09-28T13:15:28.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
-      "topic": "科技"
-    },
-    {
-      "title": "护照上写“旅行日记”？这些涂改、损毁行为会致证件失效",
-      "summary": "国庆假期，出行客流集中、消费活动密集，各类涉及旅游出行的法律风险、违法行为也进入高发期。选择国庆假期出国旅游的人们，可能出行前只核对了机票、酒店，却忽略了最…",
+      "title": "第十届平遥国际电影展揭晓各项荣誉",
+      "summary": "9月29日晚，第十届平遥国际电影展“平遥之夜”在山西晋中平遥古城举行，山西籍导演牛牛执导的《尾款》获“费穆荣誉最佳影片”，导演牛牛(中)和父亲、主演牛建荣(…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-29/10705417.shtml",
-      "publishedAt": "2026-09-29T04:20:42.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
-      "topic": "社会"
-    },
-    {
-      "title": "金秋十月，2026中国户外运动产业大会即将亮相北京",
-      "summary": "央视网消息：2026中国户外运动产业大会将于10月15日至18日在北京市昌平区举办，本届大会以“京彩户外 科创未来”为主题，由中华全国体育总会主办，北京市体…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-29/10705363.shtml",
-      "publishedAt": "2026-09-29T02:31:51.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706021.shtml",
+      "publishedAt": "2026-09-30T03:55:56.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
       "topic": "文化"
     },
     {
-      "title": "“AI，再见”，美国一社区图书馆教老年人夺回掌控权",
-      "summary": "项目联合发起人提出，图书馆完全有义务帮读者主动拒绝不需要的技术。‌‌‌",
+      "title": "第八届海南岛国际电影节征片量创新高 创作者群像更多样",
+      "summary": "中新网三亚9月30日电 (张月和)海南岛国际电影节组委会29日晚发布第八届海南岛国际电影节征片报告显示，自8月18日至9月24日面向全球征片以来，组委会共收…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706093.shtml",
+      "publishedAt": "2026-09-30T03:54:04.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "topic": "文化"
+    },
+    {
+      "title": "机构：2025年中国AI云市场规模达684亿元",
+      "summary": "9月30日，国际数据公司（IDC）发布《中国AI云市场追踪报告，2025》。IDC认为AI云市场是以云服务形态交付、支撑大模型全生命周期的完整基础设施与平台…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15148731.html",
-      "publishedAt": "2026-09-29T03:50:43.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
+      "url": "https://www.jiemian.com/article/15154934.html",
+      "publishedAt": "2026-09-30T03:50:28.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
       "topic": "科技"
     },
     {
-      "title": "第十九届中国（东营）国际石油石化装备与技术展览会举办",
-      "summary": "中新网东营9月29日电 (记者 孙婷婷)9月29日，为期3天的第十九届中国(东营)国际石油石化装备与技术展览会(下称“展会”)正在山东东营市举办。展会以“数…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705411.shtml",
-      "publishedAt": "2026-09-29T03:42:55.000Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
+      "title": "王楚钦：竞技体育就会有输有赢",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%EF%BC%9A%E7%AB%9E%E6%8A%80%E4%BD%93%E8%82%B2%E5%B0%B1%E4%BC%9A%E6%9C%89%E8%BE%93%E6%9C%89%E8%B5%A2&sa=fyb_news",
+      "publishedAt": "2026-09-30T04:57:59.750Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
       "topic": "文化"
     },
     {
-      "title": "AI代言人说亲测有效？骗人不打草稿",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=AI%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%AF%B4%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88%EF%BC%9F%E9%AA%97%E4%BA%BA%E4%B8%8D%E6%89%93%E8%8D%89%E7%A8%BF&sa=fyb_news",
-      "publishedAt": "2026-09-29T05:10:29.643Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
+      "title": "更多选手进入世界第一梯队 亚洲体育整体提升进步（亚运纵横）",
+      "summary": "记者 陈晨曦 孙龙飞 刘硕阳",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706025.shtml",
+      "publishedAt": "2026-09-30T01:55:21.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "topic": "文化"
+    },
+    {
+      "title": "微软告诉非营利组织他们被删除的数据无法恢复",
+      "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85503",
+      "publishedAt": "2026-09-29T10:10:51.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
       "topic": "科技"
     },
     {
-      "title": "文旅局回应那英临时加唱《弯弯的月亮》",
+      "title": "中外专家孔子故里共话中华传统文化与奥林匹克精神价值共鸣",
+      "summary": "中新网山东曲阜9月29日电 (记者 孙婷婷 梁犇)以“中华传统文化与奥林匹克精神”为主题的2026尼山世界文明论坛·体育文化论坛29日在孔子故里曲阜举办。",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-29/10705767.shtml",
+      "publishedAt": "2026-09-29T11:20:36.000Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "topic": "文化"
+    },
+    {
+      "title": "速效救心丸金属瓶 不易打碎",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E3%80%8A%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE%E3%80%8B&sa=fyb_news",
-      "publishedAt": "2026-09-29T05:10:29.643Z",
-      "fetchedAt": "2026-09-29T05:10:29.643Z",
-      "topic": "文化"
+      "url": "https://m.baidu.com/s?word=%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E9%87%91%E5%B1%9E%E7%93%B6+%E4%B8%8D%E6%98%93%E6%89%93%E7%A2%8E&sa=fyb_news",
+      "publishedAt": "2026-09-30T04:57:59.750Z",
+      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "topic": "综合"
     }
   ]
 }
