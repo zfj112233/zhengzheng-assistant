@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-09-30T04:57:59.750Z",
+  "updatedAt": "2026-10-01T05:11:19.573Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "《烧火工》沉浸体验空间全球首发 刘慈欣称技术拓展幻想文学的表达",
-      "summary": "中新网上海9月29日电 (记者 郑莹莹)刘慈欣科幻童话《烧火工》沉浸体验空间29日在上海科技馆进行全球首发。",
+      "title": "中新网评：平遥十年：以微光成就电影远方",
+      "summary": "中新网山西平遥9月30日电 (记者 胡健)九月的平遥，天气已渐微凉。城墙根下，提着电影票的影迷穿过明清街巷，走向那座由旧厂房改造的电影宫。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-29/10705623.shtml",
-      "publishedAt": "2026-09-29T08:27:07.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706264.shtml",
+      "publishedAt": "2026-09-30T07:54:51.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "topic": "社会"
+    },
+    {
+      "title": "票房破亿！一大波国庆档电影上新，我们影院见",
+      "summary": "据网络平台数据",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706635.shtml",
+      "publishedAt": "2026-10-01T04:41:14.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
       "topic": "科技"
     },
     {
-      "title": "第十届平遥国际电影展各奖项揭晓",
-      "summary": "中新社山西平遥9月29日电 (记者 胡健)第十届平遥国际电影展“平遥之夜”29日晚在山西晋中平遥古城举行，各竞赛单元荣誉逐一揭晓。山西籍导演牛牛执导的《尾款…",
+      "title": "非遗焕新 新疆土陶走出丝路新范式",
+      "summary": "中新网乌鲁木齐9月30日电 (袁鹏冲)在新疆克孜勒苏柯尔克孜自治州阿克陶县巴仁乡萨依巴格村，一捧陶土，历经揉塑彩绘，在窑火淬炼中化为民众就业增收的土陶器物。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-29/10705939.shtml",
-      "publishedAt": "2026-09-29T15:06:40.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706301.shtml",
+      "publishedAt": "2026-09-30T08:13:53.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "topic": "社会"
     },
     {
-      "title": "第十届平遥国际电影展揭晓各项荣誉",
-      "summary": "9月29日晚，第十届平遥国际电影展“平遥之夜”在山西晋中平遥古城举行，山西籍导演牛牛执导的《尾款》获“费穆荣誉最佳影片”，导演牛牛(中)和父亲、主演牛建荣(…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706021.shtml",
-      "publishedAt": "2026-09-30T03:55:56.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
-      "topic": "文化"
-    },
-    {
-      "title": "第八届海南岛国际电影节征片量创新高 创作者群像更多样",
-      "summary": "中新网三亚9月30日电 (张月和)海南岛国际电影节组委会29日晚发布第八届海南岛国际电影节征片报告显示，自8月18日至9月24日面向全球征片以来，组委会共收…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706093.shtml",
-      "publishedAt": "2026-09-30T03:54:04.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
-      "topic": "文化"
-    },
-    {
-      "title": "机构：2025年中国AI云市场规模达684亿元",
-      "summary": "9月30日，国际数据公司（IDC）发布《中国AI云市场追踪报告，2025》。IDC认为AI云市场是以云服务形态交付、支撑大模型全生命周期的完整基础设施与平台…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15154934.html",
-      "publishedAt": "2026-09-30T03:50:28.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
-      "topic": "科技"
-    },
-    {
-      "title": "王楚钦：竞技体育就会有输有赢",
+      "title": "国庆档电影谁能突围",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%EF%BC%9A%E7%AB%9E%E6%8A%80%E4%BD%93%E8%82%B2%E5%B0%B1%E4%BC%9A%E6%9C%89%E8%BE%93%E6%9C%89%E8%B5%A2&sa=fyb_news",
-      "publishedAt": "2026-09-30T04:57:59.750Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%E8%B0%81%E8%83%BD%E7%AA%81%E5%9B%B4&sa=fyb_news",
+      "publishedAt": "2026-10-01T05:11:19.573Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
       "topic": "文化"
     },
     {
-      "title": "更多选手进入世界第一梯队 亚洲体育整体提升进步（亚运纵横）",
-      "summary": "记者 陈晨曦 孙龙飞 刘硕阳",
+      "title": "国庆假期人员密集 这些饮食、蚊虫等健康风险要注意",
+      "summary": "国庆假期即将来临，人员流动和聚集明显增加，中国疾控中心近日发布提示，提醒公众假期出行要注意食源性疾病、呼吸道传染病、蚊媒传染病等健康风险。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/life/2026/10-01/10706615.shtml",
+      "publishedAt": "2026-10-01T02:27:50.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "topic": "社会"
+    },
+    {
+      "title": "（爱知·名古屋亚运会）中国男足亚运队1:2遭韩国队逆转无缘决赛",
+      "summary": "中新社日本大阪9月30日电 (记者 国璇)当地时间9月30日在日本大阪长居体育场进行的爱知·名古屋亚运会男足半决赛中，中国男足亚运队以1:2被韩国队逆转，无…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706025.shtml",
-      "publishedAt": "2026-09-30T01:55:21.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706427.shtml",
+      "publishedAt": "2026-09-30T11:09:18.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
       "topic": "文化"
     },
     {
-      "title": "微软告诉非营利组织他们被删除的数据无法恢复",
-      "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从…",
+      "title": "张玉宁：中国队可昂首挺胸离开球场",
+      "summary": "中新网9月30日电(记者 国璇 徐朋朋)当地时间30日在日本大阪长居体育场进行的爱知·名古屋亚运会男足半决赛中，中国男足亚运队以1:2被韩国队逆转，遗憾无缘…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706364.shtml",
+      "publishedAt": "2026-09-30T09:21:05.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "topic": "文化"
+    },
+    {
+      "title": "夜空每年增亮 10%",
+      "summary": "世界正日益城市化，夜空的亮度每年都在增加10%。全球八成的人口生活在受光污染影响的夜空之下，真正的黑暗日益稀缺，对大部分人而言正变得遥不可及。享受黑暗的意义…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85503",
-      "publishedAt": "2026-09-29T10:10:51.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
+      "url": "https://www.solidot.org/story?sid=85512",
+      "publishedAt": "2026-09-30T07:27:07.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
+      "summary": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85519",
+      "publishedAt": "2026-09-30T15:18:19.000Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
       "topic": "科技"
     },
     {
-      "title": "中外专家孔子故里共话中华传统文化与奥林匹克精神价值共鸣",
-      "summary": "中新网山东曲阜9月29日电 (记者 孙婷婷 梁犇)以“中华传统文化与奥林匹克精神”为主题的2026尼山世界文明论坛·体育文化论坛29日在孔子故里曲阜举办。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-29/10705767.shtml",
-      "publishedAt": "2026-09-29T11:20:36.000Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
-      "topic": "文化"
-    },
-    {
-      "title": "速效救心丸金属瓶 不易打碎",
+      "title": "4款韬定律芯片亮相",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E9%87%91%E5%B1%9E%E7%93%B6+%E4%B8%8D%E6%98%93%E6%89%93%E7%A2%8E&sa=fyb_news",
-      "publishedAt": "2026-09-30T04:57:59.750Z",
-      "fetchedAt": "2026-09-30T04:57:59.750Z",
-      "topic": "综合"
+      "url": "https://m.baidu.com/s?word=4%E6%AC%BE%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E4%BA%AE%E7%9B%B8&sa=fyb_news",
+      "publishedAt": "2026-10-01T05:11:19.573Z",
+      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "topic": "科技"
     }
   ]
 }
