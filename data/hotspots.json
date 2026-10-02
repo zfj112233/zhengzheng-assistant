@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-01T05:11:19.573Z",
+  "updatedAt": "2026-10-02T04:59:54.403Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "中新网评：平遥十年：以微光成就电影远方",
-      "summary": "中新网山西平遥9月30日电 (记者 胡健)九月的平遥，天气已渐微凉。城墙根下，提着电影票的影迷穿过明清街巷，走向那座由旧厂房改造的电影宫。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706264.shtml",
-      "publishedAt": "2026-09-30T07:54:51.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "title": "国庆假期首日高速公路充电量同比增长60.4%",
+      "summary": "国庆假期，新能源汽车出行热度持续攀升。为深入贯彻落实党中央、国务院决策部署，有效应对国庆假期新能源汽车出行高峰，国家能源局前瞻部署、系统谋划，指导各地落实设…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707071.shtml",
+      "publishedAt": "2026-10-02T04:55:03.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
       "topic": "社会"
+    },
+    {
+      "title": "2026年中国电影国庆档首日票房破亿元 已呈 “一超一强”格局",
+      "summary": "中新社北京10月1日电 (记者 高凯)据灯塔专业版数据，截至北京时间10月1日16时，2026年中国内地电影国庆档首日票房已达1.24亿元(人民币，下同)，…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706826.shtml",
+      "publishedAt": "2026-10-01T11:21:21.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "topic": "科技"
     },
     {
       "title": "票房破亿！一大波国庆档电影上新，我们影院见",
       "summary": "据网络平台数据",
-      "source": "中新网",
+      "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706635.shtml",
       "publishedAt": "2026-10-01T04:41:14.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
       "topic": "科技"
     },
     {
-      "title": "非遗焕新 新疆土陶走出丝路新范式",
-      "summary": "中新网乌鲁木齐9月30日电 (袁鹏冲)在新疆克孜勒苏柯尔克孜自治州阿克陶县巴仁乡萨依巴格村，一捧陶土，历经揉塑彩绘，在窑火淬炼中化为民众就业增收的土陶器物。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706301.shtml",
-      "publishedAt": "2026-09-30T08:13:53.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "title": "新加坡推出面向公务员的约会软件 FirstDate",
+      "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 …",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85522",
+      "publishedAt": "2026-10-01T15:11:12.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
       "topic": "社会"
     },
     {
-      "title": "国庆档电影谁能突围",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%94%B5%E5%BD%B1%E8%B0%81%E8%83%BD%E7%AA%81%E5%9B%B4&sa=fyb_news",
-      "publishedAt": "2026-10-01T05:11:19.573Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
-      "topic": "文化"
-    },
-    {
-      "title": "国庆假期人员密集 这些饮食、蚊虫等健康风险要注意",
-      "summary": "国庆假期即将来临，人员流动和聚集明显增加，中国疾控中心近日发布提示，提醒公众假期出行要注意食源性疾病、呼吸道传染病、蚊媒传染病等健康风险。",
+      "title": "广西梧州首届“两湾联动 向海图强”龙舟邀请赛开赛 人工智能贯穿全程",
+      "summary": "中新网梧州10月2日电(张广权)10月1日，广西梧州市喜迎国庆第一届“两湾联动 向海图强”龙舟邀请赛开赛。来自粤港澳大湾区、北部湾城市及梧州本土的22支龙舟…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/life/2026/10-01/10706615.shtml",
-      "publishedAt": "2026-10-01T02:27:50.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707049.shtml",
+      "publishedAt": "2026-10-02T03:50:39.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "topic": "科技"
+    },
+    {
+      "title": "电影《食神》演员怒斥周星驰",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news",
+      "publishedAt": "2026-10-02T04:59:54.403Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "topic": "文化"
+    },
+    {
+      "title": "9月新能源车放榜：小米小鹏超4万，传统品牌子品牌表现亮眼",
+      "summary": "真·金九银十。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15158904.html",
+      "publishedAt": "2026-10-02T02:23:54.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "topic": "科技"
+    },
+    {
+      "title": "多平台下架儿童装银鳕鱼",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E5%84%BF%E7%AB%A5%E8%A3%85%E9%93%B6%E9%B3%95%E9%B1%BC&sa=fyb_news",
+      "publishedAt": "2026-10-02T04:59:54.403Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
       "topic": "社会"
     },
     {
-      "title": "（爱知·名古屋亚运会）中国男足亚运队1:2遭韩国队逆转无缘决赛",
-      "summary": "中新社日本大阪9月30日电 (记者 国璇)当地时间9月30日在日本大阪长居体育场进行的爱知·名古屋亚运会男足半决赛中，中国男足亚运队以1:2被韩国队逆转，无…",
+      "title": "（爱知·名古屋亚运会）综合消息：中国射击队16金收官 网球女单中国队提前包揽金银牌",
+      "summary": "中新社日本名古屋10月1日电 当地时间1日，爱知·名古屋亚运会共决出29枚金牌。中国体育健儿在网球、攀岩、场地自行车、射击等赛场收获亮眼战绩。",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706427.shtml",
-      "publishedAt": "2026-09-30T11:09:18.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
+      "publishedAt": "2026-10-01T16:00:09.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
       "topic": "文化"
     },
     {
-      "title": "张玉宁：中国队可昂首挺胸离开球场",
-      "summary": "中新网9月30日电(记者 国璇 徐朋朋)当地时间30日在日本大阪长居体育场进行的爱知·名古屋亚运会男足半决赛中，中国男足亚运队以1:2被韩国队逆转，遗憾无缘…",
+      "title": "2026哈尔滨跆拳道竞技冠军挑战赛开赛",
+      "summary": "中新网哈尔滨10月1日电(记者 王妮娜)10月1日，哈尔滨冰雪大世界迎来一场创新的跆拳道竞技冠军挑战赛——2026哈尔滨跆拳道竞技冠军挑战赛。赛事共汇集12…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706364.shtml",
-      "publishedAt": "2026-09-30T09:21:05.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
+      "publishedAt": "2026-10-01T13:03:46.000Z",
+      "fetchedAt": "2026-10-02T04:59:54.403Z",
       "topic": "文化"
-    },
-    {
-      "title": "夜空每年增亮 10%",
-      "summary": "世界正日益城市化，夜空的亮度每年都在增加10%。全球八成的人口生活在受光污染影响的夜空之下，真正的黑暗日益稀缺，对大部分人而言正变得遥不可及。享受黑暗的意义…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85512",
-      "publishedAt": "2026-09-30T07:27:07.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
-      "topic": "生活方式"
-    },
-    {
-      "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
-      "summary": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85519",
-      "publishedAt": "2026-09-30T15:18:19.000Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
-      "topic": "科技"
-    },
-    {
-      "title": "4款韬定律芯片亮相",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=4%E6%AC%BE%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E4%BA%AE%E7%9B%B8&sa=fyb_news",
-      "publishedAt": "2026-10-01T05:11:19.573Z",
-      "fetchedAt": "2026-10-01T05:11:19.573Z",
-      "topic": "科技"
     }
   ]
 }
