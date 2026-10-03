@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-10-02T04:59:54.403Z",
+  "updatedAt": "2026-10-03T04:43:37.399Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
+    {
+      "title": "国庆档票房破3亿！“电影+”玩法上新 文化消费升温",
+      "summary": "据网络平台数据",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707175.shtml",
+      "publishedAt": "2026-10-02T07:31:39.000Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
+      "topic": "科技"
+    },
     {
       "title": "国庆假期首日高速公路充电量同比增长60.4%",
       "summary": "国庆假期，新能源汽车出行热度持续攀升。为深入贯彻落实党中央、国务院决策部署，有效应对国庆假期新能源汽车出行高峰，国家能源局前瞻部署、系统谋划，指导各地落实设…",
@@ -13,40 +22,31 @@
       "topic": "社会"
     },
     {
-      "title": "2026年中国电影国庆档首日票房破亿元 已呈 “一超一强”格局",
-      "summary": "中新社北京10月1日电 (记者 高凯)据灯塔专业版数据，截至北京时间10月1日16时，2026年中国内地电影国庆档首日票房已达1.24亿元(人民币，下同)，…",
+      "title": "首届赤坎国际艺术节启幕 百年骑楼街化身“世界舞台”",
+      "summary": "中新网江门10月2日电 (记者 程景伟)首届赤坎国际艺术节10月1日在广东江门开平赤坎古镇国际旅游度假区启幕，来自法国、意大利、俄罗斯、保加利亚等世界多国的…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706826.shtml",
-      "publishedAt": "2026-10-01T11:21:21.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707023.shtml",
+      "publishedAt": "2026-10-02T02:20:20.000Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
+      "topic": "文化"
     },
     {
-      "title": "票房破亿！一大波国庆档电影上新，我们影院见",
-      "summary": "据网络平台数据",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706635.shtml",
-      "publishedAt": "2026-10-01T04:41:14.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "科技"
+      "title": "国际赛事“落地”二连浩特：自贸试验区打开跨境旅游新场景",
+      "summary": "中新网锡林郭勒10月2日电 (记者 奥蓝)国庆黄金周，中蒙边境小城二连浩特很是热闹。23个国家和地区的139名选手来到这里竞技骑射；国内22个省区市的150…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707156.shtml",
+      "publishedAt": "2026-10-02T07:11:44.000Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
+      "topic": "文化"
     },
     {
-      "title": "新加坡推出面向公务员的约会软件 FirstDate",
-      "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 …",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85522",
-      "publishedAt": "2026-10-01T15:11:12.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "社会"
-    },
-    {
-      "title": "广西梧州首届“两湾联动 向海图强”龙舟邀请赛开赛 人工智能贯穿全程",
-      "summary": "中新网梧州10月2日电(张广权)10月1日，广西梧州市喜迎国庆第一届“两湾联动 向海图强”龙舟邀请赛开赛。来自粤港澳大湾区、北部湾城市及梧州本土的22支龙舟…",
+      "title": "@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓",
+      "summary": "央视网消息：记者10月2日从国家能源局了解到，国庆假期，新能源汽车出行热度持续攀升。假期首日，全国高速公路充电量达到2804.69万千瓦时，较2025年“十…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707049.shtml",
-      "publishedAt": "2026-10-02T03:50:39.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707430.shtml",
+      "publishedAt": "2026-10-03T04:34:23.000Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
+      "topic": "社会"
     },
     {
       "title": "电影《食神》演员怒斥周星驰",
@@ -55,6 +55,15 @@
       "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news",
       "publishedAt": "2026-10-02T04:59:54.403Z",
       "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "topic": "文化"
+    },
+    {
+      "title": "闽浙210余名运动员在福鼎参加气排球赛角逐",
+      "summary": "中新网宁德10月2日电 (王漳)10月1日至2日，2026年福鼎市排球协会庆国庆“福鼎白茶杯”气排球邀请赛在福建省宁德福鼎市举行。赛事邀请闽浙边界23支队伍…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707227.shtml",
+      "publishedAt": "2026-10-02T10:12:49.000Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
       "topic": "文化"
     },
     {
@@ -67,31 +76,22 @@
       "topic": "科技"
     },
     {
-      "title": "多平台下架儿童装银鳕鱼",
+      "title": "这份长途出行防护指南请收好",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E5%84%BF%E7%AB%A5%E8%A3%85%E9%93%B6%E9%B3%95%E9%B1%BC&sa=fyb_news",
-      "publishedAt": "2026-10-02T04:59:54.403Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BB%BD%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news",
+      "publishedAt": "2026-10-03T04:43:37.399Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
       "topic": "社会"
     },
     {
-      "title": "（爱知·名古屋亚运会）综合消息：中国射击队16金收官 网球女单中国队提前包揽金银牌",
-      "summary": "中新社日本名古屋10月1日电 当地时间1日，爱知·名古屋亚运会共决出29枚金牌。中国体育健儿在网球、攀岩、场地自行车、射击等赛场收获亮眼战绩。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
-      "publishedAt": "2026-10-01T16:00:09.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "文化"
-    },
-    {
-      "title": "2026哈尔滨跆拳道竞技冠军挑战赛开赛",
-      "summary": "中新网哈尔滨10月1日电(记者 王妮娜)10月1日，哈尔滨冰雪大世界迎来一场创新的跆拳道竞技冠军挑战赛——2026哈尔滨跆拳道竞技冠军挑战赛。赛事共汇集12…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
-      "publishedAt": "2026-10-01T13:03:46.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "文化"
+      "title": "95岁老人用相机记录了长江30年",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=95%E5%B2%81%E8%80%81%E4%BA%BA%E7%94%A8%E7%9B%B8%E6%9C%BA%E8%AE%B0%E5%BD%95%E4%BA%86%E9%95%BF%E6%B1%9F30%E5%B9%B4&sa=fyb_news",
+      "publishedAt": "2026-10-03T04:43:37.399Z",
+      "fetchedAt": "2026-10-03T04:43:37.399Z",
+      "topic": "社会"
     }
   ]
 }
