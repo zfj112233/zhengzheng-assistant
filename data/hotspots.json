@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-03T04:43:37.399Z",
+  "updatedAt": "2026-10-04T05:14:59.437Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "国庆档票房破3亿！“电影+”玩法上新 文化消费升温",
+      "title": "从“北方好莱坞”到“电影之都” 中国影视出海掀起新浪潮",
+      "summary": "过去，中国影视产品出海，是把一部部作品送出去。今天，“出海”的方式变了。从电影银幕到手机竖屏，从内容形态到商业模式，再到屏幕背后的AI工具，中国影视正在更深…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707433.shtml",
+      "publishedAt": "2026-10-03T04:49:07.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "科技"
+    },
+    {
+      "title": "国庆档票房破6亿！“电影+”激发消费新增量",
       "summary": "据网络平台数据",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707175.shtml",
-      "publishedAt": "2026-10-02T07:31:39.000Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707780.shtml",
+      "publishedAt": "2026-10-04T04:54:14.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
       "topic": "科技"
     },
     {
-      "title": "国庆假期首日高速公路充电量同比增长60.4%",
-      "summary": "国庆假期，新能源汽车出行热度持续攀升。为深入贯彻落实党中央、国务院决策部署，有效应对国庆假期新能源汽车出行高峰，国家能源局前瞻部署、系统谋划，指导各地落实设…",
+      "title": "首届阿斯塔纳人工智能电影节落幕 中国创作者团队获“最佳故事”奖",
+      "summary": "中新社阿斯塔纳10月4日电 (记者 单璐)首届阿斯塔纳人工智能电影节3日在哈萨克斯坦首都阿斯塔纳落幕。来自中国的创作者团队2xLabs凭借人工智能短片《合龙…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707071.shtml",
-      "publishedAt": "2026-10-02T04:55:03.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "社会"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707775.shtml",
+      "publishedAt": "2026-10-04T04:50:04.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "科技"
     },
     {
-      "title": "首届赤坎国际艺术节启幕 百年骑楼街化身“世界舞台”",
-      "summary": "中新网江门10月2日电 (记者 程景伟)首届赤坎国际艺术节10月1日在广东江门开平赤坎古镇国际旅游度假区启幕，来自法国、意大利、俄罗斯、保加利亚等世界多国的…",
+      "title": "总票房破300亿！合家欢影片成为国庆档观影亮点",
+      "summary": "根据网络平台数据，截至目前，国庆档票房超4.8亿元，2026年电影总票房(含预售)突破300亿元，观影人次超过7.6亿，放映场次超过1.13亿场，国内电影市…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707023.shtml",
-      "publishedAt": "2026-10-02T02:20:20.000Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707642.shtml",
+      "publishedAt": "2026-10-03T13:27:04.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "科技"
     },
     {
-      "title": "国际赛事“落地”二连浩特：自贸试验区打开跨境旅游新场景",
-      "summary": "中新网锡林郭勒10月2日电 (记者 奥蓝)国庆黄金周，中蒙边境小城二连浩特很是热闹。23个国家和地区的139名选手来到这里竞技骑射；国内22个省区市的150…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707156.shtml",
-      "publishedAt": "2026-10-02T07:11:44.000Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
-      "topic": "文化"
-    },
-    {
-      "title": "@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓",
-      "summary": "央视网消息：记者10月2日从国家能源局了解到，国庆假期，新能源汽车出行热度持续攀升。假期首日，全国高速公路充电量达到2804.69万千瓦时，较2025年“十…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707430.shtml",
-      "publishedAt": "2026-10-03T04:34:23.000Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
-      "topic": "社会"
-    },
-    {
-      "title": "电影《食神》演员怒斥周星驰",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9F%E7%A5%9E%E3%80%8B%E6%BC%94%E5%91%98%E6%80%92%E6%96%A5%E5%91%A8%E6%98%9F%E9%A9%B0&sa=fyb_news",
-      "publishedAt": "2026-10-02T04:59:54.403Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
-      "topic": "文化"
-    },
-    {
-      "title": "闽浙210余名运动员在福鼎参加气排球赛角逐",
-      "summary": "中新网宁德10月2日电 (王漳)10月1日至2日，2026年福鼎市排球协会庆国庆“福鼎白茶杯”气排球邀请赛在福建省宁德福鼎市举行。赛事邀请闽浙边界23支队伍…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707227.shtml",
-      "publishedAt": "2026-10-02T10:12:49.000Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
-      "topic": "文化"
-    },
-    {
-      "title": "9月新能源车放榜：小米小鹏超4万，传统品牌子品牌表现亮眼",
-      "summary": "真·金九银十。",
+      "title": "电影《小猪佩奇·完美假期》总票房破4000万",
+      "summary": "据猫眼专业版数据，电影《小猪佩奇·完美假期》上映4天，总票房破4000万。",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15158904.html",
-      "publishedAt": "2026-10-02T02:23:54.000Z",
-      "fetchedAt": "2026-10-02T04:59:54.403Z",
+      "url": "https://www.jiemian.com/article/15160894.html",
+      "publishedAt": "2026-10-04T04:07:32.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
       "topic": "科技"
     },
     {
-      "title": "这份长途出行防护指南请收好",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BB%BD%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news",
-      "publishedAt": "2026-10-03T04:43:37.399Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
-      "topic": "社会"
+      "title": "宁夏银川：越野赛事搭台 释放汽车消费活力",
+      "summary": "中新网银川10月3日电 (记者 李佩珊)记者3日从宁夏银川市获悉，作为全国汽车流通消费改革试点城市，银川深挖贺兰山下山地越野资源，依托虎克之路赛事IP，国庆…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707542.shtml",
+      "publishedAt": "2026-10-03T10:23:51.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "文化"
     },
     {
-      "title": "95岁老人用相机记录了长江30年",
+      "title": "小沈阳夫妇新电影杀疯了",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=95%E5%B2%81%E8%80%81%E4%BA%BA%E7%94%A8%E7%9B%B8%E6%9C%BA%E8%AE%B0%E5%BD%95%E4%BA%86%E9%95%BF%E6%B1%9F30%E5%B9%B4&sa=fyb_news",
-      "publishedAt": "2026-10-03T04:43:37.399Z",
-      "fetchedAt": "2026-10-03T04:43:37.399Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A4%AB%E5%A6%87%E6%96%B0%E7%94%B5%E5%BD%B1%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news",
+      "publishedAt": "2026-10-04T05:14:59.437Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "文化"
+    },
+    {
+      "title": "AI耳机蓄势，芯片厂商待发",
+      "summary": "传统耳机，卒？",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15160862.html",
+      "publishedAt": "2026-10-04T03:55:33.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "科技"
+    },
+    {
+      "title": "以赛为媒带动全域文旅 “全家福安”第二届福乒赛开幕",
+      "summary": "中新网宁德10月4日电 (记者 叶茂)以“乒乒乓乓·全家福安”为主题的“全家福安”第二届福乒赛3日晚在福建省宁德福安市开幕，赛事采用“专业精品赛事+全民健身…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707710.shtml",
+      "publishedAt": "2026-10-04T01:47:54.000Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "文化"
+    },
+    {
+      "title": "逃离工位的年轻人 花上万元进山",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E9%80%83%E7%A6%BB%E5%B7%A5%E4%BD%8D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA+%E8%8A%B1%E4%B8%8A%E4%B8%87%E5%85%83%E8%BF%9B%E5%B1%B1&sa=fyb_news",
+      "publishedAt": "2026-10-04T05:14:59.437Z",
+      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "topic": "生活方式"
     }
   ]
 }
