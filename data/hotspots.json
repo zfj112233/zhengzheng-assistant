@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-10-04T05:14:59.437Z",
+  "updatedAt": "2026-10-05T04:59:16.358Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "从“北方好莱坞”到“电影之都” 中国影视出海掀起新浪潮",
-      "summary": "过去，中国影视产品出海，是把一部部作品送出去。今天，“出海”的方式变了。从电影银幕到手机竖屏，从内容形态到商业模式，再到屏幕背后的AI工具，中国影视正在更深…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707433.shtml",
-      "publishedAt": "2026-10-03T04:49:07.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
-      "topic": "科技"
-    },
-    {
       "title": "国庆档票房破6亿！“电影+”激发消费新增量",
       "summary": "据网络平台数据",
-      "source": "中新网",
+      "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707780.shtml",
       "publishedAt": "2026-10-04T04:54:14.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
       "topic": "科技"
     },
     {
       "title": "首届阿斯塔纳人工智能电影节落幕 中国创作者团队获“最佳故事”奖",
       "summary": "中新社阿斯塔纳10月4日电 (记者 单璐)首届阿斯塔纳人工智能电影节3日在哈萨克斯坦首都阿斯塔纳落幕。来自中国的创作者团队2xLabs凭借人工智能短片《合龙…",
-      "source": "中新网",
+      "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707775.shtml",
       "publishedAt": "2026-10-04T04:50:04.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
       "topic": "科技"
     },
     {
-      "title": "总票房破300亿！合家欢影片成为国庆档观影亮点",
-      "summary": "根据网络平台数据，截至目前，国庆档票房超4.8亿元，2026年电影总票房(含预售)突破300亿元，观影人次超过7.6亿，放映场次超过1.13亿场，国内电影市…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707642.shtml",
-      "publishedAt": "2026-10-03T13:27:04.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
-      "topic": "科技"
+      "title": "美海岸警卫队停止搜救坠海医疗飞机 机上6人推定遇难",
+      "summary": "当地时间10月4日晚，美国海岸警卫队表示，已停止对在马萨诸塞州楠塔基特岛附近海域坠毁的一架医疗救护飞机的搜救行动。这架飞机所属的加拿大医疗运输服务公司发布声…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708059.shtml",
+      "publishedAt": "2026-10-05T03:18:41.000Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "topic": "社会"
     },
     {
-      "title": "电影《小猪佩奇·完美假期》总票房破4000万",
-      "summary": "据猫眼专业版数据，电影《小猪佩奇·完美假期》上映4天，总票房破4000万。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15160894.html",
-      "publishedAt": "2026-10-04T04:07:32.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
-      "topic": "科技"
-    },
-    {
-      "title": "宁夏银川：越野赛事搭台 释放汽车消费活力",
-      "summary": "中新网银川10月3日电 (记者 李佩珊)记者3日从宁夏银川市获悉，作为全国汽车流通消费改革试点城市，银川深挖贺兰山下山地越野资源，依托虎克之路赛事IP，国庆…",
+      "title": "京山“网球黄金赛季”激活县域经济新动能",
+      "summary": "中新网湖北京山10月5日电(成丽平 余舟 余哲)走进京山国际网球赛事中心，祖籍湖北的美籍新星郑瑞双腿屈膝，一记精准的反手击球引来全场喝彩。这一精彩瞬间，正是…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707542.shtml",
-      "publishedAt": "2026-10-03T10:23:51.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708024.shtml",
+      "publishedAt": "2026-10-05T01:49:55.000Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
       "topic": "文化"
     },
     {
-      "title": "小沈阳夫妇新电影杀疯了",
+      "title": "美停止搜救坠毁医疗飞机，机上6人据推定已全部遇难",
+      "summary": "美国海岸警卫队当地时间10月4日晚表示，已停止对在马萨诸塞州楠塔基特岛附近海域坠毁的一架医疗救护飞机的搜救行动。这架飞机所属的加拿大医疗运输服务公司发布声明…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15161762.html",
+      "publishedAt": "2026-10-05T02:45:20.000Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "topic": "社会"
+    },
+    {
+      "title": "169金，12连冠！亚运会闭幕，中国军团这些数字太提气！",
+      "summary": "爱知·名古屋亚运会4日落下帷幕。破纪录、创历史、再超越……本届亚运会上中国体育健儿的动人风采，从一系列数字中可见一斑。",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707890.shtml",
+      "publishedAt": "2026-10-04T10:34:18.000Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "topic": "科技"
+    },
+    {
+      "title": "特朗普宣布组建“超级智能工作组”",
+      "summary": "中新社华盛顿10月4日电 (记者 陈孟统)美国总统特朗普4日宣布，组建“超级智能工作组”，并任命包括国家情报总监杰伊·克莱顿在内的工作组成员。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708011.shtml",
+      "publishedAt": "2026-10-05T03:04:54.000Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "topic": "科技"
+    },
+    {
+      "title": "电影《侦战》：取消本轮公映档期",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15161795.html",
+      "publishedAt": "2026-10-05T03:42:09.000Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "topic": "文化"
+    },
+    {
+      "title": "用户投诉说脏话 AI客服回复也含脏话",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A4%AB%E5%A6%87%E6%96%B0%E7%94%B5%E5%BD%B1%E6%9D%80%E7%96%AF%E4%BA%86&sa=fyb_news",
-      "publishedAt": "2026-10-04T05:14:59.437Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
-      "topic": "文化"
-    },
-    {
-      "title": "AI耳机蓄势，芯片厂商待发",
-      "summary": "传统耳机，卒？",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15160862.html",
-      "publishedAt": "2026-10-04T03:55:33.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "url": "https://m.baidu.com/s?word=%E7%94%A8%E6%88%B7%E6%8A%95%E8%AF%89%E8%AF%B4%E8%84%8F%E8%AF%9D+AI%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%A4%8D%E4%B9%9F%E5%90%AB%E8%84%8F%E8%AF%9D&sa=fyb_news",
+      "publishedAt": "2026-10-05T04:59:16.358Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
       "topic": "科技"
     },
     {
-      "title": "以赛为媒带动全域文旅 “全家福安”第二届福乒赛开幕",
-      "summary": "中新网宁德10月4日电 (记者 叶茂)以“乒乒乓乓·全家福安”为主题的“全家福安”第二届福乒赛3日晚在福建省宁德福安市开幕，赛事采用“专业精品赛事+全民健身…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707710.shtml",
-      "publishedAt": "2026-10-04T01:47:54.000Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
-      "topic": "文化"
-    },
-    {
-      "title": "逃离工位的年轻人 花上万元进山",
+      "title": "反向旅游依然被价格背刺",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E9%80%83%E7%A6%BB%E5%B7%A5%E4%BD%8D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA+%E8%8A%B1%E4%B8%8A%E4%B8%87%E5%85%83%E8%BF%9B%E5%B1%B1&sa=fyb_news",
-      "publishedAt": "2026-10-04T05:14:59.437Z",
-      "fetchedAt": "2026-10-04T05:14:59.437Z",
+      "url": "https://m.baidu.com/s?word=%E5%8F%8D%E5%90%91%E6%97%85%E6%B8%B8%E4%BE%9D%E7%84%B6%E8%A2%AB%E4%BB%B7%E6%A0%BC%E8%83%8C%E5%88%BA&sa=fyb_news",
+      "publishedAt": "2026-10-05T04:59:16.358Z",
+      "fetchedAt": "2026-10-05T04:59:16.358Z",
       "topic": "生活方式"
     }
   ]
