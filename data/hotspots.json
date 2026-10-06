@@ -1,34 +1,52 @@
 {
-  "updatedAt": "2026-10-05T04:59:16.358Z",
+  "updatedAt": "2026-10-06T05:46:48.270Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "国庆档票房破6亿！“电影+”激发消费新增量",
+      "title": "2026国庆档票房超9亿元 国产影片领跑档期",
+      "summary": "据票务平台数据，2026年国庆档电影票房已突破9亿元，今年国庆假期电影市场迎来多部新作，超10部中外影片轮番登场。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-06/10708352.shtml",
+      "publishedAt": "2026-10-06T01:53:56.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
+      "topic": "科技"
+    },
+    {
+      "title": "中国AI短片《合龙》海外获奖 执行导演称跨文化理解先过“质量关”",
+      "summary": "中新社阿斯塔纳10月6日电 (记者 单璐)“一个带有中国传统文化背景的AI短片，能在海外电影节上获奖，说明这部作品具有跨越文化差异的力量，对我们团队来说，这…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-06/10708374.shtml",
+      "publishedAt": "2026-10-06T03:09:57.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
+      "topic": "科技"
+    },
+    {
+      "title": "国庆档电影票房超9亿！光影文旅双向奔赴",
       "summary": "据网络平台数据",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707780.shtml",
-      "publishedAt": "2026-10-04T04:54:14.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-05/10708276.shtml",
+      "publishedAt": "2026-10-05T13:22:59.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
       "topic": "科技"
     },
     {
-      "title": "首届阿斯塔纳人工智能电影节落幕 中国创作者团队获“最佳故事”奖",
-      "summary": "中新社阿斯塔纳10月4日电 (记者 单璐)首届阿斯塔纳人工智能电影节3日在哈萨克斯坦首都阿斯塔纳落幕。来自中国的创作者团队2xLabs凭借人工智能短片《合龙…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707775.shtml",
-      "publishedAt": "2026-10-04T04:50:04.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "title": "电影《神探之痕迹》观影人次破1000万",
+      "summary": "10月6日，据猫眼专业版数据，电影《神探之痕迹》上映6天，观影人次破1000万​​​。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15163111.html",
+      "publishedAt": "2026-10-06T05:37:42.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
       "topic": "科技"
     },
     {
-      "title": "美海岸警卫队停止搜救坠海医疗飞机 机上6人推定遇难",
-      "summary": "当地时间10月4日晚，美国海岸警卫队表示，已停止对在马萨诸塞州楠塔基特岛附近海域坠毁的一架医疗救护飞机的搜救行动。这架飞机所属的加拿大医疗运输服务公司发布声…",
+      "title": "述评：AI为“诗画浙江”带来了什么？",
+      "summary": "中新网杭州10月6日电(林波)国庆假期，一批AI文旅新场景在浙江集中亮相，从可对话的古塔、能识文物的文博系统，到沉浸式XR叙事、县域轻量化文旅创业模式，AI…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708059.shtml",
-      "publishedAt": "2026-10-05T03:18:41.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
-      "topic": "社会"
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708390.shtml",
+      "publishedAt": "2026-10-06T03:53:36.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
+      "topic": "科技"
     },
     {
       "title": "京山“网球黄金赛季”激活县域经济新动能",
@@ -36,62 +54,44 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708024.shtml",
       "publishedAt": "2026-10-05T01:49:55.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
       "topic": "文化"
     },
     {
-      "title": "美停止搜救坠毁医疗飞机，机上6人据推定已全部遇难",
-      "summary": "美国海岸警卫队当地时间10月4日晚表示，已停止对在马萨诸塞州楠塔基特岛附近海域坠毁的一架医疗救护飞机的搜救行动。这架飞机所属的加拿大医疗运输服务公司发布声明…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15161762.html",
-      "publishedAt": "2026-10-05T02:45:20.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
-      "topic": "社会"
-    },
-    {
-      "title": "169金，12连冠！亚运会闭幕，中国军团这些数字太提气！",
-      "summary": "爱知·名古屋亚运会4日落下帷幕。破纪录、创历史、再超越……本届亚运会上中国体育健儿的动人风采，从一系列数字中可见一斑。",
+      "title": "第20届亚运会落幕 云南健儿夺5金创多项参赛历史",
+      "summary": "中新网昆明10月5日电 (时文枝)云南省体育局5日消息，第20届亚运会10月4日在日本名古屋落下帷幕。本届赛事中，云南11名运动员、3名教练员入选中国体育代…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707890.shtml",
-      "publishedAt": "2026-10-04T10:34:18.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
-      "topic": "科技"
-    },
-    {
-      "title": "特朗普宣布组建“超级智能工作组”",
-      "summary": "中新社华盛顿10月4日电 (记者 陈孟统)美国总统特朗普4日宣布，组建“超级智能工作组”，并任命包括国家情报总监杰伊·克莱顿在内的工作组成员。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708011.shtml",
-      "publishedAt": "2026-10-05T03:04:54.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
-      "topic": "科技"
-    },
-    {
-      "title": "电影《侦战》：取消本轮公映档期",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15161795.html",
-      "publishedAt": "2026-10-05T03:42:09.000Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708132.shtml",
+      "publishedAt": "2026-10-05T06:52:32.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
       "topic": "文化"
     },
     {
-      "title": "用户投诉说脏话 AI客服回复也含脏话",
+      "title": "AI显示用户假期一天增重1.91万斤",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%94%A8%E6%88%B7%E6%8A%95%E8%AF%89%E8%AF%B4%E8%84%8F%E8%AF%9D+AI%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%A4%8D%E4%B9%9F%E5%90%AB%E8%84%8F%E8%AF%9D&sa=fyb_news",
-      "publishedAt": "2026-10-05T04:59:16.358Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
+      "url": "https://m.baidu.com/s?word=AI%E6%98%BE%E7%A4%BA%E7%94%A8%E6%88%B7%E5%81%87%E6%9C%9F%E4%B8%80%E5%A4%A9%E5%A2%9E%E9%87%8D1.91%E4%B8%87%E6%96%A4&sa=fyb_news",
+      "publishedAt": "2026-10-06T05:46:48.270Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
       "topic": "科技"
     },
     {
-      "title": "反向旅游依然被价格背刺",
+      "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+      "summary": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Re…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85538",
+      "publishedAt": "2026-10-05T14:27:52.000Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
+      "topic": "科技"
+    },
+    {
+      "title": "民生为大 把老百姓的事办实办好",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%8D%E5%90%91%E6%97%85%E6%B8%B8%E4%BE%9D%E7%84%B6%E8%A2%AB%E4%BB%B7%E6%A0%BC%E8%83%8C%E5%88%BA&sa=fyb_news",
-      "publishedAt": "2026-10-05T04:59:16.358Z",
-      "fetchedAt": "2026-10-05T04:59:16.358Z",
-      "topic": "生活方式"
+      "url": "https://m.baidu.com/s?word=%E6%B0%91%E7%94%9F%E4%B8%BA%E5%A4%A7+%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E4%BA%8B%E5%8A%9E%E5%AE%9E%E5%8A%9E%E5%A5%BD&sa=fyb_news",
+      "publishedAt": "2026-10-06T05:46:48.270Z",
+      "fetchedAt": "2026-10-06T05:46:48.270Z",
+      "topic": "社会"
     }
   ]
 }
