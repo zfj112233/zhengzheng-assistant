@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-09T05:31:28.734Z",
+  "updatedAt": "2026-10-10T05:15:32.557Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "打破单一放映模式 各地影院消费新业态持续升温",
-      "summary": "据票务平台数据，2026年国庆档电影票房(含预售)已超11亿元。",
+      "title": "守护档案、守住信仰 电影《密档》走进复旦大学",
+      "summary": "中新网上海10月9日电 (记者 陈静)电影《密档》正在全国热映中。8日晚间，该电影在复旦大学展映。在相辉堂，一段往事被重新打开，也被更多年轻人看见并牢记在心。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-08/10708909.shtml",
-      "publishedAt": "2026-10-08T02:10:01.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709865.shtml",
+      "publishedAt": "2026-10-09T12:56:31.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "文化"
     },
     {
-      "title": "美国男子因利用 AI 生成音乐和机器人账号欺诈播放被判 18 个月",
-      "summary": "54 岁的美国北卡罗来纳州男子 Michael Smith 因 AI 辅助欺诈罪被判入狱 18 个月。他是首位涉嫌 AI 辅助流媒体欺诈而被刑事起诉的美国人…",
+      "title": "广东省第八届民族传统体育运动会11月举行 参与人数为历届之最",
+      "summary": "中新网中山10月9日电 (记者 蔡敏婕)广东省第八届民族传统体育运动会新闻发布会9日在广东中山举办。本次发布会上，广东省第八届民族传统体育运动会会歌、会徽、…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709844.shtml",
+      "publishedAt": "2026-10-09T12:23:17.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "文化"
+    },
+    {
+      "title": "“电影+”释放大能量（解码·文化市场新观察）",
+      "summary": "刘 阳 马泽祥",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709476.shtml",
+      "publishedAt": "2026-10-09T02:04:32.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "文化"
+    },
+    {
+      "title": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体",
+      "summary": "如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85551",
-      "publishedAt": "2026-10-08T13:19:39.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "科技"
-    },
-    {
-      "title": "报告称国庆档单人观影比例达六年最高",
-      "summary": "中新网北京10月8日电 (记者 高凯)10月8日，《2026国庆档电影数据洞察》(以下简称《洞察》)发布，《洞察》数据显示，此次档期影片供给类型丰富，但观众…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709247.shtml",
-      "publishedAt": "2026-10-08T10:23:12.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "科技"
-    },
-    {
-      "title": "为一场比赛奔赴一座城 第二届海南省城市足球联赛将开幕",
-      "summary": "中新网海口10月8日电 (记者 张茜翼)记者8日从第二届海南省城市足球联赛(简称“琼超”)筹备情况新闻发布会获悉，该赛事将于10月17日在琼中黎族苗族自治县…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-08/10709207.shtml",
-      "publishedAt": "2026-10-08T08:54:37.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "文化"
-    },
-    {
-      "title": "全球近千名运动员齐聚深圳参加户外夜赛",
-      "summary": "中新网深圳10月8日电 (记者 张璐)“这次是专门从香港过来参加赛事，和朋友一起过来参赛，整体行程安排得很方便。比赛之外，我们也在深圳吃了当地的美食、逛了逛…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-08/10708983.shtml",
-      "publishedAt": "2026-10-08T03:35:22.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "文化"
-    },
-    {
-      "title": "AI短剧里爆火的“吃了不烧心”，真的是好食材的标志吗？",
-      "summary": "最近，一批高度模板化的 AI 短剧带火了“不烧心”这个词。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709560.shtml",
-      "publishedAt": "2026-10-09T04:08:25.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "科技"
-    },
-    {
-      "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
-      "summary": "成绩之外，更值得关注的是这家公司的身份。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15170490.html",
-      "publishedAt": "2026-10-09T05:06:15.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "科技"
-    },
-    {
-      "title": "别跑空！新疆多家景区季节性停运、调整开放时间",
-      "summary": "记者从新疆文化和旅游厅了解到，因冬季即将来临，新疆部分景区季节性停运、调整开放时间。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709565.shtml",
-      "publishedAt": "2026-10-09T04:42:05.000Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "文化"
-    },
-    {
-      "title": "别让AI糟蹋了四大名著",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97&sa=fyb_news",
-      "publishedAt": "2026-10-09T05:31:28.734Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
-      "topic": "科技"
-    },
-    {
-      "title": "四川雅安市发生3.8级地震",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E5%B8%82%E5%8F%91%E7%94%9F3.8%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
-      "publishedAt": "2026-10-09T05:31:28.734Z",
-      "fetchedAt": "2026-10-09T05:31:28.734Z",
+      "url": "https://www.solidot.org/story?sid=85566",
+      "publishedAt": "2026-10-09T14:52:34.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
       "topic": "社会"
+    },
+    {
+      "title": "人社部：力争“十五五”时期工伤保险参保达3.45亿人",
+      "summary": "中新网10月10日电 10月10日上午，国新办举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。人力资源…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710127.shtml",
+      "publishedAt": "2026-10-10T05:00:14.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "社会"
+    },
+    {
+      "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
+      "summary": "中新网10月10日电 10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710125.shtml",
+      "publishedAt": "2026-10-10T04:53:32.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "社会"
+    },
+    {
+      "title": "2026—2027赛季陕西省大学生足球联赛开赛",
+      "summary": "中新网西安10月9日电 (记者 党田野 张一辰)2026—2027赛季陕西省大学生足球联赛启动仪式8日在陕西师范大学长安校区举行。本届赛事参赛规模、女子赛事…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709702.shtml",
+      "publishedAt": "2026-10-09T08:38:01.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "社会"
+    },
+    {
+      "title": "17人卧底入职互联网公司窃取信息获刑",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=17%E4%BA%BA%E5%8D%A7%E5%BA%95%E5%85%A5%E8%81%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E7%AA%83%E5%8F%96%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%88%91&sa=fyb_news",
+      "publishedAt": "2026-10-10T05:15:32.557Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "科技"
+    },
+    {
+      "title": "第五届亚残运会中国体育代表团成立",
+      "summary": "第五届亚残运会将于10月18日至24日在日本名古屋举行，中国体育代表团总计500人，其中运动员312人（含男运动员146人、女运动员166人），来自全国25…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15175002.html",
+      "publishedAt": "2026-10-10T03:11:20.000Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "文化"
+    },
+    {
+      "title": "AI生成内容不受版权约束？错！",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%8D%E5%8F%97%E7%89%88%E6%9D%83%E7%BA%A6%E6%9D%9F%EF%BC%9F%E9%94%99%EF%BC%81&sa=fyb_news",
+      "publishedAt": "2026-10-10T05:15:32.557Z",
+      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "topic": "科技"
     }
   ]
 }
