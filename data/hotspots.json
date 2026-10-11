@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-10T05:15:32.557Z",
+  "updatedAt": "2026-10-11T05:06:15.757Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "守护档案、守住信仰 电影《密档》走进复旦大学",
-      "summary": "中新网上海10月9日电 (记者 陈静)电影《密档》正在全国热映中。8日晚间，该电影在复旦大学展映。在相辉堂，一段往事被重新打开，也被更多年轻人看见并牢记在心。",
+      "title": "2026金鸡海外影展开幕 五部佳片点亮首尔银幕",
+      "summary": "中新网首尔10月10日电 (记者 金旭)由中国电影家协会主办，韩国电影振兴委员会支持的2026金鸡海外影展韩国站在首尔启幕。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709865.shtml",
-      "publishedAt": "2026-10-09T12:56:31.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710478.shtml",
+      "publishedAt": "2026-10-10T06:56:27.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
       "topic": "文化"
     },
     {
-      "title": "广东省第八届民族传统体育运动会11月举行 参与人数为历届之最",
-      "summary": "中新网中山10月9日电 (记者 蔡敏婕)广东省第八届民族传统体育运动会新闻发布会9日在广东中山举办。本次发布会上，广东省第八届民族传统体育运动会会歌、会徽、…",
+      "title": "多地雅思考试突发取消 退费重考如何安排？最新解答→",
+      "summary": "对于不少打算出国留学、海外就业的朋友来说，雅思考试作为一项衡量英语语言水平的考试，就像一张“语言通行证”。而昨天(10日)，由英国文化教育协会主办的雅思考试…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710909.shtml",
+      "publishedAt": "2026-10-11T02:20:26.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
+      "topic": "社会"
+    },
+    {
+      "title": "2026武汉网球公开赛挥拍 郑钦文在家乡出战",
+      "summary": "中新社武汉10月10日电 (记者 张芹)2026东风·岚图汽车武汉网球公开赛(以下简称“武网”)10日在光谷国际网球中心挥拍，作为WTA1000赛事年度收官…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709844.shtml",
-      "publishedAt": "2026-10-09T12:23:17.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710714.shtml",
+      "publishedAt": "2026-10-10T12:32:05.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
       "topic": "文化"
     },
     {
-      "title": "“电影+”释放大能量（解码·文化市场新观察）",
-      "summary": "刘 阳 马泽祥",
+      "title": "粤剧粤歌艺术课走进深圳中小学 “圈粉”新生代",
+      "summary": "中新网深圳10月10日电 (记者 程景伟)“潮向2026曾小敏粤歌创享季”系列活动之粤剧文化主题研学进校园活动近日先后在深圳市福田区益强小学和红岭教育集团石…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709476.shtml",
-      "publishedAt": "2026-10-09T02:04:32.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710547.shtml",
+      "publishedAt": "2026-10-10T09:20:30.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
+      "topic": "社会"
     },
     {
-      "title": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体",
-      "summary": "如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，…",
+      "title": "Cloudflare 公共 DNS 服务不需屏蔽盗版网站域名",
+      "summary": "Cloudflare 的公共 DNS 解析服务 1.1.1.1 没有屏蔽盗版体育直播网站的域名，而是通过其 CDN 服务屏蔽相关网站。巴黎司法法院（Pari…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85566",
-      "publishedAt": "2026-10-09T14:52:34.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "url": "https://www.solidot.org/story?sid=85571",
+      "publishedAt": "2026-10-10T07:30:38.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
       "topic": "社会"
     },
     {
-      "title": "人社部：力争“十五五”时期工伤保险参保达3.45亿人",
-      "summary": "中新网10月10日电 10月10日上午，国新办举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。人力资源…",
+      "title": "广东33名运动员出征第五届亚残运会",
+      "summary": "中新网广州10月11日电 (记者 张璐)记者11日从广东省残疾人联合会获悉，第五届亚洲残疾人运动会中国体育代表团成立大会近日召开。中国体育代表团总计500人…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710127.shtml",
-      "publishedAt": "2026-10-10T05:00:14.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
-      "topic": "社会"
-    },
-    {
-      "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
-      "summary": "中新网10月10日电 10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710125.shtml",
-      "publishedAt": "2026-10-10T04:53:32.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
-      "topic": "社会"
-    },
-    {
-      "title": "2026—2027赛季陕西省大学生足球联赛开赛",
-      "summary": "中新网西安10月9日电 (记者 党田野 张一辰)2026—2027赛季陕西省大学生足球联赛启动仪式8日在陕西师范大学长安校区举行。本届赛事参赛规模、女子赛事…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709702.shtml",
-      "publishedAt": "2026-10-09T08:38:01.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
-      "topic": "社会"
-    },
-    {
-      "title": "17人卧底入职互联网公司窃取信息获刑",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=17%E4%BA%BA%E5%8D%A7%E5%BA%95%E5%85%A5%E8%81%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E7%AA%83%E5%8F%96%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%88%91&sa=fyb_news",
-      "publishedAt": "2026-10-10T05:15:32.557Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
-      "topic": "科技"
-    },
-    {
-      "title": "第五届亚残运会中国体育代表团成立",
-      "summary": "第五届亚残运会将于10月18日至24日在日本名古屋举行，中国体育代表团总计500人，其中运动员312人（含男运动员146人、女运动员166人），来自全国25…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15175002.html",
-      "publishedAt": "2026-10-10T03:11:20.000Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10710916.shtml",
+      "publishedAt": "2026-10-11T02:43:51.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
       "topic": "文化"
     },
     {
-      "title": "AI生成内容不受版权约束？错！",
+      "title": "民间羽毛球好手齐聚陕西汉中 以球会友助力全民健身",
+      "summary": "中新网陕西汉中10月10日电 (记者 党田野 张一辰)“全民健身 运动三秦”2026年陕西省群众体育五级联赛暨社区运动会羽毛球总决赛10日在陕西省汉中市开赛…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710701.shtml",
+      "publishedAt": "2026-10-10T12:18:54.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
+      "topic": "文化"
+    },
+    {
+      "title": "“不烧心”，生活乙方的终极幻想",
+      "summary": "“不烧心”短剧高度套路化，对观众的驯化程度堪比洗脑神曲。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15176680.html",
+      "publishedAt": "2026-10-11T03:19:53.000Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
+      "topic": "娱乐"
+    },
+    {
+      "title": "连辑被开除党籍 文旅部表态",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%8D%E5%8F%97%E7%89%88%E6%9D%83%E7%BA%A6%E6%9D%9F%EF%BC%9F%E9%94%99%EF%BC%81&sa=fyb_news",
-      "publishedAt": "2026-10-10T05:15:32.557Z",
-      "fetchedAt": "2026-10-10T05:15:32.557Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E8%BF%9E%E8%BE%91%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D+%E6%96%87%E6%97%85%E9%83%A8%E8%A1%A8%E6%80%81&sa=fyb_news",
+      "publishedAt": "2026-10-11T05:06:15.757Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
+      "topic": "文化"
+    },
+    {
+      "title": "总书记同卫生健康工作者的故事",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%8C%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%B7%A5%E4%BD%9C%E8%80%85%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news",
+      "publishedAt": "2026-10-11T05:06:15.757Z",
+      "fetchedAt": "2026-10-11T05:06:15.757Z",
+      "topic": "生活方式"
     }
   ]
 }
