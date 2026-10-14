@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-13T06:18:47.413Z",
+  "updatedAt": "2026-10-14T04:20:24.467Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "“新艺中国·数艺无界”文化和科技融合新质生产力大会在长沙举行",
-      "summary": "中新网长沙10月13日电 (记者 徐雪莹 程小路)“新艺中国·数艺无界”文化和科技融合新质生产力大会13日在湖南长沙举行，全国新的社会阶层人士“新艺中国”服…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713639.shtml",
-      "publishedAt": "2026-10-13T05:34:30.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "社会"
-    },
-    {
-      "title": "《带着明星回西安》：走进西安的烟火生活",
-      "summary": "电视剧《主角》的爆火，让人们看到了秦腔的魅力；电影《给阿嬷的情书》则勾起了无数人的乡愁。这两部作品之所以动人，恰恰在于它们提供了一种“走近真实乡土的渴望”。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712009.shtml",
-      "publishedAt": "2026-10-12T06:21:04.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "文化"
-    },
-    {
-      "title": "连发八个感叹号回应，章子怡再获国际荣誉",
-      "summary": "中新网北京10月12日电(记者 任思雨)当地时间10月11日，第18届卢米埃尔电影节向中国演员章子怡颁发“荣誉成就大奖”。该奖项为首次设立，以表彰为全球电影…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712260.shtml",
-      "publishedAt": "2026-10-12T13:22:36.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "文化"
-    },
-    {
-      "title": "AI 编程智能体生成了更多代码，但并没有生成更多软件",
-      "summary": "一项对数百家公司编程实践的研究发现，人工代码审查是 AI 编程工具整体效率的一大瓶颈，导致几乎没有证据表明企业使用 AI 工具能提高软件产量或减少就业。研究…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85589",
-      "publishedAt": "2026-10-12T10:01:07.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "社会"
-    },
-    {
-      "title": "六盘山风味邂逅贺兰山佳酿 固原风物亮相中国（宁夏）国际葡萄酒文旅博览会",
-      "summary": "中新网银川10月13日电 (记者 李佩珊)10月12日至14日，第六届中国(宁夏)国际葡萄酒文化旅游博览会在银川举办。固原市以“举杯贺兰山 好物出六盘”为主…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713643.shtml",
-      "publishedAt": "2026-10-13T05:51:26.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "文化"
-    },
-    {
-      "title": "万名跑者参与角逐海淀马拉松 9人刷新赛事纪录",
-      "summary": "中新网北京10月12日电 10月11日清晨，晨光洒满北京中关村壹号，“海马蓝”参赛服汇成一片跃动的海洋。7时30分，发令枪响，万名跑者从科技创新高地出发，踏…",
+      "title": "全国乒乓文化巡展（桑植站）湖南开展 点燃民众乒乓运动热情",
+      "summary": "中新网张家界10月13日电 (张雪盈)13日，由中国乒乓球协会、上海体育大学、桑植县人民政府主办，国际乒联博物馆和中国乒乓球博物馆、湖南省乒乓球协会、桑植县…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711926.shtml",
-      "publishedAt": "2026-10-12T04:11:33.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713916.shtml",
+      "publishedAt": "2026-10-13T10:12:35.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "文化"
+    },
+    {
+      "title": "AI时代，为什么我们更需要创意写作？",
+      "summary": "中新网广州10月13日电 (记者 程景伟)文学评论家、作家、北京师范大学文学院教授张柠，诗人、学者、河北大学教授吕约，青年诗人、文学评论家贾想，近日携新著《…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713694.shtml",
+      "publishedAt": "2026-10-13T07:34:54.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
       "topic": "科技"
     },
     {
-      "title": "安徽省第十六届运动会在宿州开幕",
-      "summary": "中新网宿州10月12日电 (武雷 储玮玮)安徽省第十六届运动会(下称“省运会”)开幕式12日晚在宿州奥林匹克体育中心体育场举行。",
+      "title": "（文化中国行·校馆弦歌）百年图书馆探索科技育人新实践",
+      "summary": "中新网武汉10月14日电 题：百年图书馆探索科技育人新实践",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714252.shtml",
+      "publishedAt": "2026-10-14T04:10:08.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "科技"
+    },
+    {
+      "title": "深度伪造冲击证据审查，司法如何重构防线？",
+      "summary": "◆深度伪造依托人工智能算法，技术痕迹比传统剪辑更加隐蔽，显著提高了证据真实性审查的技术门槛和证明成本，容易导致司法人员在证据审查和事实认定中出现偏差。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-14/10714250.shtml",
+      "publishedAt": "2026-10-14T03:13:11.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "科技"
+    },
+    {
+      "title": "湖南湘江新区AI短剧出海观察：全链条协同发力",
+      "summary": "中新网长沙10月13日电 (胡语桐)五六个人，一间办公室，一部短剧从编剧到上线，最快几天就能译成多语种出现在海外观众的手机里。在中部首个国家级新区——湖南湘…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713666.shtml",
+      "publishedAt": "2026-10-13T06:48:42.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "科技"
+    },
+    {
+      "title": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行",
+      "summary": "新华社长春10月14日电 14日上午，第33届世界大学生冬季运动会(简称“大冬会”)火种欢迎仪式在长春举行。",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712259.shtml",
-      "publishedAt": "2026-10-12T13:22:39.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714131.shtml",
+      "publishedAt": "2026-10-14T00:51:21.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "社会"
     },
     {
-      "title": "文旅市场消费活力十足",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E5%8D%81%E8%B6%B3&sa=fyb_news",
-      "publishedAt": "2026-10-13T06:18:47.413Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "文化"
+      "title": "国家医保局：加强医保目录和支付管理，强化医药价格管理",
+      "summary": "10月13日下午，国家医疗保障局党组召开会议，传达学习全国卫生与健康大会精神，研究学习宣传贯彻的具体举措。局党组书记、局长章轲主持会议并作工作部署。会议要求…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15188053.html",
+      "publishedAt": "2026-10-14T03:27:14.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "社会"
     },
     {
-      "title": "第二经济大省“开抢”年轻人",
+      "title": "ESA 想要将 voices38 列入恶名盗版市场名单",
+      "summary": "代表美国游戏业的行业组织 Entertainment Software Association (ESA) 向美国贸易代表办公室提议将最近炙手可热的游戏破解…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85600",
+      "publishedAt": "2026-10-13T10:53:53.000Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "公共新闻"
+    },
+    {
+      "title": "又一个1000公里地铁城市要来了",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%AC%AC%E4%BA%8C%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E2%80%9C%E5%BC%80%E6%8A%A2%E2%80%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news",
-      "publishedAt": "2026-10-13T06:18:47.413Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
+      "url": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E4%B8%AA1000%E5%85%AC%E9%87%8C%E5%9C%B0%E9%93%81%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news",
+      "publishedAt": "2026-10-14T04:20:24.467Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
       "topic": "生活方式"
     },
     {
-      "title": "汇源集团回应成员公司因商标侵权被判罚：将上诉",
-      "summary": "10月13日，福建省福州市中级人民法院对“汇源”商标侵权及不正当竞争纠纷案作出一审判决，支持原告方北京汇源食品饮料有限公司的维权诉求。经法院审理查明，北京汇…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15184043.html",
-      "publishedAt": "2026-10-13T05:58:25.000Z",
-      "fetchedAt": "2026-10-13T06:18:47.413Z",
-      "topic": "社会"
+      "title": "新“万里长江第一隧”迎来新突破",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E2%80%9C%E4%B8%87%E9%87%8C%E9%95%BF%E6%B1%9F%E7%AC%AC%E4%B8%80%E9%9A%A7%E2%80%9D%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%AA%81%E7%A0%B4&sa=fyb_news",
+      "publishedAt": "2026-10-14T04:20:24.467Z",
+      "fetchedAt": "2026-10-14T04:20:24.467Z",
+      "topic": "综合"
     }
   ]
 }
