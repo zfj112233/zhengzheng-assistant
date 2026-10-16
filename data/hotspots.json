@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-15T04:02:27.364Z",
+  "updatedAt": "2026-10-16T03:59:02.293Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "长春大冬会将于2027年1月15日至25日举办 各项筹备工作已全面展开",
-      "summary": "中新网10月14日电 14日下午，国新办就长春2027第33届世界大学生冬季运动会筹备情况举行新闻发布会。第33届世界大学生冬季运动会将于2027年1月15…",
+      "title": "2026年世界乒乓球健康嘉年华将首次登陆亚洲",
+      "summary": "中新网上海10月15日电 (缪璐)2026年世界乒乓球健康嘉年华(上海)新闻发布会15日在上海交通大学霍英东体育中心举行。本届世界乒乓球健康嘉年华以“乒乓聚…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714473.shtml",
-      "publishedAt": "2026-10-14T08:50:19.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-15/10715243.shtml",
+      "publishedAt": "2026-10-15T11:49:20.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
       "topic": "社会"
     },
     {
-      "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
-      "summary": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆…",
+      "title": "美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户",
+      "summary": "堪萨斯州、亚利桑那州和蒙大拿州等美国八个州对 OpenAI 提起诉讼，指控 ChatGPT 诱导儿童自我伤害。八个州要求 OpenAI 改变其产品与年轻用户…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85615",
-      "publishedAt": "2026-10-14T16:46:34.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
+      "url": "https://www.solidot.org/story?sid=85616",
+      "publishedAt": "2026-10-15T06:12:47.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
       "topic": "社会"
     },
     {
-      "title": "上海市科委与法国奥罗阿大区签署新一轮科技合作谅解备忘录",
-      "summary": "中新网上海10月15日电 据上海市科委方面的消息，13日，上海市科委主任骆大进与来沪访问的法国奥弗涅-罗讷-阿尔卑斯大区副主席菲利普·莫尼耶(Philipp…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714863.shtml",
-      "publishedAt": "2026-10-15T03:02:51.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
-      "topic": "科技"
-    },
-    {
-      "title": "体教卫协同 “奔跑吧·少年”主题健身活动走进北京密云",
-      "summary": "中新网北京10月14日电 “奔跑吧·少年”2026北京市青少年科学健身指导暨体质促进趣味运动会第二场活动13日在密云区滨河学校举行。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714488.shtml",
-      "publishedAt": "2026-10-14T08:32:10.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
-      "topic": "社会"
-    },
-    {
-      "title": "网传明星演唱会门票被炒至25万一张 天价黄牛票为何屡禁不止？",
-      "summary": "近年来，演唱会经济持续火热。以近日某明星在社交平台官宣的即将在南京举办的演唱会为例，公开信息显示，该举办场地可容纳约2万名观众，但在售票平台标记想看的人数已…",
+      "title": "电影《喂喂喂，足球队》在上海无障碍放映",
+      "summary": "中新网上海10月15日电 (记者 王笈)2026国际盲人节暨第14届上海市无障碍电影日主题活动15日在沪举行，近400名残障观众一起观看了首日全国公映的电影…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10714749.shtml",
-      "publishedAt": "2026-10-14T22:36:35.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
-      "topic": "娱乐"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715341.shtml",
+      "publishedAt": "2026-10-15T13:54:12.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
+      "topic": "文化"
     },
     {
-      "title": "海外嘉宾走进成都科技企业 共寻创新合作机遇",
-      "summary": "中新网成都10月15日电(杨予頔)“在亲眼看到工业无人机的表现之后，我很有信心。这是印度尼西亚预防和应对森林火灾所需的技术之一。”14日，在四川成都纵横鹏飞…",
+      "title": "2027年四大洲花样滑冰锦标赛将改在阿拉木图举行",
+      "summary": "中新网阿斯塔纳10月15日电 哈通社15日援引哈萨克斯坦旅游和体育部消息称，原定于2027年2月9日至14日在该国首都阿斯塔纳举行的国际滑联四大洲花样滑冰锦…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-15/10715246.shtml",
+      "publishedAt": "2026-10-15T11:49:10.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
+      "topic": "文化"
+    },
+    {
+      "title": "“十四五”时期中国网络文学营收实现翻番 产业提质出海提速",
+      "summary": "人民网北京10月15日电 (记者郭冠华)10月15日上午，第九届中国“网络文学+”大会在京启幕。主论坛上，中国音像与数字出版协会发布《2025年度中国网络文…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714865.shtml",
-      "publishedAt": "2026-10-15T03:03:29.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715535.shtml",
+      "publishedAt": "2026-10-16T03:16:20.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
       "topic": "科技"
     },
     {
-      "title": "Ledger 证实其硬件钱包被植入间谍芯片",
-      "summary": "提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 Cryp…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85604",
-      "publishedAt": "2026-10-14T06:12:43.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
+      "title": "61幅作品呈展传统笔韵 曾景祥写意花鸟画展启幕",
+      "summary": "中新网湖南湘潭10月15日电 由湘潭市文联指导，湘潭市美术家协会、齐白石画院、湖南科技大学主办的“不尽清香淡淡来——曾景祥写意花鸟画展”日前在湘潭齐白石画院…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715177.shtml",
+      "publishedAt": "2026-10-15T09:57:00.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
       "topic": "科技"
     },
     {
-      "title": "96岁老人独自坐43小时火车进西藏",
+      "title": "全球智能手机出货量暴跌",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=96%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E5%9D%9043%E5%B0%8F%E6%97%B6%E7%81%AB%E8%BD%A6%E8%BF%9B%E8%A5%BF%E8%97%8F&sa=fyb_news",
-      "publishedAt": "2026-10-15T04:02:27.364Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&sa=fyb_news",
+      "publishedAt": "2026-10-16T03:59:02.293Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
+      "topic": "科技"
+    },
+    {
+      "title": "美国俄勒冈州一小学发生枪击事件 至少5人身亡",
+      "summary": "中新社旧金山10月15日电 美国俄勒冈州本德市一所小学15日发生一起枪击事件，造成至少5人身亡，其中包括3名儿童和1名教师。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715546.shtml",
+      "publishedAt": "2026-10-16T03:55:39.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
       "topic": "社会"
     },
     {
-      "title": "酒店因肖战演唱会从179涨到2193元",
+      "title": "国内一半AI算力被指在造爽剧",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E9%85%92%E5%BA%97%E5%9B%A0%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%8E179%E6%B6%A8%E5%88%B02193%E5%85%83&sa=fyb_news",
-      "publishedAt": "2026-10-15T04:02:27.364Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
-      "topic": "娱乐"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E4%B8%80%E5%8D%8AAI%E7%AE%97%E5%8A%9B%E8%A2%AB%E6%8C%87%E5%9C%A8%E9%80%A0%E7%88%BD%E5%89%A7&sa=fyb_news",
+      "publishedAt": "2026-10-16T03:59:02.293Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
+      "topic": "科技"
     },
     {
-      "title": "从静态保护到活化利用 大遗址走进民众生活融入城乡发展",
-      "summary": "中新网郑州10月14日电 (记者 应妮)大遗址如何保如何用，如何走进民众生活，融入城乡发展？10月13日至14日，国家文物局在河南郑州举行全国大遗址工作会，…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-14/10714673.shtml",
-      "publishedAt": "2026-10-14T13:37:51.000Z",
-      "fetchedAt": "2026-10-15T04:02:27.364Z",
-      "topic": "生活方式"
+      "title": "工信部发布新一批减免车辆购置税新能源汽车车型目录",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15198392.html",
+      "publishedAt": "2026-10-16T03:31:37.000Z",
+      "fetchedAt": "2026-10-16T03:59:02.293Z",
+      "topic": "科技"
     }
   ]
 }
