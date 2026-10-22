@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-21T04:06:07.252Z",
+  "updatedAt": "2026-10-22T04:06:58.811Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "首次登陆亚洲 2026年世界乒乓球健康嘉年华在沪开幕",
-      "summary": "中新网上海10月20日电 (记者 缪璐)2026年世界乒乓球健康嘉年华开幕式20日在上海交通大学霍英东体育中心举行。本届乒乓球健康嘉年华以“乒乓聚世界，健康…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-20/10718080.shtml",
-      "publishedAt": "2026-10-20T12:25:33.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
+      "title": "王蒙：经典活在生活里 AI替代不了文学的“人味”",
+      "summary": "中新网青岛10月21日电 (王禹)著名作家王蒙20日现身中国海洋大学，出席“语言·文学·经典——王蒙与大学生谈文学”活动，与青年学子面对面交流。他结合七十余…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718417.shtml",
+      "publishedAt": "2026-10-21T05:46:42.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
       "topic": "社会"
     },
     {
-      "title": "55个优秀作品将于11月共聚长沙参加第二届全国小戏小品展演",
-      "summary": "中新网北京10月20日电 (记者 应妮)记者从20日在京举行的新闻发布会获悉，由文化和旅游部、湖南省人民政府共同主办的第二届全国小戏小品展演将于11月在湖南…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717884.shtml",
-      "publishedAt": "2026-10-20T08:36:31.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
-      "topic": "文化"
-    },
-    {
-      "title": "电影《什么意思夫妇》观影人次破1000万",
-      "summary": "10月21日，据猫眼专业版数据，电影《什么意思夫妇》上映21天，观影人次破1000万​​​。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15216863.html",
-      "publishedAt": "2026-10-21T03:18:29.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
-      "topic": "科技"
-    },
-    {
-      "title": "向海而生 向新而行｜天津的百年潮涌",
-      "summary": "天津，一座依海而生、向海而兴的城市。从直沽漕运的千帆竞发，到通达五大洲的150余条航线；从靠海吃海的传统捕捞，到创造千亿产值的现代海洋产业——百年以来，这座…",
+      "title": "国际金融协会总裁安德慕：AI将以积极方式改变世界",
+      "summary": "中新社北京10月22日电 (记者 吕少威 迟瀚宇)“未来数十年，人工智能(AI)将以非常积极的方式改变世界，便利人们的生活。中国在高端制造等领域具有领先优势…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/chuangyi/2026/10-21/10718265.shtml",
-      "publishedAt": "2026-10-21T03:09:35.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
-      "topic": "文化"
-    },
-    {
-      "title": "作家张柠：抵御“AI味儿” 文学艺术创作须有独创性",
-      "summary": "中新网广州10月20日电 (程景伟 赵沚琦)“优秀的文学和艺术创作必须具备超越时代与平庸的独创性。”文学评论家、作家、北京师范大学文学院教授张柠认为，这也是…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718114.shtml",
-      "publishedAt": "2026-10-20T13:13:22.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
+      "publishedAt": "2026-10-22T03:11:14.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
       "topic": "科技"
     },
     {
-      "title": "涉嫌监听 OpenAI 高管的沙特籍工程师手机上有名为 Saudi Gov Docs 的文件夹",
-      "summary": "涉嫌监听 OpenAI 高管的沙特籍工程师 Abdulrahman Alfozan 被拒绝释放，美国检方称其动机可能是为了个人商业利益，也可能是为了沙特王国…",
+      "title": "崔健在交响乐中摇滚 第29届北京国际音乐节在跨界中收官",
+      "summary": "中新网北京10月21日电 (记者 应妮)第二十九届北京国际音乐节闭幕音乐会20日晚在国家大剧院音乐厅举行。指挥家杨洋执棒北京交响乐团，携手主唱崔健与钢琴家鞠…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718615.shtml",
+      "publishedAt": "2026-10-21T09:42:09.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
+      "topic": "文化"
+    },
+    {
+      "title": "AI 增加了英国公务员的工作量",
+      "summary": "自 ChatGPT 问世以来，世界各地的政府部门正经历针对监管机构与官方单位的投诉、请求和回应数量的异常暴增。法院系统的情况同样如此。以英国为例，英格兰、苏…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85662",
-      "publishedAt": "2026-10-20T08:30:33.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
-      "topic": "科技"
-    },
-    {
-      "title": "粉红豹现身法国骚乱现场系AI伪造",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%B2%89%E7%BA%A2%E8%B1%B9%E7%8E%B0%E8%BA%AB%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E7%8E%B0%E5%9C%BA%E7%B3%BBAI%E4%BC%AA%E9%80%A0&sa=fyb_news",
-      "publishedAt": "2026-10-21T04:06:07.252Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
-      "topic": "科技"
-    },
-    {
-      "title": "男子造谣“艺人肖某演唱会第一排门票25万元”被依法查处",
-      "summary": "中新网10月21日电 据公安部网安局微信公众号消息，近日，网传“艺人肖某演唱会第一排门票25万元”，相关消息引发网民热议。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718374.shtml",
-      "publishedAt": "2026-10-21T03:55:28.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
+      "url": "https://www.solidot.org/story?sid=85676",
+      "publishedAt": "2026-10-21T14:45:08.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
       "topic": "社会"
     },
     {
-      "title": "2026国际高桥低空跳伞邀请赛（花江峡谷大桥）开赛",
-      "summary": "中新社贵阳10月20日电 (曾琪男)“赛动黔景·翱翔贵州”国际高桥低空跳伞邀请赛(花江峡谷大桥)20日在贵州省贞丰县花江峡谷大桥启幕，赛事将持续至23日。",
+      "title": "全国艺术体操冠军赛、全国青少年艺术体操冠军赛在陕启幕",
+      "summary": "中新网陕西铜川10月22日电 (记者 张一辰)2026年全国艺术体操冠军赛、全国青少年艺术体操冠军赛21日在陕西铜川拉开帷幕。来自全国的近400名优秀运动员…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717907.shtml",
-      "publishedAt": "2026-10-20T08:57:42.000Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718887.shtml",
+      "publishedAt": "2026-10-22T02:02:39.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
       "topic": "文化"
     },
     {
-      "title": "又一部获奖小说被质疑由AI代笔",
+      "title": "委内瑞拉执政党谴责美方对劳尔·卡斯特罗发逮捕令",
+      "summary": "委内瑞拉执政党统一社会主义党21日谴责美国佛罗里达州对古巴革命领袖劳尔·卡斯特罗发出逮捕令，认为这是一种“恐吓手段”。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718938.shtml",
+      "publishedAt": "2026-10-22T03:14:53.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
+      "topic": "社会"
+    },
+    {
+      "title": "以技会友促团结 江西省第四届少数民族传统体育运动会开幕",
+      "summary": "中新网江西瑞昌10月21日电 (卢梦梦)10月20日晚，江西省第四届少数民族传统体育运动会开幕式在江西省瑞昌市体育公园举行。",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718352.shtml",
+      "publishedAt": "2026-10-21T03:24:50.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
+      "topic": "文化"
+    },
+    {
+      "title": "这个秋天，小城游正式成为旅游新主流？",
+      "summary": "什么样的小城能够在文旅圈长久不衰？",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15221718.html",
+      "publishedAt": "2026-10-22T03:47:15.000Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
+      "topic": "文化"
+    },
+    {
+      "title": "百万年薪AI芯片架构师“一将难求”",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E9%83%A8%E8%8E%B7%E5%A5%96%E5%B0%8F%E8%AF%B4%E8%A2%AB%E8%B4%A8%E7%96%91%E7%94%B1AI%E4%BB%A3%E7%AC%94&sa=fyb_news",
-      "publishedAt": "2026-10-21T04:06:07.252Z",
-      "fetchedAt": "2026-10-21T04:06:07.252Z",
+      "url": "https://m.baidu.com/s?word=%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AAAI%E8%8A%AF%E7%89%87%E6%9E%B6%E6%9E%84%E5%B8%88%E2%80%9C%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82%E2%80%9D&sa=fyb_news",
+      "publishedAt": "2026-10-22T04:06:58.811Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
       "topic": "科技"
+    },
+    {
+      "title": "年轻人开始喝水了 超市货架也在变",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%96%9D%E6%B0%B4%E4%BA%86+%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E4%B9%9F%E5%9C%A8%E5%8F%98&sa=fyb_news",
+      "publishedAt": "2026-10-22T04:06:58.811Z",
+      "fetchedAt": "2026-10-22T04:06:58.811Z",
+      "topic": "生活方式"
     }
   ]
 }
