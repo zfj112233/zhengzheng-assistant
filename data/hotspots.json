@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-10-23T04:10:26.760Z",
+  "updatedAt": "2026-10-24T04:02:35.701Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "长春大冬会吉林市分赛区滑雪项目裁判员培训启动",
-      "summary": "中新网吉林10月22日电 (记者 苍雁 石洪宇)记者22日从长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)吉林市分赛区委员会体育竞赛部获悉，…",
+      "title": "陕西：千余名青少年同台竞技 体教融合夯实田径后备人才根基",
+      "summary": "中新网西安10月23日电 (记者 张一辰)23日，2026年陕西省田径冠军赛暨陕西省体育传统特色学校田径联赛在陕西省田径运动管理中心田径场鸣枪开赛。来自25…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718978.shtml",
-      "publishedAt": "2026-10-22T05:29:32.000Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720083.shtml",
+      "publishedAt": "2026-10-23T13:47:37.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
       "topic": "社会"
     },
     {
-      "title": "国际金融协会总裁安德慕：AI将以积极方式改变世界",
-      "summary": "中新社北京10月22日电 (记者 吕少威 迟瀚宇)“未来数十年，人工智能(AI)将以非常积极的方式改变世界，便利人们的生活。中国在高端制造等领域具有领先优势…",
+      "title": "助力青年电影梦想 第十一届中韩青年梦享微电影展在京落幕",
+      "summary": "中新网北京10月24日电 (记者 应妮)第十一届中韩青年梦享微电影展颁奖典礼10月23日在北京韩国文化院举行。",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
-      "publishedAt": "2026-10-22T03:11:14.000Z",
-      "fetchedAt": "2026-10-22T04:06:58.811Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720219.shtml",
+      "publishedAt": "2026-10-24T02:45:14.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
+      "topic": "文化"
+    },
+    {
+      "title": "赛事流量如何变产业增量？亦庄构筑电竞生态底座",
+      "summary": "中新网北京10月23日电 2026北京亦庄·未来游戏电竞科技大会日前在北京智慧电竞赛事中心举办。大会以“问未来·第一场”为主题，汇聚行业协会、企业、科研院校…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720156.shtml",
+      "publishedAt": "2026-10-23T15:45:34.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
       "topic": "科技"
     },
     {
-      "title": "中国杯世界花样滑冰大奖赛首次落地深圳",
-      "summary": "中新网深圳10月22日电 (记者 张璐)11月6日至8日，2026中国杯世界花样滑冰大奖赛将在深圳大运中心体育馆举行。这是，来自全球的60名高水平运动员将齐…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719305.shtml",
-      "publishedAt": "2026-10-22T12:04:21.000Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
-      "topic": "文化"
-    },
-    {
-      "title": "“故宫文化遗产数智活化与产业化创新场景”入选首批标志性重大应用场景",
-      "summary": "中新网北京10月22日电 (记者 应妮)国家发展改革委10月20日正式公布首批136个标志性重大应用场景清单。由文化和旅游部牵头报送，故宫博物院作为总体协调…",
+      "title": "鲁迅文学奖得主卓今：看好“素人写作”社群力量",
+      "summary": "卓今输入指令：“对长篇小说《冬青树上的猫头鹰》进行文本分析。”AI反应迅速，从主题思想、情节设计、语言风格到文学价值、读者反响等，分析得面面俱到。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719351.shtml",
-      "publishedAt": "2026-10-22T13:05:08.000Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
-      "topic": "文化"
+      "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719757.shtml",
+      "publishedAt": "2026-10-23T08:01:03.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
+      "topic": "科技"
     },
     {
-      "title": "前8个月河南文物及非物质文化遗产保护业营收增近五成",
-      "summary": "中新网郑州10月22日电 (记者 阚力)河南省政府新闻办21日举行发布会通报该省今年前三季度经济运行情况称，1至8月，河南文物及非物质文化遗产保护业营业收入…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-22/10718879.shtml",
-      "publishedAt": "2026-10-22T01:52:00.000Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
-      "topic": "文化"
-    },
-    {
-      "title": "中国气象局进入地震灾害气象服务保障特别工作状态",
-      "summary": "中新网10月23日电 据中国气象局微信公众号消息，据中国地震台网测定，10月22日22时33分在西藏那曲市巴青县发生7.0级地震，震源深度10公里，国务院抗…",
+      "title": "“电影+”又有新玩法：一张票根，正在重新定义电影消费",
+      "summary": "截至10月23日，2026年全国电影总票房(含预售)已突破313.8亿元，观影人次超8亿，放映总场次1.2亿场，电影全产业链产值已超4800亿元。银幕之外，…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719588.shtml",
-      "publishedAt": "2026-10-23T03:12:55.000Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720255.shtml",
+      "publishedAt": "2026-10-24T03:52:40.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
+      "topic": "文化"
+    },
+    {
+      "title": "西藏地震灾区卫星遥感图像公布",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E5%8D%AB%E6%98%9F%E9%81%A5%E6%84%9F%E5%9B%BE%E5%83%8F%E5%85%AC%E5%B8%83&sa=fyb_news",
+      "publishedAt": "2026-10-24T04:02:35.701Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
       "topic": "社会"
     },
     {
-      "title": "这个秋天，小城游正式成为旅游新主流？",
-      "summary": "什么样的小城能够在文旅圈长久不衰？",
+      "title": "王劲松：AI发展迅猛，但无法代替真人演员",
+      "summary": "中新网北京10月23日电(记者 上官云)“对于我来说，热爱表演几乎是一种本能，从业余排话剧、演小品开始，一直坚持到现在，没有放弃。”提到几十年的职业生涯，北…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719856.shtml",
+      "publishedAt": "2026-10-23T09:11:25.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
+      "topic": "科技"
+    },
+    {
+      "title": "拼多多紧急捐赠1000万元，驰援西藏那曲抗震救灾",
+      "summary": "10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡及房屋受损。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，各…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15221718.html",
-      "publishedAt": "2026-10-22T03:47:15.000Z",
-      "fetchedAt": "2026-10-22T04:06:58.811Z",
-      "topic": "文化"
+      "url": "https://www.jiemian.com/article/15234822.html",
+      "publishedAt": "2026-10-24T03:00:36.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
+      "topic": "社会"
     },
     {
-      "title": "AI发现人类网络潜伏多年的“暗门”",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=AI%E5%8F%91%E7%8E%B0%E4%BA%BA%E7%B1%BB%E7%BD%91%E7%BB%9C%E6%BD%9C%E4%BC%8F%E5%A4%9A%E5%B9%B4%E7%9A%84%E2%80%9C%E6%9A%97%E9%97%A8%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-10-23T04:10:26.760Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
-      "topic": "科技"
+      "title": "瓦努阿图发生7.2级地震",
+      "summary": "据太平洋海啸预警中心监测，瓦努阿图当地时间今天（10月24日）13时37分发生7.2级地震。（CCTV国际时讯）",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15234767.html",
+      "publishedAt": "2026-10-24T02:46:01.000Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
+      "topic": "社会"
     },
     {
-      "title": "百万年薪AI芯片架构师“一将难求”",
+      "title": "《令人心动的offer》引医疗圈众怒",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AAAI%E8%8A%AF%E7%89%87%E6%9E%B6%E6%9E%84%E5%B8%88%E2%80%9C%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-10-22T04:06:58.811Z",
-      "fetchedAt": "2026-10-22T04:06:58.811Z",
-      "topic": "科技"
-    },
-    {
-      "title": "习近平对西藏7.0级地震作出重要指示",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news",
-      "publishedAt": "2026-10-23T04:10:26.760Z",
-      "fetchedAt": "2026-10-23T04:10:26.760Z",
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E3%80%8B%E5%BC%95%E5%8C%BB%E7%96%97%E5%9C%88%E4%BC%97%E6%80%92&sa=fyb_news",
+      "publishedAt": "2026-10-24T04:02:35.701Z",
+      "fetchedAt": "2026-10-24T04:02:35.701Z",
       "topic": "社会"
     }
   ]
