@@ -1,61 +1,52 @@
 {
-  "updatedAt": "2026-10-26T04:08:26.121Z",
+  "updatedAt": "2026-10-27T04:27:53.018Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "2026读者·领读者大会启幕 探寻AI时代全民阅读新路径",
-      "summary": "中新网兰州10月25日电 (记者 闫姣)2026读者·领读者大会24日在兰州举行，以“AI时代与读者共赴书香”为主题，汇聚文学、教育与阅读推广等领域的专家学…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720566.shtml",
-      "publishedAt": "2026-10-25T01:37:29.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
-      "topic": "社会"
-    },
-    {
-      "title": "范稳《青云梯》：从百年铁路到时代与人",
-      "summary": "中新网北京10月25日电 (记者 高凯)“一百年前的铁路就像今天的互联网，谁先拥有铁路谁就先拥有话语权，铁路开到哪里，工业、商业和一连串社会变化便跟到哪里。…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720803.shtml",
-      "publishedAt": "2026-10-25T12:05:23.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
-      "topic": "社会"
-    },
-    {
-      "title": "【财金视野】发挥超长期特别国债资金效益",
-      "summary": "从城市地下管网建设改造、高标准农田建设，到消费品“国补”、老旧小区加装电梯，这些重大工程与民生实事，都与超长期特别国债密切相关。近日，随着最后一期20年期超…",
+      "title": "广东举办智能制造系统运维员职业技能竞赛",
+      "summary": "中新网广州10月27日电 (记者 郭军)“广东中华职教杯”2026年广东省智能制造系统运维员职业技能竞赛近日在广州举办。本次赛事打通竞赛比拼—技能认证—就业…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721040.shtml",
-      "publishedAt": "2026-10-26T03:49:47.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
+      "publishedAt": "2026-10-27T02:57:37.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
       "topic": "社会"
     },
     {
-      "title": "云谷学校关联公司减资至7000万元，减幅约41.67%",
-      "summary": "天眼查App显示，10月20日，杭州湖畔帕特纳教育科技有限公司发生工商变更，注册资本由1.2亿元人民币减至7000万元人民币，减少5000万元，降幅约41.…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15239329.html",
-      "publishedAt": "2026-10-26T03:48:25.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
+      "title": "2026年世界乒乓球健康嘉年华在沪落幕",
+      "summary": "中新网上海10月26日电 (缪璐 娄瀚锟)2026年世界乒乓球健康嘉年华25日在上海交通大学霍英东体育中心落下帷幕。来自24个国家和地区的226名参赛运动员…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721072.shtml",
+      "publishedAt": "2026-10-26T05:48:13.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
       "topic": "社会"
     },
     {
-      "title": "全国多所财经高校布局“AI+财经”",
-      "summary": "为推动财经教育数智化转型，全国多所财经高校积极布局“AI+财经”，探索AI赋能财经教育和研究转型升级。在首都经济贸易大学，新成立的智能经济研究院正在对“融创…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15239279.html",
-      "publishedAt": "2026-10-26T03:40:11.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
-      "topic": "社会"
-    },
-    {
-      "title": "AI健康“反诈”进养老院：百度健康让“求证”这件事不再丢人",
-      "summary": "这场“考试”，允许带手机，允许讨论，还能现场问医生。",
+      "title": "星河湾：产业入村筑根基 教育扶智育未来",
+      "summary": "中新网广州10月27日电 (记者 孙秋霞)创立于1994年的星河湾集团，是中国最早从事城市高品质不动产开发的企业之一。当许多房地产企业以高周转、高杠杆跑马圈…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720906.shtml",
-      "publishedAt": "2026-10-26T03:05:12.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
-      "topic": "科技"
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721544.shtml",
+      "publishedAt": "2026-10-27T03:32:33.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
+      "topic": "社会"
+    },
+    {
+      "title": "25年累计发行超1700万册 《中国儿童百科全书》打造“中国孩子自己的百科全书”",
+      "summary": "中新网北京10月26日电 (记者 应妮)面世25年，发行1700多万册，这是《中国儿童百科全书》各版本累计发行的数字。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721082.shtml",
+      "publishedAt": "2026-10-26T05:54:24.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
+      "topic": "社会"
+    },
+    {
+      "title": "中国电影评论学会第九届会员代表大会召开 胡智锋当选新一届会长",
+      "summary": "中新网北京10月26日电 (记者 高凯)中国电影评论学会第九届会员代表大会日前在北京举行。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721392.shtml",
+      "publishedAt": "2026-10-26T13:57:46.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
+      "topic": "文化"
     },
     {
       "title": "首届“中韩大学生校园足球友谊赛”举办",
@@ -63,35 +54,44 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720949.shtml",
       "publishedAt": "2026-10-26T01:56:51.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
       "topic": "社会"
     },
     {
-      "title": "2026年云南省城市篮球联赛总决赛昭通启幕",
-      "summary": "中新网昆明10月25日电 (时文枝)云南省体育局25日消息，2026年云南省城市篮球联赛总决赛24日晚在该省昭通市开幕。7天赛程里，全省16个州(市)代表队…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720742.shtml",
-      "publishedAt": "2026-10-25T09:44:03.000Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
+      "title": "顺风车出事故保险公司拒赔 法院判了",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E6%8B%92%E8%B5%94+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news",
+      "publishedAt": "2026-10-27T04:27:53.018Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
+      "topic": "社会"
+    },
+    {
+      "title": "ST华谊：暂未参与投资电影《流浪地球3》",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15246388.html",
+      "publishedAt": "2026-10-27T04:18:44.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
       "topic": "文化"
     },
     {
-      "title": "AI生成视频已能逃过人脸识别系统",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F&sa=fyb_news",
-      "publishedAt": "2026-10-26T04:08:26.121Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
-      "topic": "科技"
+      "title": "国际民航组织撤销对利比亚实施了10余年的空域限制",
+      "summary": "利比亚民族统一政府交通部长穆罕默德·沙胡比10月26日表示，国际民用航空组织已撤销针对利比亚领空的航空安全警告和限制。沙胡比在一份声明中说，这一决定是利比亚…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15246165.html",
+      "publishedAt": "2026-10-27T03:23:07.000Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
+      "topic": "社会"
     },
     {
-      "title": "92岁老人走失6天5夜被奇迹寻回",
+      "title": "AI裁员风波致老干妈销量腰斩",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=92%E5%B2%81%E8%80%81%E4%BA%BA%E8%B5%B0%E5%A4%B16%E5%A4%A95%E5%A4%9C%E8%A2%AB%E5%A5%87%E8%BF%B9%E5%AF%BB%E5%9B%9E&sa=fyb_news",
-      "publishedAt": "2026-10-26T04:08:26.121Z",
-      "fetchedAt": "2026-10-26T04:08:26.121Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=AI%E8%A3%81%E5%91%98%E9%A3%8E%E6%B3%A2%E8%87%B4%E8%80%81%E5%B9%B2%E5%A6%88%E9%94%80%E9%87%8F%E8%85%B0%E6%96%A9&sa=fyb_news",
+      "publishedAt": "2026-10-27T04:27:53.018Z",
+      "fetchedAt": "2026-10-27T04:27:53.018Z",
+      "topic": "科技"
     }
   ]
 }
