@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-10-31T04:55:46.595Z",
+  "updatedAt": "2026-11-01T05:24:13.010Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
-      "summary": "中新网长沙10月31日电 (记者 邓霞)10月30日，第88届中国教育装备展示会在长沙国际会展中心开幕。本届展示会以“人工智能引领教育装备高质量发展”为主题…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
-      "publishedAt": "2026-10-31T03:09:28.000Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
+      "title": "2026斯诺克国锦赛正式打响 卫冕冠军吴宜泽零封晋级",
+      "summary": "中新网11月1日电 据赛事主办方消息，2026世界斯诺克巡回赛国际锦标赛10月31日在南京市秦淮区南部新城全民健身中心正式开赛。首日进行了多场资格赛和64强…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724183.shtml",
+      "publishedAt": "2026-11-01T02:19:35.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
+      "topic": "文化"
+    },
+    {
+      "title": "2026中国气排球公开赛（长沙站）开打 商体融合激活体育消费",
+      "summary": "中新网长沙10月31日电 (甘宏)31日，2026中国气排球公开赛(长沙站)在贺龙体育馆开幕。赛事探索商体融合办赛新模式，以气排球运动为纽带，把专业群众赛事…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724067.shtml",
+      "publishedAt": "2026-10-31T13:19:20.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
+      "topic": "文化"
+    },
+    {
+      "title": "《图说中国古代物质文化常识》从器物读懂中国",
+      "summary": "中新网北京10月31日电 (记者 应妮)由国家图书馆联合社会科学文献出版社共同主办的“登堂入室满座衣冠：《图说中国古代物质文化常识》三人谈”30日在京举行。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724052.shtml",
+      "publishedAt": "2026-10-31T12:40:39.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
       "topic": "社会"
     },
     {
-      "title": "科技赋能拓展音乐+场景 Music China 2026打造音乐生态场",
-      "summary": "中新网上海10月30日电 (记者 陈静)接入大模型的AI音乐陪练系统、智能弹唱钢琴、AI数码钢琴、灵弦智能扬琴……30日正在举行的中国(上海)国际乐器展览会…",
+      "title": "2026中华文化天府论坛成都开幕 中外专家学者共话文化遗产保护",
+      "summary": "中新网成都10月31日电 (袁牟知博)10月31日，由中共四川省委宣传部、四川省教育厅、四川大学、四川日报报业集团主办的2026中华文化天府论坛在成都开幕。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723495.shtml",
-      "publishedAt": "2026-10-30T09:58:20.000Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724010.shtml",
+      "publishedAt": "2026-10-31T11:32:06.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
+      "topic": "社会"
+    },
+    {
+      "title": "Kogui 族人谈 AI",
+      "summary": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85760",
+      "publishedAt": "2026-10-31T10:59:58.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
       "topic": "科技"
     },
     {
-      "title": "住在“红果”里的中女们：用“新多巴胺”和AI美颜治愈自己",
-      "summary": "在“纯过日子”的时代背景下，住在红果里、流连于AI短剧与漫剧中的中年女性，展现出的是当代女性在繁琐日常中积极寻找自我关怀与精神滋养的柔韧姿态。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15271366.html",
-      "publishedAt": "2026-10-30T04:10:52.000Z",
-      "fetchedAt": "2026-10-30T05:10:24.126Z",
-      "topic": "社会"
-    },
-    {
-      "title": "名家讲经典：万方、王可然谈经典戏剧的当代生命力",
-      "summary": "中新网北京10月31日电 (记者 高凯)“名家讲经典——万方、王可然：从《雷雨》开始，谈戏剧如何走近年轻人”文学活动日前在北京电影学院举办。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723707.shtml",
-      "publishedAt": "2026-10-30T16:23:25.000Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
+      "title": "导演上街举牌求人看电影：没钱宣发",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%AF%BC%E6%BC%94%E4%B8%8A%E8%A1%97%E4%B8%BE%E7%89%8C%E6%B1%82%E4%BA%BA%E7%9C%8B%E7%94%B5%E5%BD%B1%EF%BC%9A%E6%B2%A1%E9%92%B1%E5%AE%A3%E5%8F%91&sa=fyb_news",
+      "publishedAt": "2026-11-01T05:24:13.010Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
       "topic": "文化"
     },
     {
-      "title": "广州发布100个“小而美”文旅打卡点",
-      "summary": "中新网广州10月31日电 (记者 程景伟)30日晚，广州塔下，2026第四届广州塔国际时尚周开幕式暨广州市文旅宣传推广活动启幕。推介现场，广州旅游协会发布了…",
+      "title": "天津首届城市管理开放日开进公园 五大展区“摆摊”送服务",
+      "summary": "中新网天津11月1日电 (薛淳月)天津市首届城市管理开放日10月31日在和平区五大道公园举办。活动设置成果展示、智能装备、互动体验等五个展区，吸引不少市民现…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723836.shtml",
-      "publishedAt": "2026-10-31T04:28:27.000Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724225.shtml",
+      "publishedAt": "2026-11-01T03:55:36.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
+      "topic": "科技"
+    },
+    {
+      "title": "云南省第十三届少数民族传统体育运动会在昆明闭幕",
+      "summary": "10月31日晚，，来自省内16个州（市）的运动员、裁判员及工作人员等以歌话别、共约重逢，期待四年后在楚雄彝族自治州再度相聚。图为下届运动会承办方楚雄彝族自治…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724205.shtml",
+      "publishedAt": "2026-11-01T03:32:51.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
       "topic": "文化"
     },
     {
-      "title": "以赛促练、以赛育人——2026年北京市体育传统项目学校系列比赛收官",
-      "summary": "中新网北京10月31日电 从春暖花开到硕果累累，2026年5月至10月，由北京市体育局、北京市教育委员会主办的2026年北京市体育传统项目学校系列比赛在北京…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723695.shtml",
-      "publishedAt": "2026-10-30T16:18:01.000Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
-      "topic": "社会"
-    },
-    {
-      "title": "常墨涵、林益磊将担任达喀尔青奥会开幕式中国代表团旗手",
-      "summary": "据中国体育代表团消息，女子游泳运动员常墨涵、男子武术运动员林益磊将担任达喀尔青奥会开幕式中国体育代表团旗手。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723498.shtml",
-      "publishedAt": "2026-10-30T10:04:20.000Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
-      "topic": "文化"
-    },
-    {
-      "title": "靠一场赛事引爆单日客流，徐汇西岸要拿的“大结果”是什么？",
-      "summary": "FISE极限运动世界巡回赛期间，西岸沿江单日22.14万人次的客流创下新高。",
+      "title": "英雄联盟2026全球总决赛淘汰赛赛程公布：首战TES对阵iG",
+      "summary": "11月1日，英雄联盟赛事官方公布2026全球总决赛淘汰赛四分之一决赛赛程，淘汰赛首战TES对阵iG，将于北京时间11月4日6:00开打。",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15261295.html",
-      "publishedAt": "2026-10-30T04:13:38.000Z",
-      "fetchedAt": "2026-10-30T05:10:24.126Z",
+      "url": "https://www.jiemian.com/article/15278635.html",
+      "publishedAt": "2026-11-01T03:27:21.000Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
       "topic": "文化"
     },
     {
-      "title": "“0713再就业男团”再度合体",
+      "title": "禾木野生猴群下山抢手机系谣言",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C0713%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E2%80%9D%E5%86%8D%E5%BA%A6%E5%90%88%E4%BD%93&sa=fyb_news",
-      "publishedAt": "2026-10-31T04:55:46.595Z",
-      "fetchedAt": "2026-10-31T04:55:46.595Z",
-      "topic": "社会"
-    },
-    {
-      "title": "网民造谣干扰西藏地震救灾被罚",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E5%B9%B2%E6%89%B0%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E6%95%91%E7%81%BE%E8%A2%AB%E7%BD%9A&sa=fyb_news",
-      "publishedAt": "2026-10-30T05:10:24.126Z",
-      "fetchedAt": "2026-10-30T05:10:24.126Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=%E7%A6%BE%E6%9C%A8%E9%87%8E%E7%94%9F%E7%8C%B4%E7%BE%A4%E4%B8%8B%E5%B1%B1%E6%8A%A2%E6%89%8B%E6%9C%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news",
+      "publishedAt": "2026-11-01T05:24:13.010Z",
+      "fetchedAt": "2026-11-01T05:24:13.010Z",
+      "topic": "科技"
     }
   ]
 }
