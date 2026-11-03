@@ -1,24 +1,33 @@
 {
-  "updatedAt": "2026-11-02T05:23:13.367Z",
+  "updatedAt": "2026-11-03T06:01:46.105Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "交管机器人护航杭州马拉松 探索大型赛事安保新模式",
-      "summary": "中新网杭州11月1日电(记者 王逸飞)2026杭州马拉松11月1日举行。当日，杭州公安交管部门与“杭州六小龙”企业云深处科技联合打造的双足机器人“杭行二号”…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724385.shtml",
-      "publishedAt": "2026-11-01T10:05:02.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
-      "topic": "社会"
+      "title": "微短剧《山河同袍》热播",
+      "summary": "正在热播的AI微短剧《山河同袍》，跳出传统红色题材的叙事惯性，收获观众好评。",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-03/8430346.shtml",
+      "publishedAt": "2026-11-03T03:17:27.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
+      "topic": "科技"
     },
     {
-      "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
-      "summary": "现在不少人外出旅游都会提前做攻略，交通食宿怎么安排、打卡点怎么选才出片，还要对比别人分享的经验，通常在好几个App间来回切换，既烦琐又耗时。随着AI普及，越…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724294.shtml",
-      "publishedAt": "2026-11-01T06:57:14.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
+      "title": "短剧刷不停 为何入坑容易出坑难",
+      "summary": "2026年，AI短剧越来越多地进入人们的日常生活。制作成本低、剧情反转快，一集可能只需一两分钟，成了不少人打发空闲的选择。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725270.shtml",
+      "publishedAt": "2026-11-03T05:28:30.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "千名青少年绳跃第二届全国全民健身大赛（华南区）",
+      "summary": "中新网南宁11月2日电(夏振)11月1日，第二届全国全民健身大赛(华南区)·2026第一届广西青少年跳绳锦标赛在广西体育高等专科学校(相思湖校区)体育馆落幕…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724943.shtml",
+      "publishedAt": "2026-11-02T13:17:19.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
       "topic": "社会"
     },
     {
@@ -27,71 +36,62 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724585.shtml",
       "publishedAt": "2026-11-02T02:38:44.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
       "topic": "社会"
     },
     {
-      "title": "致敬聂华苓：以一城微光，照世界文心",
-      "summary": "2024年深秋，聂华苓先生安然远去。一位从颠沛乱世中走来的华人女性，把一生交给了文学，也交给了文学之间彼此相望的眼睛。在一座美国中西部小城里，她以孤勇、耐心…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724647.shtml",
-      "publishedAt": "2026-11-02T03:23:33.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
-      "topic": "社会"
-    },
-    {
-      "title": "城市更新遇上千年文脉：专家学者福州共探历史遗产“活态传承”新路径",
-      "summary": "中新网福州11月1日电 (叶艺琳)当前，全球城市迈入存量更新转型阶段，如何破解老城风貌衰减、开发建设与遗产保护的矛盾，让千年文脉在现代都市中“活”下去、“火…",
+      "title": "《尚公主》：以“我本位”写双强爱情，以慢叙事见长剧底气",
+      "summary": "近期，由孟子义、李昀锐三度搭档主演的古装匠心剧《尚公主》正式开播。凭借新颖的人设表达、扎实的叙事与质感，该剧跳出传统古偶甜宠套路，为当下古装剧集市场注入了全…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
-      "publishedAt": "2026-11-01T12:24:45.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724582.shtml",
+      "publishedAt": "2026-11-02T02:13:55.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
       "topic": "文化"
     },
     {
-      "title": "Google AI Mode 未给网站带来流量",
-      "summary": "Reddit 的最新财报证实了众多网站的抱怨：。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85767",
-      "publishedAt": "2026-11-01T16:46:31.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
-      "topic": "科技"
-    },
-    {
-      "title": "广交会观察：智能与环保成中国母婴产品“出海”新卖点",
-      "summary": "中新社广州11月2日电 (记者 孙秋霞)第140届广交会三期正在广州举行，中国母婴产品“出海”呈现明显分化：依靠规模与成本优势竞争的传统品类空间收窄，搭载智…",
+      "title": "海南创新实施“人工智能+普法”赋能自贸港网络法治宣传",
+      "summary": "中新网海口11月3日电 (记者 符宇群)网民正式纳入社会教育体系、AI助力普法内容生产分发、本土网络普法 IP“麦小椰”持续出圈……海南省新闻办公室2日召开…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724696.shtml",
-      "publishedAt": "2026-11-02T05:04:06.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
-      "topic": "科技"
-    },
-    {
-      "title": "数据中心抵消了过去 15 年美国的减排努力",
-      "summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85766",
-      "publishedAt": "2026-11-01T11:45:13.000Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
-      "topic": "科技"
-    },
-    {
-      "title": "几块钱的贴纸让AI眼镜变“偷拍神器”",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%87%A0%E5%9D%97%E9%92%B1%E7%9A%84%E8%B4%B4%E7%BA%B8%E8%AE%A9AI%E7%9C%BC%E9%95%9C%E5%8F%98%E2%80%9C%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-11-02T05:23:13.367Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
-      "topic": "科技"
-    },
-    {
-      "title": "儿童手表充电线又给家长出难题",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8%E5%85%85%E7%94%B5%E7%BA%BF%E5%8F%88%E7%BB%99%E5%AE%B6%E9%95%BF%E5%87%BA%E9%9A%BE%E9%A2%98&sa=fyb_news",
-      "publishedAt": "2026-11-02T05:23:13.367Z",
-      "fetchedAt": "2026-11-02T05:23:13.367Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725243.shtml",
+      "publishedAt": "2026-11-03T04:15:08.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
       "topic": "社会"
+    },
+    {
+      "title": "Proton 全力推动工程师转向 AI",
+      "summary": "以提供隐私服务著称的 Proton 公司正全力推动工程师转向采用 AI，CEO Andy Yen 还在内部 Slack 频道训斥了提出安全顾虑的员工，称是“…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85773",
+      "publishedAt": "2026-11-02T09:53:16.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "美坠机遇难者含科技大亨一家",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%E8%80%85%E5%90%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BA%A8%E4%B8%80%E5%AE%B6&sa=fyb_news",
+      "publishedAt": "2026-11-03T06:01:46.105Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "一组数据看黄河治理80年",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E9%BB%84%E6%B2%B3%E6%B2%BB%E7%90%8680%E5%B9%B4&sa=fyb_news",
+      "publishedAt": "2026-11-03T06:01:46.105Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
+      "topic": "科技"
+    },
+    {
+      "title": "鸟类遗传多样性显著下降",
+      "summary": "昆明动物所的研究人员对高黎贡山 62 种鸣禽的历史标本与当代样本进行全基因组比较发现，过去半个世纪内其遗传多样性平均下降 43%。高黎贡山面积仅占我国陆地面…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85774",
+      "publishedAt": "2026-11-02T11:15:03.000Z",
+      "fetchedAt": "2026-11-03T06:01:46.105Z",
+      "topic": "文化"
     }
   ]
 }
