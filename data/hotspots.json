@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-04T05:41:22.651Z",
+  "updatedAt": "2026-11-05T05:58:48.545Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "海南岛国际电影节AI电影展影片征集：以“电影级”为标尺",
-      "summary": "中新网海口11月3日电 第八届海南岛国际电影节将于2026年12月启幕。作为本届电影节重要产业活动之一，AI电影展以“影像新生 Beyond Generat…",
+      "title": "北京电影学院院长：表演创作中情感的传递无法用AI替代",
+      "summary": "中新社北京11月4日电 (记者 高凯)2026中国广播电视精品创作大会4日在北京开幕。北京电影学院院长扈强现场受访时谈及影视中的AI创作表示，AI为创作提供…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725569.shtml",
-      "publishedAt": "2026-11-03T12:49:08.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726268.shtml",
+      "publishedAt": "2026-11-04T13:41:37.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "科技"
     },
     {
-      "title": "新疆昌吉：数据标注员为AI当“老师” 拓展就业新空间",
-      "summary": "中新网新疆昌吉11月4日电(吴昕妮) AI短剧中的生动画面、智能驾驶对环境的精准识别、具身智能机器人灵活的动作……如今，人工智能正逐渐融入日常生活。这些应用…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725875.shtml",
-      "publishedAt": "2026-11-04T04:12:32.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
-      "topic": "社会"
-    },
-    {
-      "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
-      "summary": "中新网甘肃敦煌11月3日电 (刘佳怡 杨成利)当AI生成内容引发权属争议，当跨境IP转化面临授权难题，当千年文化遗产等待数字化活化，版权制度如何回应技术时代…",
+      "title": "专家学者敦煌论道：共商AI浪潮下的电影美学发展",
+      "summary": "中新网甘肃敦煌11月4日电 (记者 李亚龙)当生成式AI渗透影视全链条，微短剧产能爆发式增长、电影美学是否会随技术迭代而失焦？4日，在甘肃敦煌举办的2026…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
-      "publishedAt": "2026-11-03T15:55:54.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726246.shtml",
+      "publishedAt": "2026-11-04T13:04:35.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "科技"
     },
     {
-      "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
-      "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85787",
-      "publishedAt": "2026-11-03T16:33:42.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
-      "topic": "社会"
-    },
-    {
-      "title": "2026“致敬经典·修复电影论坛”举办",
-      "summary": "中新网11月4日电 记者从主办方获悉，近日，2026“致敬经典·修复电影论坛”在苏州举办。时值中国电影资料馆“电影档案影片数字化修护工程”启动二十周年，本次…",
+      "title": "“名师带营”“内部名额”别轻信！秋假临近 报研学团先核对这四项",
+      "summary": "秋假临近，家长群里“清北通道”“卫星观礼”“名师带营”等招生宣传多了起来。近期，北京、无锡等多地文旅部门陆续通报旅行社业务经营监管情况，对无证经营、违规组织…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-04/10725915.shtml",
-      "publishedAt": "2026-11-04T05:33:21.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726524.shtml",
+      "publishedAt": "2026-11-05T04:14:51.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "科技"
     },
     {
-      "title": "陕西：击剑冠军走进校园 小剑手近距离感受击剑魅力",
-      "summary": "中新网西安11月3日电 (记者 张一辰)陕西2026长安剑客国际击剑精英赛配套活动“剑耀少年时”击剑冠军校园行2日在西安开展，国家击剑队运动员走进中小学校园…",
+      "title": "规模创历届之最 四川省第十七届少数民族传统体育运动会将在攀枝花举办",
+      "summary": "中新网成都11月4日电 (袁牟知博)四川省人民政府新闻办公室4日举办四川省第十七届少数民族传统体育运动会(下称运动会)新闻发布会。据悉，运动会定于11月12…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725186.shtml",
-      "publishedAt": "2026-11-03T02:26:28.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
-      "topic": "社会"
-    },
-    {
-      "title": "陕西省青少年艺术体操冠军赛落幕 百余选手同台演绎“毯上芭蕾”",
-      "summary": "中新网陕西铜川11月3日电 (记者 张一辰)2026年陕西省青少年艺术体操冠军赛1日在铜川体育馆落幕，本次赛事共有来自陕西省内14支代表队的150余名运动员…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725233.shtml",
-      "publishedAt": "2026-11-03T04:12:08.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725949.shtml",
+      "publishedAt": "2026-11-04T06:27:54.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "文化"
     },
     {
-      "title": "iPhone系统天气bug 显示下周五-32℃",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=iPhone%E7%B3%BB%E7%BB%9F%E5%A4%A9%E6%B0%94bug+%E6%98%BE%E7%A4%BA%E4%B8%8B%E5%91%A8%E4%BA%94-32%E2%84%83&sa=fyb_news",
-      "publishedAt": "2026-11-04T05:41:22.651Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "title": "11月4日-11月5日陕西地市信息｜能源论坛西安启幕 延榆高铁特大桥合拢 各地统筹发展与民生保障",
+      "summary": "陕西多地围绕能源转型国际合作、高铁通道建设、交通便民新政、大气污染治理与集中整治、文化生态保护推进四季度各项重点工作。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15297509.html",
+      "publishedAt": "2026-11-05T04:32:55.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "社会"
     },
     {
-      "title": "明略科技(2718.HK)多款产品完成腾讯WorkBuddy接入，以垂直行业Agent共建企业智能协作新实践",
-      "summary": "在持续建设与深化自研 Octo 智能体协作网络、打造企业级智能协同的基础上，明略科技也积极拓展产品的能力接口与服务边界，让自研 Agent 生态能够更灵活地…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15291765.html",
-      "publishedAt": "2026-11-04T05:29:31.000Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "title": "按年龄分档、零起付线等 多地升级“惠民保”增加保障",
+      "summary": "“惠民保”是“城市定制型商业医疗保险”的通俗叫法，它是一种由地方政府、金融监管部门共同指导，保险公司商业运作，与基本医保衔接的补充医疗保险。近期，不少城市推…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726531.shtml",
+      "publishedAt": "2026-11-05T04:49:51.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
+      "topic": "社会"
+    },
+    {
+      "title": "Nexus Mods 公布 AI 生成内容政策",
+      "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mo…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85794",
+      "publishedAt": "2026-11-04T10:57:52.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "科技"
     },
     {
-      "title": "气象局回应苹果天气预报极端天气",
+      "title": "韩淼雨以拼搏故事激励少年：“抬起头，做自己人生的主角”",
+      "summary": "中新网双鸭山11月4日电 (朱悦 田德雨)11月3日，由双鸭山市委宣传部主办的“凝心铸魂育人”工程系列校园宣讲活动举行。举重运动员韩淼雨走进双鸭山市实验学校…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725948.shtml",
+      "publishedAt": "2026-11-04T06:25:18.000Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
+      "topic": "社会"
+    },
+    {
+      "title": "“偷拍黑产”调查：约14万女性被偷拍",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news",
-      "publishedAt": "2026-11-04T05:41:22.651Z",
-      "fetchedAt": "2026-11-04T05:41:22.651Z",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news",
+      "publishedAt": "2026-11-05T05:58:48.545Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
       "topic": "社会"
+    },
+    {
+      "title": "把手机掉在沙漠 一个月后失而复得",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8E%89%E5%9C%A8%E6%B2%99%E6%BC%A0+%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%E5%A4%B1%E8%80%8C%E5%A4%8D%E5%BE%97&sa=fyb_news",
+      "publishedAt": "2026-11-05T05:58:48.545Z",
+      "fetchedAt": "2026-11-05T05:58:48.545Z",
+      "topic": "科技"
     }
   ]
 }
