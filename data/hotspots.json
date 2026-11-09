@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-11-08T05:26:58.552Z",
+  "updatedAt": "2026-11-09T05:37:56.561Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
-      "summary": "中新网昆明11月7日电(记者 李嘉娴)当人工智能让虚拟影像唾手可得，纪实影像的价值正在被重新看见。7日，“观象见己·风物叩心”——2026云南艺术学院电影电…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
-      "publishedAt": "2026-11-07T13:25:34.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
+      "title": "2026年湖北省城市足球联赛落幕 宜昌队夺冠",
+      "summary": "中新网宜昌11月9日电 (记者 董晓斌)2026年湖北省城市足球联赛(以下简称楚超)决赛8日下午在宜昌奥体中心体育场打响，宜昌东阳光队在主场力克武汉华工科技…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-09/10728666.shtml",
+      "publishedAt": "2026-11-09T03:21:19.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
       "topic": "科技"
     },
     {
-      "title": "长辈“入坑”，年轻人“真香”，大陆AI短剧成了台湾观众的“电子下饭菜”？",
-      "summary": "中新网北京11月7日电(记者 刘越)“谁家大人会追AI短剧追到要拿笔记本记啊？”",
+      "title": "凯伦·威尔逊10-8力克希金斯 夺国锦赛首冠",
+      "summary": "中新网11月8日电 据赛事主办方消息，11月7日，2026世界斯诺克巡回赛国际锦标赛于南京市秦淮区南部新城全民健身中心落幕，在最终的巅峰对决中，凯伦·威尔逊…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728332.shtml",
+      "publishedAt": "2026-11-08T05:37:08.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "topic": "文化"
+    },
+    {
+      "title": "算法之外，如何育人 政产学研共话AI时代的家庭教育",
+      "summary": "中新网北京11月9日电 第十八届新东方家庭教育论坛7日在北京举行。论坛以“超越算法的成长——AI时代家庭教育的重塑与回归”为主题，立足家校社协同育人视角，与…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728735.shtml",
+      "publishedAt": "2026-11-09T05:05:22.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "topic": "社会"
+    },
+    {
+      "title": "当AI也能画水墨，艺术家的价值在哪里？",
+      "summary": "中新网上海11月8日电 题：",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-07/10727839.shtml",
-      "publishedAt": "2026-11-07T04:48:13.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728374.shtml",
+      "publishedAt": "2026-11-08T08:25:03.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
       "topic": "科技"
     },
     {
-      "title": "2026美中教育峰会在纽约举行",
-      "summary": "中新网纽约11月7日电 (记者 廖攀)“2026美中教育峰会”7日在美国纽约哥伦比亚大学举行。本届会议以“跨越百年的对话”为主题，中美两国教育、心理、艺术与…",
+      "title": "（第九届进博会）毕马威中国主席：中国企业在AI认同和落地上更具优势",
+      "summary": "中新社上海11月9日电 (陶思阅)“人工智能(AI)仍是核心议题。”在上海举行的第九届中国国际进口博览会期间，毕马威亚太区及中国主席邹俊受访时说，其发展速度…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-08/10728286.shtml",
-      "publishedAt": "2026-11-08T03:16:18.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
-      "topic": "社会"
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728722.shtml",
+      "publishedAt": "2026-11-09T04:20:04.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "topic": "科技"
     },
     {
-      "title": "从能力标准到教育生态：大学如何“育见”未来？",
-      "summary": "中新网东莞11月8日电 (许青青 李田恬)香港城市大学(东莞)7日举行“迈向未来的大学：科创、菁英与全球卓越”研讨会，吸引来自全国多个省份及香港特别行政区的…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-08/10728284.shtml",
-      "publishedAt": "2026-11-08T03:16:38.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
-      "topic": "社会"
+      "title": "文化观察：文化遗产保护为何要从复刻文物到生成世界？",
+      "summary": "中新网杭州11月8日电(林波 曹丹)戴上智能交互设备，眼前浮现的龙门石窟清晰得让90岁的杭州市民厉志钢感到意外。“比看电视还清晰。”他说，画面把他拉回了数十…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728387.shtml",
+      "publishedAt": "2026-11-08T08:18:18.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "topic": "科技"
     },
     {
-      "title": "深圳湾口岸年内累计出入境客流超5000万人次，创历史新高",
-      "summary": "作为粤港澳大湾区西部核心门户，深圳湾口岸，毗邻香港国际机场，衔接广深沿江高速、深中通道，是串联香港与珠三角城市群的关键枢纽。截至11月6日，广东深圳湾口岸年…",
+      "title": "三井化学和日本政策投资银行将以120亿美元收购芯片材料公司JSR",
+      "summary": "11月9日，据报道，一份文件显示，日本三井化学株式会社（Mitsui Chemicals Inc.）将在日本政策投资银行（DBJ）的协助下，以1.84万亿日…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15307705.html",
-      "publishedAt": "2026-11-08T04:03:05.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
-      "topic": "文化"
+      "url": "https://www.jiemian.com/article/15310505.html",
+      "publishedAt": "2026-11-09T05:10:22.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "topic": "科技"
     },
     {
-      "title": "2026百队杯青少年篮球赛在北京落幕",
-      "summary": "中新网北京11月7日电(记者 国璇) 2026北京晚报百队杯青少年篮球赛11月7日在首都体育学院北京大学生体育馆落幕。从10月18日开赛以来，本届百队杯篮球…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728144.shtml",
-      "publishedAt": "2026-11-07T13:23:34.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
+      "title": "中国讨论征收糖税",
+      "summary": "随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85831",
+      "publishedAt": "2026-11-09T04:03:16.000Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "日本本州东部附近海域5.7级地震",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F5.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
+      "publishedAt": "2026-11-09T05:37:56.561Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
       "topic": "社会"
     },
     {
-      "title": "广电总局整治 AI 低俗微短剧",
-      "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85821",
-      "publishedAt": "2026-11-07T11:19:42.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
-      "topic": "科技"
-    },
-    {
-      "title": "赛事流量留在山水间 武汉黄陂解锁文体旅融合新范式",
-      "summary": "中新网武汉11月7日电 (邱舒 高龙 卢琪)2026年全国群众登山健身大会(木兰山站)暨中国·武汉第十五届木兰山登山活动7日在武汉黄陂木兰山启幕，5000名…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728156.shtml",
-      "publishedAt": "2026-11-07T13:12:28.000Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
-      "topic": "文化"
-    },
-    {
-      "title": "大三男生宿舍制作AI漫剧 营收超300万",
+      "title": "上海一老人将百万遗产赠养老院院长",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%88%B6%E4%BD%9CAI%E6%BC%AB%E5%89%A7+%E8%90%A5%E6%94%B6%E8%B6%85300%E4%B8%87&sa=fyb_news",
-      "publishedAt": "2026-11-08T05:26:58.552Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
-      "topic": "科技"
-    },
-    {
-      "title": "暴雨暴雪大降温来了",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%9A%B4%E9%9B%A8%E6%9A%B4%E9%9B%AA%E5%A4%A7%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news",
-      "publishedAt": "2026-11-08T05:26:58.552Z",
-      "fetchedAt": "2026-11-08T05:26:58.552Z",
+      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%80%81%E4%BA%BA%E5%B0%86%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E8%B5%A0%E5%85%BB%E8%80%81%E9%99%A2%E9%99%A2%E9%95%BF&sa=fyb_news",
+      "publishedAt": "2026-11-09T05:37:56.561Z",
+      "fetchedAt": "2026-11-09T05:37:56.561Z",
       "topic": "社会"
     }
   ]
