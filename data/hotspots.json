@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-09T05:37:56.561Z",
+  "updatedAt": "2026-11-10T06:47:12.035Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
+    {
+      "title": "16所音乐院校齐聚南京 共话AI时代音乐教育未来",
+      "summary": "中新网南京11月9日电 2026首届全国音乐科技大会校长论坛日前在南京举行，来自中央音乐学院、上海音乐学院等16所音乐学院、艺术学院的负责人齐聚，共话人工智…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-09/10729023.shtml",
+      "publishedAt": "2026-11-09T11:59:41.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "社会"
+    },
+    {
+      "title": "2026年中国金鸡百花电影节：电影人探讨AI浪潮",
+      "summary": "中新社厦门11月10日电 (吴冠标)2026年中国金鸡百花电影节11月6日至10日在福建厦门举办。电影节期间，人们谈论的已不只是人工智能(AI)能做什么，还…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729281.shtml",
+      "publishedAt": "2026-11-10T03:17:37.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "科技"
+    },
     {
       "title": "2026年湖北省城市足球联赛落幕 宜昌队夺冠",
       "summary": "中新网宜昌11月9日电 (记者 董晓斌)2026年湖北省城市足球联赛(以下简称楚超)决赛8日下午在宜昌奥体中心体育场打响，宜昌东阳光队在主场力克武汉华工科技…",
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-09/10728666.shtml",
       "publishedAt": "2026-11-09T03:21:19.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
       "topic": "科技"
     },
     {
-      "title": "凯伦·威尔逊10-8力克希金斯 夺国锦赛首冠",
-      "summary": "中新网11月8日电 据赛事主办方消息，11月7日，2026世界斯诺克巡回赛国际锦标赛于南京市秦淮区南部新城全民健身中心落幕，在最终的巅峰对决中，凯伦·威尔逊…",
+      "title": "我国已牵头制定25项医疗器械领域国际标准",
+      "summary": "记者今天(11月10日)从国家标准委了解到，今年以来，由我国提出的7项医疗器械领域国际标准提案获国际标准化组织(ISO)批准立项，数量创历史同期新高。截至目…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729393.shtml",
+      "publishedAt": "2026-11-10T06:36:24.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "社会"
+    },
+    {
+      "title": "在“四叶草”里，看见中国太保的“AI+”与“心”温度",
+      "summary": "第九届进博会技术装备展区，中国太保智慧服务展厅以“保险守护科技进步，智慧服务美好生活”为主题，把“大康养、国际化、人工智能+”三条战略线索铺成一条可走、可看…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729377.shtml",
+      "publishedAt": "2026-11-10T06:29:55.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "科技"
+    },
+    {
+      "title": "改善健康，美国夏威夷居民食品也可纳入医疗补助",
+      "summary": "美国夏威夷州参加医疗补助计划的低收入家庭患者最早将从明年1月起，获得医生开具的肉、蛋、奶以及蔬菜水果等“新鲜食物处方”。综合多家美国媒体报道，这是夏威夷州医…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15315873.html",
+      "publishedAt": "2026-11-10T06:13:53.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "社会"
+    },
+    {
+      "title": "世界大城市都在沉降",
+      "summary": "北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85840",
+      "publishedAt": "2026-11-09T13:08:27.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "科技"
+    },
+    {
+      "title": "2026年全国射击总决赛 李源松与关锡雯夺得飞碟双向混合团体银牌",
+      "summary": "中新网哈尔滨11月9日电(记者 王妮娜)黑龙江省体育局9日发布消息，2026年全国射击总决赛飞碟双向混合团体决赛8日在重庆举行，黑龙江省运动员李源松与关锡雯…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728332.shtml",
-      "publishedAt": "2026-11-08T05:37:08.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-09/10728748.shtml",
+      "publishedAt": "2026-11-09T05:20:57.000Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
       "topic": "文化"
     },
     {
-      "title": "算法之外，如何育人 政产学研共话AI时代的家庭教育",
-      "summary": "中新网北京11月9日电 第十八届新东方家庭教育论坛7日在北京举行。论坛以“超越算法的成长——AI时代家庭教育的重塑与回归”为主题，立足家校社协同育人视角，与…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728735.shtml",
-      "publishedAt": "2026-11-09T05:05:22.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "社会"
-    },
-    {
-      "title": "当AI也能画水墨，艺术家的价值在哪里？",
-      "summary": "中新网上海11月8日电 题：",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728374.shtml",
-      "publishedAt": "2026-11-08T08:25:03.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "科技"
-    },
-    {
-      "title": "（第九届进博会）毕马威中国主席：中国企业在AI认同和落地上更具优势",
-      "summary": "中新社上海11月9日电 (陶思阅)“人工智能(AI)仍是核心议题。”在上海举行的第九届中国国际进口博览会期间，毕马威亚太区及中国主席邹俊受访时说，其发展速度…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728722.shtml",
-      "publishedAt": "2026-11-09T04:20:04.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "科技"
-    },
-    {
-      "title": "文化观察：文化遗产保护为何要从复刻文物到生成世界？",
-      "summary": "中新网杭州11月8日电(林波 曹丹)戴上智能交互设备，眼前浮现的龙门石窟清晰得让90岁的杭州市民厉志钢感到意外。“比看电视还清晰。”他说，画面把他拉回了数十…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728387.shtml",
-      "publishedAt": "2026-11-08T08:18:18.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "科技"
-    },
-    {
-      "title": "三井化学和日本政策投资银行将以120亿美元收购芯片材料公司JSR",
-      "summary": "11月9日，据报道，一份文件显示，日本三井化学株式会社（Mitsui Chemicals Inc.）将在日本政策投资银行（DBJ）的协助下，以1.84万亿日…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15310505.html",
-      "publishedAt": "2026-11-09T05:10:22.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "科技"
-    },
-    {
-      "title": "中国讨论征收糖税",
-      "summary": "随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85831",
-      "publishedAt": "2026-11-09T04:03:16.000Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "生活方式"
-    },
-    {
-      "title": "日本本州东部附近海域5.7级地震",
+      "title": "足力健老人鞋创始人张京康成老赖",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F5.7%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news",
-      "publishedAt": "2026-11-09T05:37:56.561Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
+      "url": "https://m.baidu.com/s?word=%E8%B6%B3%E5%8A%9B%E5%81%A5%E8%80%81%E4%BA%BA%E9%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%A0%E4%BA%AC%E5%BA%B7%E6%88%90%E8%80%81%E8%B5%96&sa=fyb_news",
+      "publishedAt": "2026-11-10T06:47:12.035Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
       "topic": "社会"
     },
     {
-      "title": "上海一老人将百万遗产赠养老院院长",
+      "title": "未来几个月全球气温将异常偏高",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%80%81%E4%BA%BA%E5%B0%86%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E8%B5%A0%E5%85%BB%E8%80%81%E9%99%A2%E9%99%A2%E9%95%BF&sa=fyb_news",
-      "publishedAt": "2026-11-09T05:37:56.561Z",
-      "fetchedAt": "2026-11-09T05:37:56.561Z",
-      "topic": "社会"
+      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E5%87%A0%E4%B8%AA%E6%9C%88%E5%85%A8%E7%90%83%E6%B0%94%E6%B8%A9%E5%B0%86%E5%BC%82%E5%B8%B8%E5%81%8F%E9%AB%98&sa=fyb_news",
+      "publishedAt": "2026-11-10T06:47:12.035Z",
+      "fetchedAt": "2026-11-10T06:47:12.035Z",
+      "topic": "公共新闻"
     }
   ]
 }
