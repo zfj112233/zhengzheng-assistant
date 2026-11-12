@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-11T05:35:09.405Z",
+  "updatedAt": "2026-11-12T06:40:29.520Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "文化观察：传统文化传承如何不说教、有趣味？",
-      "summary": "中新网嘉兴11月10日电(傅飞扬)传统文化传承如何做到不说教、有趣味？在浙江省嘉兴市嘉善县，一本半小时就能读懂的漫画，一部每集2分钟左右的AIGC微短剧，让…",
+      "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
+      "summary": "中新社洛杉矶11月11日电 (记者 沙晗汀)第22届中美电影节和中美电视节10日在美国洛杉矶举行开幕式暨“金天使奖”颁奖典礼。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729772.shtml",
-      "publishedAt": "2026-11-10T13:11:07.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
-      "topic": "科技"
-    },
-    {
-      "title": "提升书店供给质量 中国八部门联合发文支持实体书店",
-      "summary": "中新社北京11月10日电 近日，中央宣传部、中央社会工作部、教育部、财政部、住房城乡建设部、商务部、文化和旅游部、国家文物局联合印发《中共中央宣传部等关于支…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729619.shtml",
-      "publishedAt": "2026-11-10T10:38:17.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
-      "topic": "社会"
-    },
-    {
-      "title": "“北京双奥中的中华传统文化”主题展览亮相北京奥运博物馆",
-      "summary": "中新网北京11月10日电 (记者 吕少威)“北京双奥中的中华传统文化”主题展览10日在北京奥运博物馆正式开启，面向社会公众免费开放。本次展览由北京奥运城市发…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729655.shtml",
-      "publishedAt": "2026-11-10T11:23:01.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
-      "topic": "社会"
-    },
-    {
-      "title": "湛江举办国际潜水大赛 中美俄等多国运动员竞技",
-      "summary": "中新网湛江11月10日电 (梁盛 谢剑锋 王子昕)10日，2026湛江国际潜水大赛、2026年世界潜联蹼泳世界杯分站赛(泳池)开幕式在国家体育总局湛江潜水运…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729531.shtml",
-      "publishedAt": "2026-11-10T09:20:46.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730571.shtml",
+      "publishedAt": "2026-11-11T22:04:23.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
       "topic": "文化"
     },
     {
-      "title": "中新健康｜想赚医院的钱，不那么容易了！医疗信息化相关厂商业绩承压",
-      "summary": "中新网北京11月11日电(罗春昊)近日，医疗信息化相关的上市公司陆续公布三季报，多家企业亏损。",
+      "title": "2026豫排联赛探索“跨省票根互认”机制 以赛事激活消费动能",
+      "summary": "中新网郑州11月11日电 (张楠)2026年河南省女子排球城市联赛(简称“豫排联赛”)新闻通气会11日在河南郑州举行。会上通报，本届联赛将于11月13日开幕…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730369.shtml",
+      "publishedAt": "2026-11-11T11:04:02.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
+      "topic": "文化"
+    },
+    {
+      "title": "中蒙边境牧场“马背小学”蝶变记",
+      "summary": "中新网乌鲁木齐11月12日电 (王若瑾)初冬，在新疆生产建设兵团第六师北塔山牧场小学的多媒体教室里，教师陈文香正带着学生，通过互联网一起听山西太谷师范附属小…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730041.shtml",
-      "publishedAt": "2026-11-11T05:04:05.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730783.shtml",
+      "publishedAt": "2026-11-12T06:35:09.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
       "topic": "社会"
     },
     {
-      "title": "生成式 AI 过度美化现实",
-      "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研…",
+      "title": "王建民：新疆非遗在各民族相互作用、相互融合中生长生成",
+      "summary": "中新网北京11月12日电 (记者 邢利宇)中央民族大学民族学与社会学学院教授王建民近日接受中新网专访时指出，以丰富性、多样性著称的新疆非物质文化遗产，是在各…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730756.shtml",
+      "publishedAt": "2026-11-12T06:24:44.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
+      "topic": "社会"
+    },
+    {
+      "title": "以时代群像书写中国法治建设历程 电视剧《重器》研讨会举行",
+      "summary": "中新网北京11月11日电 (记者 高凯)由中国电视艺术委员会、北京市广电局主办的电视剧《重器》研讨会日前在京举行。研讨会围绕剧集的创作经验、艺术价值、专业内…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730325.shtml",
+      "publishedAt": "2026-11-11T09:39:56.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
+      "topic": "文化"
+    },
+    {
+      "title": "2026豫排联赛：奥运冠军朱婷任形象大使 霹雳舞名将领衔开场",
+      "summary": "中新网郑州11月11日电 (张楠)2026年河南省女子排球城市联赛(简称“豫排联赛”)开幕式暨揭幕战将于13日在河南郑州市体育馆举行，不仅邀请女排奥运冠军朱…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730431.shtml",
+      "publishedAt": "2026-11-11T12:25:03.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
+      "topic": "文化"
+    },
+    {
+      "title": "101岁老人面色红润：每天多梳头",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=101%E5%B2%81%E8%80%81%E4%BA%BA%E9%9D%A2%E8%89%B2%E7%BA%A2%E6%B6%A6%EF%BC%9A%E6%AF%8F%E5%A4%A9%E5%A4%9A%E6%A2%B3%E5%A4%B4&sa=fyb_news",
+      "publishedAt": "2026-11-12T06:40:29.520Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
+      "topic": "社会"
+    },
+    {
+      "title": "AI 生成的代码并不可靠",
+      "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85847",
-      "publishedAt": "2026-11-10T11:04:32.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
+      "url": "https://www.solidot.org/story?sid=85857",
+      "publishedAt": "2026-11-11T10:43:22.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
       "topic": "科技"
     },
     {
-      "title": "当情绪化热梗席卷全网，我们在跟风什么？",
-      "summary": "当下互联网上这种铺天盖地的热梗狂欢，究竟是如何被制造出来的？而这种流量沸腾的背后，又藏着怎样的商业逻辑？",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15320073.html",
-      "publishedAt": "2026-11-11T04:57:41.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
-      "topic": "科技"
-    },
-    {
-      "title": "国家发改委：深入实施共建“一带一路”科技创新行动计划",
-      "summary": "中新网11月11日电 11日上午，国家发改委召开奋进“十五五”系列新闻发布会，介绍共建“一带一路”有关情况。会上，国家发展改革委区域开放司司长梁林冲介绍了国…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730007.shtml",
-      "publishedAt": "2026-11-11T03:32:24.000Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
-      "topic": "科技"
-    },
-    {
-      "title": "扬州地震监控画面",
+      "title": "百岁老人失联4天被找到 已不幸去世",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2&sa=fyb_news",
-      "publishedAt": "2026-11-11T05:35:09.405Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
+      "url": "https://m.baidu.com/s?word=%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA%E5%A4%B1%E8%81%944%E5%A4%A9%E8%A2%AB%E6%89%BE%E5%88%B0+%E5%B7%B2%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96&sa=fyb_news",
+      "publishedAt": "2026-11-12T06:40:29.520Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
       "topic": "社会"
     },
     {
-      "title": "梁家辉回应独自坐高铁：不是寂寞老人",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%A2%81%E5%AE%B6%E8%BE%89%E5%9B%9E%E5%BA%94%E7%8B%AC%E8%87%AA%E5%9D%90%E9%AB%98%E9%93%81%EF%BC%9A%E4%B8%8D%E6%98%AF%E5%AF%82%E5%AF%9E%E8%80%81%E4%BA%BA&sa=fyb_news",
-      "publishedAt": "2026-11-11T05:35:09.405Z",
-      "fetchedAt": "2026-11-11T05:35:09.405Z",
-      "topic": "社会"
+      "title": "假如地球没有诞生生命？",
+      "summary": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85862",
+      "publishedAt": "2026-11-11T14:43:47.000Z",
+      "fetchedAt": "2026-11-12T06:40:29.520Z",
+      "topic": "综合"
     }
   ]
 }
