@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-14T05:46:00.851Z",
+  "updatedAt": "2026-11-15T05:46:16.176Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "中国博物馆协会理事长：数智浪潮重塑行业 拥抱AI须把握“价值边界”",
-      "summary": "中新网海口11月13日电 (记者 王子谦)当前，席卷全球的AI浪潮，正从保护、研究、展陈、传播等多维度深刻重塑博物馆行业的发展范式。中国博物馆协会理事长关强…",
+      "title": "第三届成都天问华语科幻文学大赛八大奖项揭晓",
+      "summary": "中新网成都11月15日电(程兆)第三届成都天问华语科幻文学大赛(下称成都天问大赛)成果发布会14日在成都科幻馆举行，现场揭晓八大奖项，涵盖科幻文学、人工智能…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731832.shtml",
-      "publishedAt": "2026-11-13T13:54:57.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732238.shtml",
+      "publishedAt": "2026-11-15T01:49:31.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
       "topic": "科技"
     },
     {
       "title": "中国冠军运动员捐赠藏品传递体育精神",
       "summary": "中新网苏州11月14日电(记者 常慕城)2026中国体育文化博览会、中国体育旅游博览会冠军捐赠仪式，13日在苏州国际博览中心举办。部分冠军运动员将征战赛场的…",
-      "source": "中新网",
+      "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731965.shtml",
       "publishedAt": "2026-11-14T05:40:27.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
       "topic": "文化"
     },
     {
-      "title": "天津锚定“大城智管” 2030年建成全域智慧治理新格局",
-      "summary": "中新网天津11月14日电 (记者 江莹)13日，天津市数据局局长邓光华在市政府新闻办举行的新闻发布会上表示，天津将依托全新智慧城市建设规划，以数智赋能城市治…",
+      "title": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+      "summary": "中新网大同11月15日电 (记者 胡健)2026新华网思客年会14日在山西大同举办。这座以煤炭闻名的城市在会上披露一组数据：全市已投运算力服务器超81万台，…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731958.shtml",
-      "publishedAt": "2026-11-14T05:35:22.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml",
+      "publishedAt": "2026-11-15T04:13:04.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
       "topic": "科技"
     },
     {
-      "title": "多份艺术市场报告在沪发布 上海拓展文物艺术品跨境交易",
-      "summary": "中新网上海11月13日电 (记者 李姝徵)第十一届“上海对话”13日在上海东方枢纽国际商务合作区举行。多份艺术市场报告、指数在活动上发布，来自海内外的拍卖行…",
+      "title": "江苏推出“跟着赛事去旅行”新玩法",
+      "summary": "中新网苏州11月14日电(记者 常慕城)江苏省“跟着赛事去旅行”提振消费主题活动14日在常熟启幕。本次活动为2026中国体育旅游博览会常熟分会场重点内容，采…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731976.shtml",
+      "publishedAt": "2026-11-14T05:57:14.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
+      "topic": "文化"
+    },
+    {
+      "title": "博物馆的“焕新”之约：文创出圈 科技造境 故事入心",
+      "summary": "中新网海口11月15日电 题：",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732292.shtml",
+      "publishedAt": "2026-11-15T03:53:25.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
+      "topic": "科技"
+    },
+    {
+      "title": "当AI剧集走上领奖台，中国科幻作家如何思考未来？",
+      "summary": "中新网成都11月15日电 题：",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731829.shtml",
-      "publishedAt": "2026-11-13T13:56:15.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
-      "topic": "文化"
-    },
-    {
-      "title": "微软云服务全球宕机",
-      "summary": "，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85875",
-      "publishedAt": "2026-11-13T05:30:36.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732219.shtml",
+      "publishedAt": "2026-11-15T00:35:05.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
       "topic": "科技"
     },
     {
-      "title": "2026年豫排联赛启幕 首战郑州队获胜",
-      "summary": "中新网郑州11月14日电 (记者 张楠)2026年河南省女子排球城市联赛(简称豫排联赛)13日晚在郑州市体育馆启幕。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731907.shtml",
-      "publishedAt": "2026-11-14T02:26:22.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
+      "title": "美国历史上第三次航班大停飞",
+      "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 200…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85884",
+      "publishedAt": "2026-11-14T13:24:23.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
       "topic": "文化"
     },
     {
-      "title": "2026中国体育文化博览会、中国体育旅游博览会在苏州启幕",
-      "summary": "中新网苏州11月13日电(记者 常慕城)以“与体育同行 聚时代同心”为主题的2026中国体育文化博览会、中国体育旅游博览会13日下午在苏州启幕。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731621.shtml",
-      "publishedAt": "2026-11-13T11:22:07.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
-      "topic": "文化"
+      "title": "纽约州长就停飞要求美交通部长辞职",
+      "summary": "当地时间11月14日，美国仍有大批航班延误或取消。当天，美国纽约州民主党籍州长霍楚尔发表声明，要求美国交通部长达菲辞职。她表示，在达菲任内，美国航空系统的严…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15334002.html",
+      "publishedAt": "2026-11-15T03:42:21.000Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
+      "topic": "社会"
     },
     {
-      "title": "你的旧手机号可能被别人用来消费",
+      "title": "综艺里到处都是NPD妈妈 啥是NPD",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%BD%A0%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%94%A8%E6%9D%A5%E6%B6%88%E8%B4%B9&sa=fyb_news",
-      "publishedAt": "2026-11-14T05:46:00.851Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E7%BB%BC%E8%89%BA%E9%87%8C%E5%88%B0%E5%A4%84%E9%83%BD%E6%98%AFNPD%E5%A6%88%E5%A6%88+%E5%95%A5%E6%98%AFNPD&sa=fyb_news",
+      "publishedAt": "2026-11-15T05:46:16.176Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
+      "topic": "娱乐"
     },
     {
-      "title": "无印良品客户信用卡数据泄露",
-      "summary": "运营无印良品的良品计划公司社长清水智 12 日就遭遇非法访问问题在东京都内召开记者会，致歉称：“给大家带来了巨大担忧与困扰，对此由衷道歉。”包括已经解约的在…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85877",
-      "publishedAt": "2026-11-13T06:47:28.000Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
-      "topic": "科技"
-    },
-    {
-      "title": "OpenAI解散机器人团队",
+      "title": "睡眠不足的人长期处于应激状态",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=OpenAI%E8%A7%A3%E6%95%A3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%A2%E9%98%9F&sa=fyb_news",
-      "publishedAt": "2026-11-14T05:46:00.851Z",
-      "fetchedAt": "2026-11-14T05:46:00.851Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E5%BA%94%E6%BF%80%E7%8A%B6%E6%80%81&sa=fyb_news",
+      "publishedAt": "2026-11-15T05:46:16.176Z",
+      "fetchedAt": "2026-11-15T05:46:16.176Z",
+      "topic": "生活方式"
     }
   ]
 }
