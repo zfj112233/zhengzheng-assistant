@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-17T07:24:00.947Z",
+  "updatedAt": "2026-11-18T06:48:22.287Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "跨国美育交流走进无锡新安 版画架起文明对话桥梁",
-      "summary": "艺者无疆，版画添彩。近日，无锡市新吴区新安街道邀请国际合作艺术家彼得·拉扎洛夫(Peter Lazarov)走进大溪港溪有生活咖啡艺术空间，开展集艺术科普、…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732898.shtml",
-      "publishedAt": "2026-11-16T09:19:10.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "文化"
-    },
-    {
-      "title": "产业观察：“微短剧青创之城”，如何建？",
-      "summary": "中新网嘉兴11月16日电(傅飞扬 周丽丽)2026年，微短剧的产能闸门被AI彻底冲开。",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733009.shtml",
-      "publishedAt": "2026-11-16T12:28:46.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026北京朝阳区新就业群体运动会开幕",
-      "summary": "中新网北京11月16日电 2026北京朝阳区新就业群体运动会16日开幕。活动以“奔忙有力量，运动暖朝阳”为主题，面向外卖骑手、快递员、网约车司机、网约家政、…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-16/10733013.shtml",
-      "publishedAt": "2026-11-16T12:29:56.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "社会"
-    },
-    {
-      "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
-      "summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Googl…",
+      "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
+      "summary": "加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85899",
-      "publishedAt": "2026-11-16T09:26:54.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "科技"
-    },
-    {
-      "title": "西安闹市区现北宋神秘群墓",
-      "summary": "车流不息、人声鼎沸的西安南稍门，背靠千年小雁塔，是西安主城区极具烟火气的繁华地带。这片寸土寸金的城市腹地，地下封存着一段近千年前的宋代民生往事。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733441.shtml",
-      "publishedAt": "2026-11-17T07:09:36.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
+      "url": "https://www.solidot.org/story?sid=85914",
+      "publishedAt": "2026-11-17T10:22:40.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
       "topic": "社会"
     },
     {
-      "title": "辽宁司法救助“免申即享”织密民生保障网",
-      "summary": "中新网沈阳11月17日电(记者 王景巍)在辽宁省政府新闻办17日举行的新闻发布会上，辽宁省人民检察院副检察长王雷称，辽宁检察机关在全国率先出台《检察机关司法…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733404.shtml",
-      "publishedAt": "2026-11-17T06:57:41.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "社会"
-    },
-    {
-      "title": "科创50指数涨超3% 芯片产业链反弹",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B6%853%25+%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%8F%8D%E5%BC%B9&sa=fyb_news",
-      "publishedAt": "2026-11-17T07:24:00.947Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "科技"
-    },
-    {
-      "title": "瘫痪博主把自己交给AI管了7天",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E7%98%AB%E7%97%AA%E5%8D%9A%E4%B8%BB%E6%8A%8A%E8%87%AA%E5%B7%B1%E4%BA%A4%E7%BB%99AI%E7%AE%A1%E4%BA%867%E5%A4%A9&sa=fyb_news",
-      "publishedAt": "2026-11-17T07:24:00.947Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "科技"
-    },
-    {
-      "title": "中广天择：AI算料业务已成为公司新的增长曲线",
-      "summary": "11月17日消息，中广天择在2026年第三季度业绩说明会上表示，公司在AI方面已有布局。旗下数智中心以40万小时4K超高清视频与200万小时高保真音频建立起…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15341325.html",
-      "publishedAt": "2026-11-17T06:50:23.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026Tennis123分级赛全国总决赛落幕",
-      "summary": "中新网11月17日电 据赛事主办方消息，2026“决战莫干之巅”Tennis123分级赛全国总决赛日前在浙江湖州德清莫干山落下帷幕。这场为期两天的大赛，既是…",
+      "title": "卓越体育教师培养如何破局",
+      "summary": "中新网北京11月17日电(记者 刘星晨) 中国教育发展战略学会体育与健康专业委员会(简称“专委会”)成立仪式暨《体育强国建设“十五五”规划》背景下体教融合战…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733291.shtml",
-      "publishedAt": "2026-11-17T03:36:56.000Z",
-      "fetchedAt": "2026-11-17T07:24:00.947Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733612.shtml",
+      "publishedAt": "2026-11-17T11:02:36.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "社会"
+    },
+    {
+      "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
+      "summary": "本报拉萨11月15日讯(记者 旦增兰泽)近日，记者从“高原筑梦 益彩同行——西藏体彩2025年度社会责任报告”发布会获悉，2025年西藏体彩全年销售体育彩票…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
+      "publishedAt": "2026-11-18T01:51:59.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "社会"
+    },
+    {
+      "title": "聚焦林默“少年时代” 《妈祖之林默传》动画电影项目发布",
+      "summary": "中新社福建宁德11月17日电 (吴允杰)在17日于福建省宁德市霞浦县举行的“寰海纪元”海洋文化IP(知识产权)发布会上，赤目熊动画发布了动画电影项目《妈祖之…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733765.shtml",
+      "publishedAt": "2026-11-17T13:41:51.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
       "topic": "文化"
+    },
+    {
+      "title": "两部海洋文化题材动画电影项目在福建霞浦启动",
+      "summary": "中新网宁德11月17日电 (吴允杰)17日，霞浦启航·赤目熊动画“寰海纪元”海洋文化IP发布会在福建省宁德市霞浦县举行，会上发布两部海洋文化题材动画电影项目…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733766.shtml",
+      "publishedAt": "2026-11-17T13:40:25.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "文化"
+    },
+    {
+      "title": "中新健康｜CAR-T进医保、预申报提速：2026年国家医保目录调整释放哪些信号？",
+      "summary": "中新网北京11月18日电(记者 赵方园)11月14日，苏州国际博览中心G馆3楼。2000余人的会场座无虚席，来晚的企业代表挤在两侧过道。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734012.shtml",
+      "publishedAt": "2026-11-18T06:05:43.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "蚂蚁数科与韩国JB金融集团签署MOU，推进AI智能体金融应用",
+      "summary": "11月18日，蚂蚁数科与韩国JB金融集团（JB Financial Group）于2026年新加坡金融科技节期间签署谅解备忘录（MOU）。根据这份谅解备忘录…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15345998.html",
+      "publishedAt": "2026-11-18T06:16:11.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "科技"
+    },
+    {
+      "title": "罗大佑发声获两岸民间支持 国台办指“德不孤，必有邻”",
+      "summary": "中新社北京11月18日电 (记者 张晓曦 张杨彬)对于台湾音乐人罗大佑近日批评民进党当局钳制言论、获两岸网友热议点赞，国务院台办发言人陈斌华18日应询表示，…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734060.shtml",
+      "publishedAt": "2026-11-18T06:20:25.000Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "文化"
+    },
+    {
+      "title": "博主回村拍老人涨粉400万",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%8D%9A%E4%B8%BB%E5%9B%9E%E6%9D%91%E6%8B%8D%E8%80%81%E4%BA%BA%E6%B6%A8%E7%B2%89400%E4%B8%87&sa=fyb_news",
+      "publishedAt": "2026-11-18T06:48:22.287Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "社会"
+    },
+    {
+      "title": "深圳公交全是新能源车 嘉宾很震撼",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%85%AC%E4%BA%A4%E5%85%A8%E6%98%AF%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E5%98%89%E5%AE%BE%E5%BE%88%E9%9C%87%E6%92%BC&sa=fyb_news",
+      "publishedAt": "2026-11-18T06:48:22.287Z",
+      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "topic": "科技"
     }
   ]
 }
