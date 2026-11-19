@@ -1,24 +1,15 @@
 {
-  "updatedAt": "2026-11-18T06:48:22.287Z",
+  "updatedAt": "2026-11-19T06:49:26.054Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
-      "summary": "加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85914",
-      "publishedAt": "2026-11-17T10:22:40.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
-      "topic": "社会"
-    },
-    {
-      "title": "卓越体育教师培养如何破局",
-      "summary": "中新网北京11月17日电(记者 刘星晨) 中国教育发展战略学会体育与健康专业委员会(简称“专委会”)成立仪式暨《体育强国建设“十五五”规划》背景下体教融合战…",
+      "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
+      "summary": "强势横扫、黑马逆袭、百炼成钢……如今，竞技体育赛事吸引了越来越多年轻人的目光。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)对1048名…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733612.shtml",
-      "publishedAt": "2026-11-17T11:02:36.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
+      "publishedAt": "2026-11-19T00:54:55.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
       "topic": "社会"
     },
     {
@@ -27,70 +18,79 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
       "publishedAt": "2026-11-18T01:51:59.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
       "topic": "社会"
     },
     {
-      "title": "聚焦林默“少年时代” 《妈祖之林默传》动画电影项目发布",
-      "summary": "中新社福建宁德11月17日电 (吴允杰)在17日于福建省宁德市霞浦县举行的“寰海纪元”海洋文化IP(知识产权)发布会上，赤目熊动画发布了动画电影项目《妈祖之…",
+      "title": "2026年海上丝绸之路国际文化旅游节将在福州举办",
+      "summary": "中新网福州11月18日电 (记者 闫旭)2026年海上丝绸之路国际文化旅游节将于11月28日至12月25日在福州举办。福建省人民政府18日举办新闻发布会，介…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733765.shtml",
-      "publishedAt": "2026-11-17T13:41:51.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734108.shtml",
+      "publishedAt": "2026-11-18T07:44:32.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
       "topic": "文化"
     },
     {
-      "title": "两部海洋文化题材动画电影项目在福建霞浦启动",
-      "summary": "中新网宁德11月17日电 (吴允杰)17日，霞浦启航·赤目熊动画“寰海纪元”海洋文化IP发布会在福建省宁德市霞浦县举行，会上发布两部海洋文化题材动画电影项目…",
+      "title": "2026年度“十大”科普热词发布：勾勒人类生活新未来",
+      "summary": "人工智能等新技术加速链接千行百业——",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733766.shtml",
-      "publishedAt": "2026-11-17T13:40:25.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
-      "topic": "文化"
-    },
-    {
-      "title": "中新健康｜CAR-T进医保、预申报提速：2026年国家医保目录调整释放哪些信号？",
-      "summary": "中新网北京11月18日电(记者 赵方园)11月14日，苏州国际博览中心G馆3楼。2000余人的会场座无虚席，来晚的企业代表挤在两侧过道。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734012.shtml",
-      "publishedAt": "2026-11-18T06:05:43.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
-      "topic": "生活方式"
-    },
-    {
-      "title": "蚂蚁数科与韩国JB金融集团签署MOU，推进AI智能体金融应用",
-      "summary": "11月18日，蚂蚁数科与韩国JB金融集团（JB Financial Group）于2026年新加坡金融科技节期间签署谅解备忘录（MOU）。根据这份谅解备忘录…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15345998.html",
-      "publishedAt": "2026-11-18T06:16:11.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734498.shtml",
+      "publishedAt": "2026-11-19T01:39:37.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
       "topic": "科技"
     },
     {
-      "title": "罗大佑发声获两岸民间支持 国台办指“德不孤，必有邻”",
-      "summary": "中新社北京11月18日电 (记者 张晓曦 张杨彬)对于台湾音乐人罗大佑近日批评民进党当局钳制言论、获两岸网友热议点赞，国务院台办发言人陈斌华18日应询表示，…",
+      "title": "孟京辉：在浪漫与科技间试探戏剧边界",
+      "summary": "中新网杭州11月19日电(林波 孙琳茹)“现在戏剧和以前不一样了。”11月18日至26日，2026第十五届杭州当代戏剧季在杭州举行。其间，戏剧导演孟京辉受访…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734060.shtml",
-      "publishedAt": "2026-11-18T06:20:25.000Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734596.shtml",
+      "publishedAt": "2026-11-19T06:08:44.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "topic": "科技"
+    },
+    {
+      "title": "一群玩家把电影院看成了“电竞主场”",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BE%A4%E7%8E%A9%E5%AE%B6%E6%8A%8A%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9C%8B%E6%88%90%E4%BA%86%E2%80%9C%E7%94%B5%E7%AB%9E%E4%B8%BB%E5%9C%BA%E2%80%9D&sa=fyb_news",
+      "publishedAt": "2026-11-19T06:49:26.054Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
       "topic": "文化"
     },
     {
-      "title": "博主回村拍老人涨粉400万",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8D%9A%E4%B8%BB%E5%9B%9E%E6%9D%91%E6%8B%8D%E8%80%81%E4%BA%BA%E6%B6%A8%E7%B2%89400%E4%B8%87&sa=fyb_news",
-      "publishedAt": "2026-11-18T06:48:22.287Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
-      "topic": "社会"
+      "title": "陆游：最早探索猫内心世界的诗人",
+      "summary": "如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪。这并不出人意料，毕竟互联网是属于猫的。人类对家猫的喜爱其实是一种相对较近的现象。在很多地方，猫曾被视为可疑…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85925",
+      "publishedAt": "2026-11-18T14:58:22.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "topic": "科技"
     },
     {
-      "title": "深圳公交全是新能源车 嘉宾很震撼",
+      "title": "2026年渝港澳职业技能大赛在重庆开幕",
+      "summary": "中新社重庆11月19日电 (梁钦卿)2026年渝港澳职业技能大赛19日在重庆工业博物馆开幕。132名来自重庆、香港、澳门和四川的选手和专家齐聚山城，围绕数字…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734598.shtml",
+      "publishedAt": "2026-11-19T06:05:59.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "topic": "科技"
+    },
+    {
+      "title": "吉林：发展智能网联汽车，支持迭代高阶自动驾驶技术",
+      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15350560.html",
+      "publishedAt": "2026-11-19T06:20:35.000Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "topic": "科技"
+    },
+    {
+      "title": "华为将发布首款超薄智能手表",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%85%AC%E4%BA%A4%E5%85%A8%E6%98%AF%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E5%98%89%E5%AE%BE%E5%BE%88%E9%9C%87%E6%92%BC&sa=fyb_news",
-      "publishedAt": "2026-11-18T06:48:22.287Z",
-      "fetchedAt": "2026-11-18T06:48:22.287Z",
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%B6%85%E8%96%84%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&sa=fyb_news",
+      "publishedAt": "2026-11-19T06:49:26.054Z",
+      "fetchedAt": "2026-11-19T06:49:26.054Z",
       "topic": "科技"
     }
   ]
