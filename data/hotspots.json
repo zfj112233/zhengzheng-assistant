@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:49:26.054Z",
+  "updatedAt": "2026-11-20T06:38:21.378Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
@@ -9,89 +9,89 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
       "publishedAt": "2026-11-19T00:54:55.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
       "topic": "社会"
     },
     {
-      "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
-      "summary": "本报拉萨11月15日讯(记者 旦增兰泽)近日，记者从“高原筑梦 益彩同行——西藏体彩2025年度社会责任报告”发布会获悉，2025年西藏体彩全年销售体育彩票…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
-      "publishedAt": "2026-11-18T01:51:59.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "title": "湖北职业技能大赛开幕 能工巧匠同台切磋技艺",
+      "summary": "中新网武汉11月20日电 (武一力 徐丹)湖北省第三届职业技能大赛20日在武汉开幕。本次赛事设置64个竞赛项目，从智能制造到养老服务，精准对接湖北重点产业需…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735175.shtml",
+      "publishedAt": "2026-11-20T05:44:13.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "topic": "科技"
+    },
+    {
+      "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
+      "summary": "中新网上海11月19日电 (记者 王笈)第七届长三角国际文化产业博览会19日在国家会展中心(上海)开幕，汇聚超1500家参展商、163场活动，各类文化消费场…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
+      "publishedAt": "2026-11-19T08:05:08.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "topic": "文化"
+    },
+    {
+      "title": "陕西省第八届大学生艺术展演活动现场展演启幕",
+      "summary": "中新网西安11月19日电 (记者 阿琳娜)陕西省第八届大学生艺术展演活动现场展演动员部署会18日在西北工业大学召开。本届展演共收到全省高校艺术表演类节目45…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734835.shtml",
+      "publishedAt": "2026-11-19T12:06:55.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
       "topic": "社会"
     },
     {
-      "title": "2026年海上丝绸之路国际文化旅游节将在福州举办",
-      "summary": "中新网福州11月18日电 (记者 闫旭)2026年海上丝绸之路国际文化旅游节将于11月28日至12月25日在福州举办。福建省人民政府18日举办新闻发布会，介…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734108.shtml",
-      "publishedAt": "2026-11-18T07:44:32.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
-      "topic": "文化"
-    },
-    {
-      "title": "2026年度“十大”科普热词发布：勾勒人类生活新未来",
-      "summary": "人工智能等新技术加速链接千行百业——",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734498.shtml",
-      "publishedAt": "2026-11-19T01:39:37.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
-      "topic": "科技"
-    },
-    {
-      "title": "孟京辉：在浪漫与科技间试探戏剧边界",
-      "summary": "中新网杭州11月19日电(林波 孙琳茹)“现在戏剧和以前不一样了。”11月18日至26日，2026第十五届杭州当代戏剧季在杭州举行。其间，戏剧导演孟京辉受访…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734596.shtml",
-      "publishedAt": "2026-11-19T06:08:44.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
-      "topic": "科技"
-    },
-    {
-      "title": "一群玩家把电影院看成了“电竞主场”",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BE%A4%E7%8E%A9%E5%AE%B6%E6%8A%8A%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9C%8B%E6%88%90%E4%BA%86%E2%80%9C%E7%94%B5%E7%AB%9E%E4%B8%BB%E5%9C%BA%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-11-19T06:49:26.054Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
-      "topic": "文化"
-    },
-    {
-      "title": "陆游：最早探索猫内心世界的诗人",
-      "summary": "如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪。这并不出人意料，毕竟互联网是属于猫的。人类对家猫的喜爱其实是一种相对较近的现象。在很多地方，猫曾被视为可疑…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85925",
-      "publishedAt": "2026-11-18T14:58:22.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026年渝港澳职业技能大赛在重庆开幕",
-      "summary": "中新社重庆11月19日电 (梁钦卿)2026年渝港澳职业技能大赛19日在重庆工业博物馆开幕。132名来自重庆、香港、澳门和四川的选手和专家齐聚山城，围绕数字…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734598.shtml",
-      "publishedAt": "2026-11-19T06:05:59.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
-      "topic": "科技"
-    },
-    {
-      "title": "吉林：发展智能网联汽车，支持迭代高阶自动驾驶技术",
-      "summary": "来自公开可信来源的最新资讯，点击可查看原文。",
+      "title": "联合国调查：全球电子政务水平提升但地区差距明显",
+      "summary": "联合国经济和社会事务部11月19日发布的2026年联合国电子政务调查结果显示，与2024年调查相比，全球电子政务整体水平有所提升，但地区差距仍然明显。调查显…",
       "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15350560.html",
-      "publishedAt": "2026-11-19T06:20:35.000Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "url": "https://www.jiemian.com/article/15354402.html",
+      "publishedAt": "2026-11-20T05:30:54.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "topic": "社会"
+    },
+    {
+      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+      "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85937",
+      "publishedAt": "2026-11-19T16:34:10.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
       "topic": "科技"
     },
     {
-      "title": "华为将发布首款超薄智能手表",
+      "title": "Meta推出全新掌上AI设备 售价2000元",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%B6%85%E8%96%84%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&sa=fyb_news",
-      "publishedAt": "2026-11-19T06:49:26.054Z",
-      "fetchedAt": "2026-11-19T06:49:26.054Z",
+      "url": "https://m.baidu.com/s?word=Meta%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E6%8E%8C%E4%B8%8AAI%E8%AE%BE%E5%A4%87+%E5%94%AE%E4%BB%B72000%E5%85%83&sa=fyb_news",
+      "publishedAt": "2026-11-20T06:38:21.378Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
       "topic": "科技"
+    },
+    {
+      "title": "APEC“全家福”围巾 大有门道",
+      "summary": "11月19日，亚太经合组织第三十三次领导人非正式会议在深圳国际交流中心举行。与会各经济体领导人及代表戴着浓郁中国特色的围巾，共同拍下一张宝贵的亚太大家庭“全…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
+      "publishedAt": "2026-11-20T05:38:45.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "topic": "公共新闻"
+    },
+    {
+      "title": "为何会无意识长时间看手机",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%97%A0%E6%84%8F%E8%AF%86%E9%95%BF%E6%97%B6%E9%97%B4%E7%9C%8B%E6%89%8B%E6%9C%BA&sa=fyb_news",
+      "publishedAt": "2026-11-20T06:38:21.378Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "topic": "科技"
+    },
+    {
+      "title": "WTT冠军赛将首次登陆上海",
+      "summary": "中新社上海11月19日电 据上海市体育局19日消息，世界乒乓球职业大联盟(WTT)当日宣布，2027WTT上海冠军赛将于2027年1月19日至24日落户上海…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734955.shtml",
+      "publishedAt": "2026-11-19T14:22:28.000Z",
+      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "topic": "文化"
     }
   ]
 }
