@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-20T06:38:21.378Z",
+  "updatedAt": "2026-11-21T06:31:00.718Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
-      "summary": "强势横扫、黑马逆袭、百炼成钢……如今，竞技体育赛事吸引了越来越多年轻人的目光。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)对1048名…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
-      "publishedAt": "2026-11-19T00:54:55.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "社会"
-    },
-    {
-      "title": "湖北职业技能大赛开幕 能工巧匠同台切磋技艺",
-      "summary": "中新网武汉11月20日电 (武一力 徐丹)湖北省第三届职业技能大赛20日在武汉开幕。本次赛事设置64个竞赛项目，从智能制造到养老服务，精准对接湖北重点产业需…",
+      "title": "第六届“齐白石”全国大学生中国画作品展开幕",
+      "summary": "中新网湘潭11月21日电 (唐亚慧)11月21日，“美兴·术道”第六届“齐白石”全国大学生中国画作品展在湖南科技大学齐白石艺术馆开幕。",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735175.shtml",
-      "publishedAt": "2026-11-20T05:44:13.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "科技"
-    },
-    {
-      "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
-      "summary": "中新网上海11月19日电 (记者 王笈)第七届长三角国际文化产业博览会19日在国家会展中心(上海)开幕，汇聚超1500家参展商、163场活动，各类文化消费场…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
-      "publishedAt": "2026-11-19T08:05:08.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "文化"
-    },
-    {
-      "title": "陕西省第八届大学生艺术展演活动现场展演启幕",
-      "summary": "中新网西安11月19日电 (记者 阿琳娜)陕西省第八届大学生艺术展演活动现场展演动员部署会18日在西北工业大学召开。本届展演共收到全省高校艺术表演类节目45…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734835.shtml",
-      "publishedAt": "2026-11-19T12:06:55.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735693.shtml",
+      "publishedAt": "2026-11-21T05:33:41.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
       "topic": "社会"
     },
     {
-      "title": "联合国调查：全球电子政务水平提升但地区差距明显",
-      "summary": "联合国经济和社会事务部11月19日发布的2026年联合国电子政务调查结果显示，与2024年调查相比，全球电子政务整体水平有所提升，但地区差距仍然明显。调查显…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15354402.html",
-      "publishedAt": "2026-11-20T05:30:54.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "社会"
-    },
-    {
-      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
-      "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI…",
+      "title": "无限滚动自动播放有害社会",
+      "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85937",
-      "publishedAt": "2026-11-19T16:34:10.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "科技"
+      "url": "https://www.solidot.org/story?sid=85946",
+      "publishedAt": "2026-11-20T10:50:51.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "社会"
     },
     {
-      "title": "Meta推出全新掌上AI设备 售价2000元",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=Meta%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E6%8E%8C%E4%B8%8AAI%E8%AE%BE%E5%A4%87+%E5%94%AE%E4%BB%B72000%E5%85%83&sa=fyb_news",
-      "publishedAt": "2026-11-20T06:38:21.378Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "科技"
+      "title": "“网络文明大讲堂·数字里的文化遗产” 专场活动在河南郑州举办",
+      "summary": "中新网郑州11月21日电 (记者 阚力)由中央精神文明建设办公室、中央网信办、教育部等部门组织发起的“网络文明大讲堂·数字里的文化遗产”专场活动20日下午在…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735637.shtml",
+      "publishedAt": "2026-11-21T01:30:25.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "社会"
     },
     {
-      "title": "APEC“全家福”围巾 大有门道",
-      "summary": "11月19日，亚太经合组织第三十三次领导人非正式会议在深圳国际交流中心举行。与会各经济体领导人及代表戴着浓郁中国特色的围巾，共同拍下一张宝贵的亚太大家庭“全…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
-      "publishedAt": "2026-11-20T05:38:45.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "公共新闻"
-    },
-    {
-      "title": "为何会无意识长时间看手机",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%97%A0%E6%84%8F%E8%AF%86%E9%95%BF%E6%97%B6%E9%97%B4%E7%9C%8B%E6%89%8B%E6%9C%BA&sa=fyb_news",
-      "publishedAt": "2026-11-20T06:38:21.378Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
-      "topic": "科技"
-    },
-    {
-      "title": "WTT冠军赛将首次登陆上海",
-      "summary": "中新社上海11月19日电 据上海市体育局19日消息，世界乒乓球职业大联盟(WTT)当日宣布，2027WTT上海冠军赛将于2027年1月19日至24日落户上海…",
+      "title": "西南边境高校留学生齐聚云南临沧 驰骋绿茵同场竞技",
+      "summary": "中新网昆明11月20日电 (记者 韩帅南)记者20日从滇西科技师范学院获悉，当日，第二届西南边境留学生足球联赛(简称“边超”)在中缅边境云南省临沧市开幕。来…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734955.shtml",
-      "publishedAt": "2026-11-19T14:22:28.000Z",
-      "fetchedAt": "2026-11-20T06:38:21.378Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735491.shtml",
+      "publishedAt": "2026-11-20T12:20:04.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "社会"
+    },
+    {
+      "title": "中国织密电池回收网络 千亿级“城市矿山”崛起",
+      "summary": "一块退役的新能源汽车动力电池，扔了是污染，回收了是富矿。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735679.shtml",
+      "publishedAt": "2026-11-21T04:50:32.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "科技"
+    },
+    {
+      "title": "Anthropic 的数论学家声称证明黎曼猜想",
+      "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 …",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85949",
+      "publishedAt": "2026-11-20T15:14:05.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "科技"
+    },
+    {
+      "title": "光影为媒回望历史 中国电影博物馆举办电影中的长征专题展",
+      "summary": "中新网北京11月20日电 (记者 徐婧)为纪念中国工农红军长征胜利90周年，由中国电影博物馆策划举办的“光影颂魂 征途永续——电影中的长征专题展”20日开幕…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735571.shtml",
+      "publishedAt": "2026-11-20T14:02:08.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
       "topic": "文化"
+    },
+    {
+      "title": "美国芯片股上次跌这么惨还是2001年",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E8%82%A1%E4%B8%8A%E6%AC%A1%E8%B7%8C%E8%BF%99%E4%B9%88%E6%83%A8%E8%BF%98%E6%98%AF2001%E5%B9%B4&sa=fyb_news",
+      "publishedAt": "2026-11-21T06:31:00.718Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "科技"
+    },
+    {
+      "title": "华为首款鸿蒙AI手机5699元被嫌贵",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E6%89%8B%E6%9C%BA5699%E5%85%83%E8%A2%AB%E5%AB%8C%E8%B4%B5&sa=fyb_news",
+      "publishedAt": "2026-11-21T06:31:00.718Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "科技"
+    },
+    {
+      "title": "福建省第十八届运动会在三明闭幕 厦门接棒下一届",
+      "summary": "中新网三明11月20日电 (雷朝良)福建省第十八届运动会20日在三明市闭幕。本届省运会以“如画三明绿动省运”为主题，践行“简约、低碳、精彩、安全”办赛理念。…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735425.shtml",
+      "publishedAt": "2026-11-20T10:57:24.000Z",
+      "fetchedAt": "2026-11-21T06:31:00.718Z",
+      "topic": "生活方式"
     }
   ]
 }
