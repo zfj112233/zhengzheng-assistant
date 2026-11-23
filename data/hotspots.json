@@ -1,42 +1,15 @@
 {
-  "updatedAt": "2026-11-22T05:58:53.080Z",
+  "updatedAt": "2026-11-23T06:51:29.051Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
-    {
-      "title": "多地秋假激发亲子文旅市场活力",
-      "summary": "央视新闻客户端消息(新闻联播)：眼下，全国多地中小学迎来秋假。各地依托秋日特色，将课堂延伸至田间地头与科技场馆，让秋假成为学生快乐成长的“行走课堂”，也为秋…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736014.shtml",
-      "publishedAt": "2026-11-22T04:49:53.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
-      "topic": "社会"
-    },
-    {
-      "title": "韩国高考AI作弊事件发酵，教育部长引咎辞职",
-      "summary": "当地时间11月22日，韩国教育部长官崔教振辞去职务，为韩国2027年度大学修学能力考试（韩国高考）期间防范高科技作弊措施不足引发混乱而承担责任。近期，韩国发…",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15358698.html",
-      "publishedAt": "2026-11-22T04:25:09.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
-      "topic": "社会"
-    },
     {
       "title": "别让AI魔改消费经典 技术创新更需守住敬畏之心",
       "summary": "中新网北京11月22日电(记者 刘越)近日，“红楼梦AI剧侵害17位演员肖像权”冲上热搜，事件持续发酵。当87版《红楼梦》的经典荧屏形象，被AI技术拆解重组…",
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735957.shtml",
       "publishedAt": "2026-11-22T02:22:09.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
-      "topic": "科技"
-    },
-    {
-      "title": "AI如何“牵手”历史经典产业？各界人士在杭州共话新可能",
-      "summary": "中新网杭州11月22日电(蓝伊旎)11月21日，人工智能赋能历史经典产业高质量发展活动在浙江杭州举办，专家学者与历史经典产业的企业代表齐聚一堂，共同探寻前沿…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736030.shtml",
-      "publishedAt": "2026-11-22T05:33:43.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
       "topic": "科技"
     },
     {
@@ -45,17 +18,35 @@
       "source": "中新网文化",
       "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735961.shtml",
       "publishedAt": "2026-11-22T02:18:25.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
       "topic": "社会"
     },
     {
-      "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
-      "summary": "位于美国佛罗里达州的 RansomwareHelp.com 向勒索软件受害者提供解密服务，它通过其官网督促受害者不要支付赎金，声称它的先进解密工具能将数据、…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85950",
-      "publishedAt": "2026-11-21T10:11:05.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
-      "topic": "科技"
+      "title": "国家数据局、教育部：成立新的委员会",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E5%B1%80%E3%80%81%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%88%90%E7%AB%8B%E6%96%B0%E7%9A%84%E5%A7%94%E5%91%98%E4%BC%9A&sa=fyb_news",
+      "publishedAt": "2026-11-23T06:51:29.051Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "topic": "社会"
+    },
+    {
+      "title": "浙江一项公益赛事，何以走过十六载？",
+      "summary": "中新网杭州11月23日电(林波)近日，2026年第十六届“国寿小画家”浙江省少年儿童书画艺术大赛颁奖盛典在浙江杭州钱塘江上举行。这场已走过16年的赛事把颁奖…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736410.shtml",
+      "publishedAt": "2026-11-23T06:13:10.000Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "topic": "社会"
+    },
+    {
+      "title": "陕西青少年击剑总决赛古城举行 600余名“小剑客”亮剑争锋",
+      "summary": "中新网西安11月22日电 (记者 张一辰)2026年陕西省青少年体育俱乐部击剑联赛总决赛21日在陕西省体育馆开赛。共有来自全省41家击剑俱乐部及学校共计65…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736033.shtml",
+      "publishedAt": "2026-11-22T05:39:49.000Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "topic": "社会"
     },
     {
       "title": "2026北京市中小学生篮球冠军赛收官 北京四中男子甲组夺冠",
@@ -63,35 +54,44 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-22/10735986.shtml",
       "publishedAt": "2026-11-22T02:43:16.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
       "topic": "社会"
     },
     {
-      "title": "中俄青少年选手齐聚中国北疆 以冰球为媒促交流",
-      "summary": "中新网北安11月21日电 (李香梅 周美慧)20日，由黑河市教育体育局主办，黑河市青少年业余体校、北安市体育事业发展中心承办的“冰超”“奔跑吧·少年”202…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735807.shtml",
-      "publishedAt": "2026-11-21T10:25:23.000Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
-      "topic": "社会"
-    },
-    {
-      "title": "丘成桐：AI证明黎曼猜想震动了全世界",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E4%B8%98%E6%88%90%E6%A1%90%EF%BC%9AAI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%9C%87%E5%8A%A8%E4%BA%86%E5%85%A8%E4%B8%96%E7%95%8C&sa=fyb_news",
-      "publishedAt": "2026-11-22T05:58:53.080Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
+      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85959",
+      "publishedAt": "2026-11-22T15:32:03.000Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
       "topic": "科技"
     },
     {
-      "title": "柯文哲力挺蒋万安：AI算过了 你会赢",
+      "title": "呼伦贝尔推动冬季文旅与绿色农畜产品对接粤港澳大湾区市场",
+      "summary": "中新网广州11月23日电 (记者 程景伟)“粤过山海 呼约雪原”2026呼伦贝尔冬季文旅与绿色农畜产品粤港澳大湾区推介会22日在广州举办。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736397.shtml",
+      "publishedAt": "2026-11-23T06:08:24.000Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "topic": "文化"
+    },
+    {
+      "title": "宇树科技大涨",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%9F%AF%E6%96%87%E5%93%B2%E5%8A%9B%E6%8C%BA%E8%92%8B%E4%B8%87%E5%AE%89%EF%BC%9AAI%E7%AE%97%E8%BF%87%E4%BA%86+%E4%BD%A0%E4%BC%9A%E8%B5%A2&sa=fyb_news",
-      "publishedAt": "2026-11-22T05:58:53.080Z",
-      "fetchedAt": "2026-11-22T05:58:53.080Z",
+      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A8&sa=fyb_news",
+      "publishedAt": "2026-11-23T06:51:29.051Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
       "topic": "科技"
+    },
+    {
+      "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+      "summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85958",
+      "publishedAt": "2026-11-22T12:01:39.000Z",
+      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "topic": "经济观察"
     }
   ]
 }
