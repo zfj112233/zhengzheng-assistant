@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-23T06:51:29.051Z",
+  "updatedAt": "2026-11-24T09:17:54.860Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "别让AI魔改消费经典 技术创新更需守住敬畏之心",
-      "summary": "中新网北京11月22日电(记者 刘越)近日，“红楼梦AI剧侵害17位演员肖像权”冲上热搜，事件持续发酵。当87版《红楼梦》的经典荧屏形象，被AI技术拆解重组…",
+      "title": "第四届MUST国际青年电影节在澳门开幕",
+      "summary": "中新网澳门11月23日电 (记者 郑嘉伟)“2026第四届MUST国际青年电影节暨金鸡澳门影展”23日在澳门科技大学(下称“澳科大”)开幕。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735957.shtml",
-      "publishedAt": "2026-11-22T02:22:09.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736693.shtml",
+      "publishedAt": "2026-11-23T13:57:37.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
       "topic": "科技"
     },
     {
-      "title": "全国大学生科技美术设计大赛作品展天津举行 近千件作品亮相",
-      "summary": "中新网天津11月22日电 (记者 周亚强)20日至22日，“超级变量”2026第四届全国大学生科技美术设计创新作品大赛作品展及系列活动在天津美术学院举行。近…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735961.shtml",
-      "publishedAt": "2026-11-22T02:18:25.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
-      "topic": "社会"
-    },
-    {
-      "title": "国家数据局、教育部：成立新的委员会",
+      "title": "好莱坞：电影没得拍 不如投AI",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E5%B1%80%E3%80%81%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%88%90%E7%AB%8B%E6%96%B0%E7%9A%84%E5%A7%94%E5%91%98%E4%BC%9A&sa=fyb_news",
-      "publishedAt": "2026-11-23T06:51:29.051Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
-      "topic": "社会"
-    },
-    {
-      "title": "浙江一项公益赛事，何以走过十六载？",
-      "summary": "中新网杭州11月23日电(林波)近日，2026年第十六届“国寿小画家”浙江省少年儿童书画艺术大赛颁奖盛典在浙江杭州钱塘江上举行。这场已走过16年的赛事把颁奖…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736410.shtml",
-      "publishedAt": "2026-11-23T06:13:10.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
-      "topic": "社会"
-    },
-    {
-      "title": "陕西青少年击剑总决赛古城举行 600余名“小剑客”亮剑争锋",
-      "summary": "中新网西安11月22日电 (记者 张一辰)2026年陕西省青少年体育俱乐部击剑联赛总决赛21日在陕西省体育馆开赛。共有来自全省41家击剑俱乐部及学校共计65…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736033.shtml",
-      "publishedAt": "2026-11-22T05:39:49.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
-      "topic": "社会"
-    },
-    {
-      "title": "2026北京市中小学生篮球冠军赛收官 北京四中男子甲组夺冠",
-      "summary": "中新网北京11月22日电 2026北京市中小学生篮球冠军赛男子组总决赛21日在北京大学生体育馆落幕，北京四中队获得男子甲组冠军。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10735986.shtml",
-      "publishedAt": "2026-11-22T02:43:16.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
-      "topic": "社会"
-    },
-    {
-      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
-      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85959",
-      "publishedAt": "2026-11-22T15:32:03.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "url": "https://m.baidu.com/s?word=%E5%A5%BD%E8%8E%B1%E5%9D%9E%EF%BC%9A%E7%94%B5%E5%BD%B1%E6%B2%A1%E5%BE%97%E6%8B%8D+%E4%B8%8D%E5%A6%82%E6%8A%95AI&sa=fyb_news",
+      "publishedAt": "2026-11-24T09:17:54.860Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
       "topic": "科技"
     },
     {
-      "title": "呼伦贝尔推动冬季文旅与绿色农畜产品对接粤港澳大湾区市场",
-      "summary": "中新网广州11月23日电 (记者 程景伟)“粤过山海 呼约雪原”2026呼伦贝尔冬季文旅与绿色农畜产品粤港澳大湾区推介会22日在广州举办。",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736397.shtml",
-      "publishedAt": "2026-11-23T06:08:24.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "title": "陕西实景演艺《赳赳大秦》获西娅奖 以舞台展现东方魅力",
+      "summary": "中新网西安11月23日电 (记者 党田野)记者23日从陕西文化产业投资控股(集团)有限公司(简称陕文投集团)获悉，全球主题娱乐协会(TEA)近日公布第33届…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736454.shtml",
+      "publishedAt": "2026-11-23T07:57:44.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
       "topic": "文化"
     },
     {
-      "title": "宇树科技大涨",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A8&sa=fyb_news",
-      "publishedAt": "2026-11-23T06:51:29.051Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
+      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "summary": "记者从市场监管总局今天(24日)举行的新闻发布会上了解到，我国正深度参与人工智能国际标准体系建设，目前已牵头研制29项基础共性国际标准，在国际标准化组织相关…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737068.shtml",
+      "publishedAt": "2026-11-24T09:05:44.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
       "topic": "科技"
     },
     {
-      "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
-      "summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致…",
+      "title": "2026年全国羽毛球传统学校比赛（高校组）在渝开赛",
+      "summary": "中新网重庆11月23日电 (记者 钟旖)2026年全国羽毛球传统学校比赛(高校组)23日在重庆开赛。",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736525.shtml",
+      "publishedAt": "2026-11-23T09:21:32.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "topic": "社会"
+    },
+    {
+      "title": "宁夏探索推动“妈祖”方案出海阿拉伯国家",
+      "summary": "中新网银川11月24日电 (记者 杨迪)记者24日从宁夏气象局获悉，近年来，宁夏探索推动中国气象智能预警方案“妈祖”(下称“妈祖”方案)出海，拓展面向阿拉伯…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736979.shtml",
+      "publishedAt": "2026-11-24T08:46:43.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "topic": "社会"
+    },
+    {
+      "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛收官",
+      "summary": "中新网青岛11月24日电 (王禹)2026/2027赛季全国花样滑冰青年锦标赛23日晚在位于青岛市崂山区的青岛国信冰上运动中心收官，本次赛事吸引来自全国26…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736778.shtml",
+      "publishedAt": "2026-11-24T01:49:46.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "topic": "文化"
+    },
+    {
+      "title": "Google 申请专利为用户量身定制 AI 电视频道",
+      "summary": "Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85958",
-      "publishedAt": "2026-11-22T12:01:39.000Z",
-      "fetchedAt": "2026-11-23T06:51:29.051Z",
-      "topic": "经济观察"
+      "url": "https://www.solidot.org/story?sid=85973",
+      "publishedAt": "2026-11-24T07:22:48.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "topic": "科技"
+    },
+    {
+      "title": "法院回应34米路绿灯12秒行人被撞亡",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%9434%E7%B1%B3%E8%B7%AF%E7%BB%BF%E7%81%AF12%E7%A7%92%E8%A1%8C%E4%BA%BA%E8%A2%AB%E6%92%9E%E4%BA%A1&sa=fyb_news",
+      "publishedAt": "2026-11-24T09:17:54.860Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "topic": "社会"
+    },
+    {
+      "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
+      "summary": "Android 安全加固发行版项目 。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 2…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=85968",
+      "publishedAt": "2026-11-23T13:58:15.000Z",
+      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "topic": "科技"
     }
   ]
 }
