@@ -1,70 +1,79 @@
 {
-  "updatedAt": "2026-11-24T09:17:54.860Z",
+  "updatedAt": "2026-11-25T07:52:14.316Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "第四届MUST国际青年电影节在澳门开幕",
-      "summary": "中新网澳门11月23日电 (记者 郑嘉伟)“2026第四届MUST国际青年电影节暨金鸡澳门影展”23日在澳门科技大学(下称“澳科大”)开幕。",
+      "title": "金鸡奖最佳儿童片《马兰花开的声音》首映礼举办",
+      "summary": "中新网北京11月24日电 (记者 高凯)第39届中国电影金鸡奖最佳儿童片《马兰花开的声音》日前在北京举行首映礼。",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736693.shtml",
-      "publishedAt": "2026-11-23T13:57:37.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737122.shtml",
+      "publishedAt": "2026-11-24T11:26:59.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "社会"
+    },
+    {
+      "title": "辽宁省医疗健康数据标注先行先试会召开 多项成果、合作集中亮相",
+      "summary": "中新网大连11月25日电 (记者 李晛)为加快推进医疗健康领域数据标注先行先试，辽宁省医疗健康领域数据标注先行先试工作会议暨医疗领域智改数转对接交流会11月…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737561.shtml",
+      "publishedAt": "2026-11-25T07:37:27.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "社会"
+    },
+    {
+      "title": "“为奥运喝彩”走进什刹海体校 共话体育文化传承",
+      "summary": "中新网北京11月25日电 11月24日，“为奥运喝彩”项目组一行走进北京市什刹海体育运动学校，通过座谈交流、场馆参观和武术互动等形式，深入了解学校体育项目发…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737395.shtml",
+      "publishedAt": "2026-11-25T03:30:56.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "社会"
+    },
+    {
+      "title": "一枚航天冰箱贴延伸电影《登月》的文化长尾",
+      "summary": "中新网广州11月24日电 题：",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737172.shtml",
+      "publishedAt": "2026-11-24T12:07:33.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
       "topic": "科技"
     },
     {
-      "title": "好莱坞：电影没得拍 不如投AI",
+      "title": "1800名冰雪少年绥化集结 黑龙江“冰超”赛事再添新军",
+      "summary": "中新网哈尔滨11月24日电 (记者 王妮娜)24日，记者从黑龙江省体育局获悉，“冰超”·2027年“奔跑吧·少年”全省青少年(学生)冰雪运动会暨“三省两区”…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737093.shtml",
+      "publishedAt": "2026-11-24T10:02:15.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "社会"
+    },
+    {
+      "title": "与时间赛跑，甘肃地震预警的“黄金几秒”",
+      "summary": "中新网兰州11月25日电 (戴文昌)初冬的陇原大地山河静好，从城市中枢到千里铁道，从乡村阡陌到校园学堂，从千年石窟到黄河枢纽……一张多层次、广覆盖的地震预警…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737545.shtml",
+      "publishedAt": "2026-11-25T07:33:31.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "社会"
+    },
+    {
+      "title": "小鹏VLA自适应减速功能计划于下月首批OTA推送",
+      "summary": "11月25日，小鹏集团宣布，小鹏图灵AI智驾计划于2027年第二季度向全球新购车用户提供订阅服务。作为图灵AI共驾首个落地功能，VLA自适应减速功能计划于2…",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15372533.html",
+      "publishedAt": "2026-11-25T07:20:53.000Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "科技"
+    },
+    {
+      "title": "云南普洱发生极端天气",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%A5%BD%E8%8E%B1%E5%9D%9E%EF%BC%9A%E7%94%B5%E5%BD%B1%E6%B2%A1%E5%BE%97%E6%8B%8D+%E4%B8%8D%E5%A6%82%E6%8A%95AI&sa=fyb_news",
-      "publishedAt": "2026-11-24T09:17:54.860Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "科技"
-    },
-    {
-      "title": "陕西实景演艺《赳赳大秦》获西娅奖 以舞台展现东方魅力",
-      "summary": "中新网西安11月23日电 (记者 党田野)记者23日从陕西文化产业投资控股(集团)有限公司(简称陕文投集团)获悉，全球主题娱乐协会(TEA)近日公布第33届…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736454.shtml",
-      "publishedAt": "2026-11-23T07:57:44.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "文化"
-    },
-    {
-      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "summary": "记者从市场监管总局今天(24日)举行的新闻发布会上了解到，我国正深度参与人工智能国际标准体系建设，目前已牵头研制29项基础共性国际标准，在国际标准化组织相关…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737068.shtml",
-      "publishedAt": "2026-11-24T09:05:44.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "科技"
-    },
-    {
-      "title": "2026年全国羽毛球传统学校比赛（高校组）在渝开赛",
-      "summary": "中新网重庆11月23日电 (记者 钟旖)2026年全国羽毛球传统学校比赛(高校组)23日在重庆开赛。",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736525.shtml",
-      "publishedAt": "2026-11-23T09:21:32.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "url": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B1%E5%8F%91%E7%94%9F%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94&sa=fyb_news",
+      "publishedAt": "2026-11-25T07:52:14.316Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
       "topic": "社会"
-    },
-    {
-      "title": "宁夏探索推动“妈祖”方案出海阿拉伯国家",
-      "summary": "中新网银川11月24日电 (记者 杨迪)记者24日从宁夏气象局获悉，近年来，宁夏探索推动中国气象智能预警方案“妈祖”(下称“妈祖”方案)出海，拓展面向阿拉伯…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736979.shtml",
-      "publishedAt": "2026-11-24T08:46:43.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "社会"
-    },
-    {
-      "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛收官",
-      "summary": "中新网青岛11月24日电 (王禹)2026/2027赛季全国花样滑冰青年锦标赛23日晚在位于青岛市崂山区的青岛国信冰上运动中心收官，本次赛事吸引来自全国26…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736778.shtml",
-      "publishedAt": "2026-11-24T01:49:46.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "文化"
     },
     {
       "title": "Google 申请专利为用户量身定制 AI 电视频道",
@@ -72,26 +81,17 @@
       "source": "Solidot科技",
       "url": "https://www.solidot.org/story?sid=85973",
       "publishedAt": "2026-11-24T07:22:48.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
       "topic": "科技"
     },
     {
-      "title": "法院回应34米路绿灯12秒行人被撞亡",
+      "title": "小区健身器材才是真宝藏",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%9434%E7%B1%B3%E8%B7%AF%E7%BB%BF%E7%81%AF12%E7%A7%92%E8%A1%8C%E4%BA%BA%E8%A2%AB%E6%92%9E%E4%BA%A1&sa=fyb_news",
-      "publishedAt": "2026-11-24T09:17:54.860Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "社会"
-    },
-    {
-      "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
-      "summary": "Android 安全加固发行版项目 。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 2…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85968",
-      "publishedAt": "2026-11-23T13:58:15.000Z",
-      "fetchedAt": "2026-11-24T09:17:54.860Z",
-      "topic": "科技"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E5%81%A5%E8%BA%AB%E5%99%A8%E6%9D%90%E6%89%8D%E6%98%AF%E7%9C%9F%E5%AE%9D%E8%97%8F&sa=fyb_news",
+      "publishedAt": "2026-11-25T07:52:14.316Z",
+      "fetchedAt": "2026-11-25T07:52:14.316Z",
+      "topic": "生活方式"
     }
   ]
 }
