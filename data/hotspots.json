@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2026-11-26T07:42:47.866Z",
+  "updatedAt": "2026-11-27T07:42:10.439Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "18家重点平台企业已完成算法协商 覆盖新就业形态劳动者逾2500万人",
-      "summary": "中新网北京11月26日电 (记者 余湛奕)全国总工会新闻中心26日在京召开2026年第四季度新闻发布会。记者从会上获悉，截至11月10日，网络货运、网约车、…",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738085.shtml",
-      "publishedAt": "2026-11-26T07:09:20.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "社会"
-    },
-    {
-      "title": "“纸质短剧”绝不能成为监管的漏网之鱼",
-      "summary": "最近，“纸质短剧”在中小学生群体中走红。校门口的小卖部里，它是便宜、时尚的商品；折起来是巴掌大小，封面仿着手机形状；拉开是半米多长的一条纸，一页一个巴掌，两…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10737895.shtml",
-      "publishedAt": "2026-11-26T01:15:09.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "社会"
-    },
-    {
-      "title": "“为奥运喝彩”走进什刹海体校 共话体育文化传承",
-      "summary": "中新网北京11月25日电 11月24日，“为奥运喝彩”项目组一行走进北京市什刹海体育运动学校，通过座谈交流、场馆参观和武术互动等形式，深入了解学校体育项目发…",
-      "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737395.shtml",
-      "publishedAt": "2026-11-25T03:30:56.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "社会"
-    },
-    {
-      "title": "在地扎根，短剧出海掀起全球热度",
-      "summary": "近日，在马德里的公交车上、莫斯科的地铁里、米兰的车站中，不少海外乘客低头刷着手机，屏幕里播放的正是来自中国的微短剧。这一幕幕画面，被不少中国网友记录下来，发…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737324.shtml",
-      "publishedAt": "2026-11-25T01:20:33.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "科技"
-    },
-    {
-      "title": "日本政府开发智能体打击盗版动漫",
-      "summary": "日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI …",
+      "title": "地球连续六天气温比工业化前水平高 2C",
+      "summary": "根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85988",
-      "publishedAt": "2026-11-25T09:49:29.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "科技"
+      "url": "https://www.solidot.org/story?sid=86001",
+      "publishedAt": "2026-11-26T14:06:07.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "社会"
     },
     {
-      "title": "换脸视频 高仿真语音 批量外呼 AI造假何以“眼见为虚”？",
-      "summary": "近日，某知名演员发现，被“克隆”的自己竟在别人的直播间里卖货骗钱。AI“虚拟活人”骗局不仅损害当事人声誉，更把不少普通人的钱财席卷一空。北京晚报记者了解到，…",
+      "title": "中国天文学家领衔“集体称重”136个近邻星系 系统测量暗物质分布",
+      "summary": "中新网北京11月27日电 (记者 孙自法 郑莹莹)由中国天文学家领衔的科研团队，最近综合利用国际积分视场光谱仪(IFS)巡天提供的恒星运动数据以及“中国天眼…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738098.shtml",
-      "publishedAt": "2026-11-26T07:16:27.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738727.shtml",
+      "publishedAt": "2026-11-27T07:30:00.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
       "topic": "科技"
     },
     {
-      "title": "福建第十二届老健会三明开幕 银发体育盛会创历届之最",
-      "summary": "中新网三明11月25日电 (雷朝良)福建省第十二届老年人体育健身大会24日在三明市开幕。本届大会以“欢乐老健会幸福新时代”为主题，坚持与省运会“同标同向、同…",
+      "title": "想运动却迈不开腿怎么办 校园体育如何“圈粉”年轻人",
+      "summary": "受访者所在学校采取了哪些促进学生运动的措施",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737428.shtml",
-      "publishedAt": "2026-11-25T03:34:06.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738483.shtml",
+      "publishedAt": "2026-11-26T23:31:04.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "社会"
+    },
+    {
+      "title": "中国香港墙球代表队祝捷大会在港举办 庆祝于国际赛事连创佳绩",
+      "summary": "中新网香港11月27日电 “中国香港墙球代表队凯旋回归 为港争光”祝捷大会日前在香港举行，香港特区政府官员和香港体育界、教育界的逾150位嘉宾齐聚现场，为中…",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738710.shtml",
+      "publishedAt": "2026-11-27T07:07:23.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "社会"
+    },
+    {
+      "title": "逾30家海内外艺廊携众多展品亮相鹏城",
+      "summary": "中新网深圳11月26日电 (记者 王坚)为期4天的典亚艺博·深圳2026于26日在深圳市当代艺术与城市规划馆拉开帷幕。展览现场，逾30家来自中国、英国、法国…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738190.shtml",
+      "publishedAt": "2026-11-26T08:44:50.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
       "topic": "文化"
     },
     {
-      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
-      "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知…",
+      "title": "FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星",
+      "summary": "FCC 批准了 SpaceX 发射 100 万颗轨道数据中心卫星 Starmind 的申请。SpaceX 发射申请遭到了亚马逊、Viasat、美国天文学会等…",
       "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85992",
-      "publishedAt": "2026-11-25T15:26:31.000Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
+      "url": "https://www.solidot.org/story?sid=85998",
+      "publishedAt": "2026-11-26T08:31:47.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
       "topic": "科技"
     },
     {
-      "title": "外国老哥装傻把AI逼到黑化",
-      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
-      "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E8%80%81%E5%93%A5%E8%A3%85%E5%82%BB%E6%8A%8AAI%E9%80%BC%E5%88%B0%E9%BB%91%E5%8C%96&sa=fyb_news",
-      "publishedAt": "2026-11-26T07:42:47.866Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "科技"
+      "title": "从班级舞台到市级剧场 北京学生艺术节收官",
+      "summary": "中新网北京11月26日电 (记者 陈杭)26日，北京市第二十九届学生艺术节市级优秀节目展示活动在北京市东城区少年宫剧场举办。活动以“寻美，闪闪发光的我”为主…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738415.shtml",
+      "publishedAt": "2026-11-26T13:21:03.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "社会"
     },
     {
-      "title": "“开放是深圳与生俱来的基因”",
+      "title": "50天倒计时：吉林省以多元传播讲好长春大冬会故事",
+      "summary": "中新网长春11月26日电 (李彦国 高龙安 李思宇)26日，距离长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)开幕还剩50天，吉林省正式启动…",
+      "source": "中新网体育",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738083.shtml",
+      "publishedAt": "2026-11-26T07:07:50.000Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "社会"
+    },
+    {
+      "title": "许多年轻人为何开始“重新养父母”",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%80%E6%94%BE%E6%98%AF%E6%B7%B1%E5%9C%B3%E4%B8%8E%E7%94%9F%E4%BF%B1%E6%9D%A5%E7%9A%84%E5%9F%BA%E5%9B%A0%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-11-26T07:42:47.866Z",
-      "fetchedAt": "2026-11-26T07:42:47.866Z",
-      "topic": "综合"
+      "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E2%80%9C%E9%87%8D%E6%96%B0%E5%85%BB%E7%88%B6%E6%AF%8D%E2%80%9D&sa=fyb_news",
+      "publishedAt": "2026-11-27T07:42:10.439Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "生活方式"
+    },
+    {
+      "title": "创业板指大涨超11% 科创50涨超15%",
+      "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
+      "source": "百度热榜",
+      "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%A4%A7%E6%B6%A8%E8%B6%8511%25+%E7%A7%91%E5%88%9B50%E6%B6%A8%E8%B6%8515%25&sa=fyb_news",
+      "publishedAt": "2026-11-27T07:42:10.439Z",
+      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "topic": "经济观察"
     }
   ]
 }
