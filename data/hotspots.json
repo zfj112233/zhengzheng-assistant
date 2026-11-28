@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-27T07:42:10.439Z",
+  "updatedAt": "2026-11-28T07:09:53.838Z",
   "timezone": "Asia/Shanghai",
   "criteria": "Mainland-accessible Chinese news and hot-rank sources; ads, login pages, downloads, obvious clickbait, duplicates and stale items filtered.",
   "items": [
     {
-      "title": "地球连续六天气温比工业化前水平高 2C",
-      "summary": "根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=86001",
-      "publishedAt": "2026-11-26T14:06:07.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
-      "topic": "社会"
+      "title": "“天工开物城市文旅联盟”在江西新余正式发起",
+      "summary": "中新网新余11月27日电 (王剑)动画电影《天工开物》发布会暨天工开物城市文旅联盟发起大会27日在江西省新余市举办。大会现场，新余联合上海徐汇，江苏苏州、江…",
+      "source": "中新网文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739033.shtml",
+      "publishedAt": "2026-11-27T13:36:56.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
+      "topic": "文化"
     },
     {
-      "title": "中国天文学家领衔“集体称重”136个近邻星系 系统测量暗物质分布",
-      "summary": "中新网北京11月27日电 (记者 孙自法 郑莹莹)由中国天文学家领衔的科研团队，最近综合利用国际积分视场光谱仪(IFS)巡天提供的恒星运动数据以及“中国天眼…",
+      "title": "2026成都国际大健康消费博览会举行 川企携地方物产寻商机",
+      "summary": "中新网成都11月28日电(单鹏)由四川国际商会等主办的2026年成都国际大健康消费博览会27日至29日在成都举行。本次活动以“科技赋能健康，消费助推产业”为…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738727.shtml",
-      "publishedAt": "2026-11-27T07:30:00.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739184.shtml",
+      "publishedAt": "2026-11-28T04:50:40.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
       "topic": "科技"
     },
     {
@@ -27,71 +27,71 @@
       "source": "中新网体育",
       "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738483.shtml",
       "publishedAt": "2026-11-26T23:31:04.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
       "topic": "社会"
     },
     {
-      "title": "中国香港墙球代表队祝捷大会在港举办 庆祝于国际赛事连创佳绩",
-      "summary": "中新网香港11月27日电 “中国香港墙球代表队凯旋回归 为港争光”祝捷大会日前在香港举行，香港特区政府官员和香港体育界、教育界的逾150位嘉宾齐聚现场，为中…",
+      "title": "中外专家学者相聚孔子故里 共话AI时代如何安顿人心",
+      "summary": "中新网山东曲阜11月28日电(周艺伟)第十一届心理分析与中国文化国际学术论坛主场会议27日在山东济宁曲阜市开幕。来自中国、瑞士、英国、美国、意大利、荷兰等2…",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738710.shtml",
-      "publishedAt": "2026-11-27T07:07:23.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
-      "topic": "社会"
-    },
-    {
-      "title": "逾30家海内外艺廊携众多展品亮相鹏城",
-      "summary": "中新网深圳11月26日电 (记者 王坚)为期4天的典亚艺博·深圳2026于26日在深圳市当代艺术与城市规划馆拉开帷幕。展览现场，逾30家来自中国、英国、法国…",
-      "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738190.shtml",
-      "publishedAt": "2026-11-26T08:44:50.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
-      "topic": "文化"
-    },
-    {
-      "title": "FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星",
-      "summary": "FCC 批准了 SpaceX 发射 100 万颗轨道数据中心卫星 Starmind 的申请。SpaceX 发射申请遭到了亚马逊、Viasat、美国天文学会等…",
-      "source": "Solidot科技",
-      "url": "https://www.solidot.org/story?sid=85998",
-      "publishedAt": "2026-11-26T08:31:47.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739185.shtml",
+      "publishedAt": "2026-11-28T04:51:56.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
       "topic": "科技"
     },
     {
-      "title": "从班级舞台到市级剧场 北京学生艺术节收官",
-      "summary": "中新网北京11月26日电 (记者 陈杭)26日，北京市第二十九届学生艺术节市级优秀节目展示活动在北京市东城区少年宫剧场举办。活动以“寻美，闪闪发光的我”为主…",
+      "title": "数字艺术沉浸体验展亮相深圳 探索疗愈文旅新生态",
+      "summary": "中新网深圳11月27日电 数字艺术疗愈主题展览“情绪宇宙·多觉工场”27日亮相第八届疗愈博览会(深圳)。该展以数字艺术为媒介，集中呈现10件数字艺术新作，将…",
       "source": "中新网文化",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738415.shtml",
-      "publishedAt": "2026-11-26T13:21:03.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
-      "topic": "社会"
+      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738970.shtml",
+      "publishedAt": "2026-11-27T11:54:22.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
+      "topic": "科技"
     },
     {
-      "title": "50天倒计时：吉林省以多元传播讲好长春大冬会故事",
-      "summary": "中新网长春11月26日电 (李彦国 高龙安 李思宇)26日，距离长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)开幕还剩50天，吉林省正式启动…",
+      "title": "电影《魔法秘境》总票房破1000万",
+      "summary": "据猫眼专业版数据，电影《魔法秘境》上映2天，总票房破1000万。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15386029.html",
+      "publishedAt": "2026-11-28T05:51:22.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
+      "topic": "科技"
+    },
+    {
+      "title": "2026成渝体育产业联盟活动启幕 推动两地体旅协同高质量发展",
+      "summary": "中新网重庆11月27日电 (记者 肖江川)27日，2026成渝体育产业联盟暨第十届重庆市体育旅游产业发展大会在“西部低空之城”重庆梁平举行。大会以“动感巴渝…",
       "source": "中新网体育",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738083.shtml",
-      "publishedAt": "2026-11-26T07:07:50.000Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738971.shtml",
+      "publishedAt": "2026-11-27T11:55:22.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
+      "topic": "文化"
+    },
+    {
+      "title": "一人户二人户占全国家庭构成的近六成",
+      "summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展…",
+      "source": "Solidot科技",
+      "url": "https://www.solidot.org/story?sid=86011",
+      "publishedAt": "2026-11-27T09:54:31.000Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
       "topic": "社会"
     },
     {
-      "title": "许多年轻人为何开始“重新养父母”",
+      "title": "我的脸被AI融走了 谁之责",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E2%80%9C%E9%87%8D%E6%96%B0%E5%85%BB%E7%88%B6%E6%AF%8D%E2%80%9D&sa=fyb_news",
-      "publishedAt": "2026-11-27T07:42:10.439Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
-      "topic": "生活方式"
+      "url": "https://m.baidu.com/s?word=%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%ABAI%E8%9E%8D%E8%B5%B0%E4%BA%86+%E8%B0%81%E4%B9%8B%E8%B4%A3&sa=fyb_news",
+      "publishedAt": "2026-11-28T07:09:53.838Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
+      "topic": "科技"
     },
     {
-      "title": "创业板指大涨超11% 科创50涨超15%",
+      "title": "年仅38岁！WWE巨星医疗并发症去世",
       "summary": "百度热榜话题，点击查看实时讨论与最新报道：",
       "source": "百度热榜",
-      "url": "https://m.baidu.com/s?word=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%A4%A7%E6%B6%A8%E8%B6%8511%25+%E7%A7%91%E5%88%9B50%E6%B6%A8%E8%B6%8515%25&sa=fyb_news",
-      "publishedAt": "2026-11-27T07:42:10.439Z",
-      "fetchedAt": "2026-11-27T07:42:10.439Z",
-      "topic": "经济观察"
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BB%8538%E5%B2%81%EF%BC%81WWE%E5%B7%A8%E6%98%9F%E5%8C%BB%E7%96%97%E5%B9%B6%E5%8F%91%E7%97%87%E5%8E%BB%E4%B8%96&sa=fyb_news",
+      "publishedAt": "2026-11-28T07:09:53.838Z",
+      "fetchedAt": "2026-11-28T07:09:53.838Z",
+      "topic": "社会"
     }
   ]
 }
